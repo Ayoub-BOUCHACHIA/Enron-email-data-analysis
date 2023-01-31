@@ -1,0 +1,6577 @@
+,id_person,name_person,mean_of_interlocutors
+0,0,,1.83
+1,1,  john warner,1.0
+2,2, bert stipelcovich,2.0
+3,3, dasovich enron jeff sf,0.25
+4,4, dave miller,1.0
+5,5, jon lewis paul,0.62
+6,6, katz randy,1.0
+7,7, mary vasquez,1.0
+8,8,2d615890-65373f13-86256660-73818d@enron.com,1.0
+9,9,35c8e1ed-e94847b3-8625654c-6c91b8@enron.com,1.0
+10,10,6f4b8768-8c722ce7-86256887-735eaa@enron.com,1.0
+11,11,a adams aguayo allen anderson ann bell bianca bob bowen brewer cason celeste cisneros diane dianne fischer garcia hundl hunter janie jason jean joe jorge julie kim kimberly kimberly larry laurel melinda melissa melissa murphy ornelas piwetz rodriguez s seib sharen stephanie theriot tiffany whalen william williams,0.4
+12,12,a adams aguayo allen anderson ann bell bianca bob bowen brewer cason celeste cisneros diane dianne fischer garcia hundl hunter janie jason jean joe jorge julie kim kimberly kimberly larry laurel melinda melissa melissa murphy ornelas piwetz rodriguez s seib sharen stephanie theriot whalen william,1.0
+13,13,a ajello james,1.45
+14,14,a allen eric gillaspie hooser lauri van,1.0
+15,15,a allen lauri,0.33
+16,16,a allen thresa,0.14
+17,17,a angela brown,1.0
+18,18,a austin jeffrey,2.0
+19,19,a barbara hueter,0.31
+20,20,a bennick kimberlee,0.35
+21,21,a beth ryan,0.18
+22,22,a bibi philippe,1.23
+23,23,a bowen melba,0.14
+24,24,a brent price,1.66
+25,25,a brown matt,0.75
+26,26,a campos sylvia,0.91
+27,27,a carrie robert,1.0
+28,28,a casas joe,0.27
+29,29,a charles fishkin,0.08
+30,30,a charles moore,1.0
+31,31,a charles taylor,0.09
+32,32,a chris smith,0.6
+33,33,a christopher helfrich,2.0
+34,34,a cordova karen,0.06
+35,35,a cote john,0.07
+36,36,a craig,2.0
+37,37,a craig fox,0.1
+38,38,a crook jeff,1.67
+39,39,a daniels eddy lammers richard,1.0
+40,40,a darlene norris,2.0
+41,41,a david terlip,0.04
+42,42,a david wall,0.22
+43,43,a davis sarah,0.07
+44,44,a deberry jeremiah,4.0
+45,45,a erin rice,4.0
+46,46,a g gelotti,1.0
+47,47,a garcia jorge,0.51
+48,48,a gary hanks,0.47
+49,49,a gomez julie,0.66
+50,50,a gregory mausser,0.29
+51,51,a hatton john,1.0
+52,52,a holmes sean,0.07
+53,53,a hope valeria,0.18
+54,54,a howard kevin,8.23
+55,55,a hudler shirley,1.67
+56,56,a hughes james,0.75
+57,57,a j linda michael noske robison,1.0
+58,58,a jeffrey shankman,16.09
+59,59,a jeffrey soo,9.0
+60,60,a jessica wentworth,3.0
+61,61,a kathryn sanchez,4.0
+62,62,a knudsen sheila,0.2
+63,63,a krenzer mark,3.0
+64,64,a laine powell,2.58
+65,65,a lammers richard,4.08
+66,66,a lee patricia,0.1
+67,67,a lindholm tod,0.33
+68,68,a linton marcia,0.35
+69,69,a m parry robert,1.0
+70,70,a marcy youngerman,0.5
+71,71,a mark palmer,2.42
+72,72,a mark taylor,0.25
+73,73,a martin thomas,3.26
+74,74,a matheson,1.0
+75,75,a michael robison,0.27
+76,76,a mike roberts,2.04
+77,77,a monson scott,0.27
+78,78,a natalie nichols,0.67
+79,79,a richard,1.0
+80,80,a robert,0.29
+81,81,aahmad,2.0
+82,82,aamodt david,0.13
+83,83,aarati sivasubramanian,1.0
+84,84,aaron,1.0
+85,85,aaron armstrong,0.14
+86,86,aaron berutti,2.0
+87,87,aaron brown,0.24
+88,88,aaron martinsen,0.38
+89,89,aaron slater,2.0
+90,90,aarti g,1.0
+91,91,abbanat stephen,0.17
+92,92,abdmoulaie mansoor,1.0
+93,93,abel chris,1.01
+94,94,abhijeet naik,1.0
+95,95,abigail taylor,0.26
+96,96,abler william,0.18
+97,97,abraham anjali,1.0
+98,98,abraham bonnie,2.0
+99,99,abrahams harvey,1.0
+100,100,abramo caroline,0.98
+101,101,abramowicz richard,2.0
+102,102,abrams clement,0.6
+103,103,abshire scott,0.22
+104,104,abu bundu,1.0
+105,105,ace roman,2.0
+106,106,acevedo felecia,0.17
+107,107,acevedo pablo,0.3
+108,108,acevedo rudy,0.2
+109,109,ackley earlene,0.31
+110,110,acomnes,1.0
+111,111,acosta yvonne,2.73
+112,112,acton tom,1.07
+113,113,acuff frank,1.0
+114,114,acurles,2.0
+115,115,adam bayer,0.53
+116,116,adam bayer ryan,1.0
+117,117,adam brulinski,4.0
+118,118,adam cooper n,1.0
+119,119,adam don,0.2
+120,120,adam giannone,5.0
+121,121,adam gross,0.05
+122,122,adam johnson,0.61
+123,123,adam overfield,0.4
+124,124,adam senn,1.0
+125,125,adam umanoff,0.31
+126,126,adamek gaby,1.0
+127,127,adamik darren p,0.5
+128,128,adams cindy,0.06
+129,129,adams erica,1.0
+130,130,adams frankie,1.0
+131,131,adams gregory,0.03
+132,132,adams jacqueline p,0.24
+133,133,adams jean,0.31
+134,134,adams jennifer,1.0
+135,135,adams laurel,1.1
+136,136,adams matthew,0.1
+137,137,adams rachael,0.32
+138,138,adams rachel v,1.0
+139,139,adams scott,1.29
+140,140,adams suzanne,6.52
+141,141,addison john,1.0
+142,142,adel rizkalla,2.0
+143,143,adel robinson,1.0
+144,144,aden alan angela barreda bass benevides beverly bill blachman black botello brenda buchanan calger carol cathy chris christina christopher cisneros comnes corbin craig d d dan debora deltoro denne dennis dernehl dodgen don dorothy douglas dupre edward eggleston eric erika etringer evan f foster fran frank g gayle ginger gordon gustafson h h harold harry hartsoe hewitt hughes hughes huth iris james james james jeff jeremy jess joe karen kathy kathy ken kevin kingerski leasa leff leticia lewis liscano lopez m mann mark marsha marty melvin meredith messina michael michael michelle moffett muench muller s sacks savage schwarz steffes suggs sunde sutter vickers votaw w w w waser whitehead wright youngblood,6.25
+145,145,aden alan angela barreda bass benevides beverly bill blachman black botello brenda buchanan carol cathy chris christina cisneros comnes corbin craig d d dan debora deltoro denne dennis dernehl dodgen don dorothy douglas dupre edward eggleston eric erika etringer evan foster fran g gayle ginger gordon gustafson h h harold harry hartsoe hewitt hughes hughes huth iris james james james jeff jeremy jess joe karen kathy kathy ken kevin kingerski leasa leff leticia lewis liscano lopez m mann mark marsha marty melvin meredith messina michael michael michelle moffett muench muller s sacks savage schwarz steffes suggs sunde sutter votaw w w waser whitehead wright youngblood,5.61
+146,146,aden angela barreda bass benevides beverly bill blachman black botello brenda buchanan carol cathy chris christina cisneros comnes corbin craig d d dan debora deltoro denne dennis dernehl dodgen don dorothy douglas dupre edward eggleston eric erika etringer evan foster fran g gayle ginger gordon gustafson h h harold harry hartsoe hewitt hughes hughes huth iris james james james jeff jeremy jess joe karen kathy kathy ken kevin kingerski leasa leff leticia lewis liscano lopez m mann mark marsha marty melvin meredith messina michael michael michelle moffett muench muller s sacks savage schwarz steffes suggs sunde sutter votaw w w waser whitehead wright youngblood,1.0
+147,147,aden beverly,3.07
+148,148,ader jeff,0.24
+149,149,ader jeffery,1.78
+150,150,adlong shannon,0.21
+151,151,admin corp notes,2.0
+152,152,admin enron notes,2.0
+153,153,administration enron messaging,0.2
+154,154,administration european notes,1.0
+155,155,adnan amber anthony bailey bernice bill boyd brackett bradford brant brent bruce campbell campos carol carrie cheryl cheryl clair colbert conwell cook d darren davis debbie diamond diane e ebow edward ellstrom espinoza francisco frank frank georgi hare hendry jason johnson johnson l landau lebrocq lees leite lesli leslie lisa lynn marilyn mark mary mechelle mendoza moore moran nelson ngo nidia panus patel paul pinto r radous reeves reves richardson robert rodriguez rohauer rudwell russell s sacks samantha samuel sara sayre schott sever shackleton shivers southard st stacey stephanie stephanie stevens susan tanya taylor tom tracy vanek veronica wendi wendy,1.0
+156,156,adnan amber anthony bailey bernice bill brackett bradford brant brent campbell campos carrie cheryl cheryl colbert conwell cook d darren davis debbie diamond diane e ebow edward ellstrom espinoza francisco frank frank georgi hare hendry jason johnson johnson l landau lebrocq lees leite lesli leslie lisa lynn marilyn mark mary mechelle mendoza moore moran nelson ngo nidia panus patel paul pinto r radous reeves reves richardson rodriguez rohauer rudwell russell s sacks samuel sara sayre schott sever shackleton shivers southard stacey stephanie stephanie stevens susan tanya taylor tom tracy vanek veronica wendi wendy,1.0
+157,157,adnan amber anthony bernice bill brackett bradford brant campbell campos carrie cheryl colbert conwell crawford d darren davies davis debbie derek diamond diane e ebow edward ellstrom eric espinoza frank georgi hare howard jason johnson johnson keohane l landau lebrocq ledain lees lesli leslie linda lisa lynn marilyn mechelle mendoza moore moran ngo nidia patel paul peter r radous reeves reves richardson rodriguez rohauer rudwell russell s sacks samuel sangwine schott sever sharon shivers sietzema southard stacey stephanie stevens tanya tom tracy vanek veronica wendi wendy,1.0
+158,158,adnan patel,0.23
+159,159,adrial boals,2.0
+160,160,adrian woolcock,1.0
+161,161,adriana domingues,2.0
+162,162,adriana wynn,5.0
+163,163,adriane,1.0
+164,164,adriane schultea,0.3
+165,165,adrianne engler,1.17
+166,166,advisory council,1.0
+167,167,adzgery ronald,1.0
+168,168,aeria russell,1.0
+169,169,affairs enron public,1.0
+170,170,affairs houston public,1.0
+171,171,affairs public,1.5
+172,172,affelt scott,0.38
+173,173,aga rehman,2.0
+174,174,aganon rommel,1.0
+175,175,agarwalla dipak,0.27
+176,176,agatha tran,1.71
+177,177,agdesteen orjan,1.0
+178,178,aggar brenda,2.0
+179,179,agnew kate,1.0
+180,180,agnihotri sharad,2.0
+181,181,agreer,2.0
+182,182,aguayo janie,0.3
+183,183,aguilar christa,2.0
+184,184,aguilar gabriela,0.14
+185,185,aguilera,1.04
+186,186,agustin,2.0
+187,187,agustin perez,0.25
+188,188,ahad farhad,2.0
+189,189,ahanchian amir,1.0
+190,190,ahmad anjam,0.62
+191,191,ahmed naveed,0.2
+192,192,ahn chris,1.0
+193,193,aiken bradley,4.0
+194,194,aimee girl,1.0
+195,195,aimee lannou,2.03
+196,196,airam arteaga,2.41
+197,197,akers michelle,0.21
+198,198,akiko higaki,2.0
+199,199,akin lysa,0.83
+200,200,al,2.0
+201,201,al alexanderson,0.24
+202,202,al miralles,1.0
+203,203,al pollard,0.35
+204,204,al vandarwarka,1.0
+205,205,alain diza,0.1
+206,206,alamo d govenar j james joseph kaufman mara paul richard scott shapiro steffes susan,1.0
+207,207,alamo j joseph mara susan,1.0
+208,208,alamo joseph,2.89
+209,209,alan,1.67
+210,210,alan allen black britt c calger chris christian christopher claudio comnes d dana dasovich davis don doug f fletcher gaskill gilbert grigsby hall heizenrader herndon holman j j j james james jeff k kaminski kean kelly kevin lewis lloyd m mark mark mike mike milnthorp phillip presto ribeiro richard rob rogers scott shapiro steffes steve steven sturm swerzbin tawney tholan tim vince w whitman will yoder,1.0
+211,211,alan aronowitz,4.73
+212,212,alan aronowitz b,0.68
+213,213,alan black,1.0
+214,214,alan briggs comnes d denne govenar hartsoe j james joe karen linda mara mccubbin richard robertson sandra scott shapiro steffes susan tom,1.0
+215,215,alan chen,0.14
+216,216,alan comnes,4.89
+217,217,alan comnes d denne govenar guerrero james janel karen kaufman mccubbin paul richard sandra scott shapiro steffes,1.0
+218,218,alan comnes d james kaufman paul richard shapiro steffes,1.0
+219,219,alan engberg,0.22
+220,220,alan larsen,4.21
+221,221,alatorre carlos,0.54
+222,222,alatorre jaime,0.09
+223,223,albane perinne,3.0
+224,224,albernita travis,1.0
+225,225,albers christina,0.08
+226,226,albert hernandez,1.0
+227,227,albert luc,0.12
+228,228,albert meyers,3.33
+229,229,alberto jimenez,2.0
+230,230,alberto levy,0.33
+231,231,albrecht kristin,0.62
+232,232,albuquerque bestard carlos joao jose,1.0
+233,233,alcantara ana,1.75
+234,234,alder amelia,0.28
+235,235,aldinger william,0.2
+236,236,ale john,0.1
+237,237,aleck dadson,0.26
+238,238,alejandra chavez,0.65
+239,239,alex brock,2.0
+240,240,alex gonzales,1.0
+241,241,alex hernandez,3.0
+242,242,alex hidalgo,1.0
+243,243,alex huang,0.52
+244,244,alex perkins,6.0
+245,245,alex saldana,0.1
+246,246,alex villarreal,1.0
+247,247,alexander athena,4.0
+248,248,alexander betty,0.04
+249,249,alexander c james,0.06
+250,250,alexander d kim,0.27
+251,251,alexander james,2.0
+252,252,alexander mcelreath,0.87
+253,253,alexandra saler,5.4
+254,254,alexandra villarreal,1.5
+255,255,alexandre bueno,1.0
+256,256,alexios kollaros,2.0
+257,257,alfaro at enron renee,1.0
+258,258,alfaro brett lisa r wiggs,2.0
+259,259,alfaro lisa,1.2
+260,260,alfaro renee,0.19
+261,261,alfonso trabulsi,0.73
+262,262,alfred pennisi,1.0
+263,263,alfredo huertas,0.06
+264,264,alhamd alkhayat,0.56
+265,265,alice johnson,0.22
+266,266,alice wright,2.6
+267,267,alicia goodrow,0.22
+268,268,alicia lenderman,0.12
+269,269,alicia perkins,1.42
+270,270,alisha mahabir,1.94
+271,271,alison bailey mary,0.39
+272,272,alison campbell,2.0
+273,273,alison keogh,0.33
+274,274,all employees enron states united,1.0
+275,275,allan,1.0
+276,276,allan david,4.78
+277,277,allan elliott,1.0
+278,278,allan ford,0.27
+279,279,allan grimm,1.0
+280,280,allan matthew,0.05
+281,281,allan severude,2.0
+282,282,allan sommer,0.26
+283,283,alland amelia,0.19
+284,284,allario john,0.17
+285,285,allegretti daniel,0.19
+286,286,allen,0.18
+287,287,allen bonnie,2.0
+288,288,allen diana,1.0
+289,289,allen elliott,2.0
+290,290,allen gary,2.0
+291,291,allen geoffrey,0.18
+292,292,allen jane,0.52
+293,293,allen jill,1.33
+294,294,allen joe,0.05
+295,295,allen k phillip,11.24
+296,296,allen kelly,2.0
+297,297,allen kimberly,1.42
+298,298,allen lauri,1.5
+299,299,allen louis,0.26
+300,300,allen margaret,1.62
+301,301,allen phillip,0.38
+302,302,allen wilhite,1.0
+303,303,alli parent,0.4
+304,304,alliegro paul,1.0
+305,305,allison easton,2.4
+306,306,allison j pamela,2.0
+307,307,allison mchenry,1.04
+308,308,allison navin,0.17
+309,309,allwardt emily,0.86
+310,310,allwein robert,1.96
+311,311,alma carrillo,0.67
+312,312,alma green,2.0
+313,313,alma martinez,0.97
+314,314,almeida andreia,1.0
+315,315,almeida keoni,0.5
+316,316,alon heather,0.23
+317,317,alonso tom,0.46
+318,318,alport kysa,0.96
+319,319,alters dennis,0.77
+320,320,althea gordon,6.0
+321,321,alton heckaman,1.0
+322,322,alton jackson,0.06
+323,323,alvarado jesse,0.74
+324,324,alvarez briggs denne govenar guerrero hartsoe j janel joe karen linda mara mccubbin novosel ray robertson sandra sarah scott susan tom,1.0
+325,325,alvarez irma,1.2
+326,326,alvarez ray,2.41
+327,327,alvarez sally,2.0
+328,328,alvin thompson,2.45
+329,329,alvino nicole,1.0
+330,330,alvira roberto,1.0
+331,331,alyse herasimchuk,0.3
+332,332,am paxton,1.0
+333,333,amabile richard,0.15
+334,334,amador granado,1.0
+335,335,amador susan,0.31
+336,336,amanda curless,0.05
+337,337,amanda day,1.0
+338,338,amanda huble,1.8
+339,339,amanda k martin,3.0
+340,340,amanda rybarski,0.86
+341,341,amanda schultz,0.42
+342,342,amber dawn,1.0
+343,343,amber ebow,0.11
+344,344,amber hamby,0.27
+345,345,amber keenan,1.0
+346,346,amber limas,3.33
+347,347,ambler john,0.35
+348,348,ambrocik bob,1.0
+349,349,ambroshia hunter perry,4.0
+350,350,amelang luke,1.0
+351,351,americas enron,1.0
+352,352,amerson cella,1.0
+353,353,ames chuck,1.15
+354,354,ami,2.0
+355,355,ami baumbach brian bryan campos chad chokshi crook david denver hector hoskins hull jeganathan jody landry lenhart lenine matthew michael o patrick plachy ryder walters,2.0
+356,356,ami chokshi,1.86
+357,357,ami thakkar,1.0
+358,358,amirault paul,1.0
+359,359,amita gosalia,0.16
+360,360,amitava dhar,0.33
+361,361,amr ibrahim,0.64
+362,362,amy baker,1.0
+363,363,amy cavazos,0.21
+364,364,amy clemons,0.19
+365,365,amy degeyter,1.0
+366,366,amy felling,0.24
+367,367,amy fitzpatrick,1.35
+368,368,amy gambill,0.24
+369,369,amy gold,1.0
+370,370,amy heffernan,0.06
+371,371,amy krone,0.05
+372,372,amy lee,1.0
+373,373,amy mulligan,0.35
+374,374,amy oberg,2.0
+375,375,amy ochoa,0.06
+376,376,amy quirsfeld,0.5
+377,377,amy smith,3.33
+378,378,amy spoede,2.0
+379,379,ana cristina santos,1.0
+380,380,anabella de sousa,2.0
+381,381,anabelle torres,1.0
+382,382,anai rousseau,5.0
+383,383,analytics risk,2.0
+384,384,anastas sherry,0.61
+385,385,anastasia karabatsos,1.0
+386,386,anderson andy l m,2.0
+387,387,anderson bob,1.0
+388,388,anderson bridgette,0.4
+389,389,anderson clinton,1.0
+390,390,anderson diane,1.15
+391,391,anderson e gary,0.43
+392,392,anderson edward,2.0
+393,393,anderson joel,1.0
+394,394,anderson joel melvin,1.0
+395,395,anderson john,2.26
+396,396,anderson kurt,2.0
+397,397,anderson marcia,2.0
+398,398,anderson marlow,1.0
+399,399,anderson michael,0.16
+400,400,anderson n peter,0.64
+401,401,anderson renee tomara,2.0
+402,402,anderson robert,0.14
+403,403,anderson shawn,0.06
+404,404,andre cangucu,0.03
+405,405,andre carin,2.0
+406,406,andre rast,2.0
+407,407,andre templeman,0.11
+408,408,andrea bertone,0.81
+409,409,andrea calo,0.56
+410,410,andrea dahlke,1.16
+411,411,andrea gavino,2.0
+412,412,andrea guillen r,0.14
+413,413,andrea hauser,2.0
+414,414,andrea l sorelle,5.5
+415,415,andrea langfeldt,1.0
+416,416,andrea reed v,0.23
+417,417,andrea richards,1.48
+418,418,andrea ring,3.39
+419,419,andrea williams,1.0
+420,420,andrea woodland,1.0
+421,421,andrea yowman,0.25
+422,422,andreas radmacher,1.0
+423,423,andreia,1.0
+424,424,andres balmaceda,1.14
+425,425,andrew,0.14
+426,426,andrew champion,1.25
+427,427,andrew conner r,0.07
+428,428,andrew edison,2.96
+429,429,andrew fairley,0.25
+430,430,andrew fastow,0.29
+431,431,andrew fastow s,0.51
+432,432,andrew greer,1.0
+433,433,andrew h lewis,0.73
+434,434,andrew hawthorn,4.0
+435,435,andrew kelemen,0.54
+436,436,andrew lawrence,2.0
+437,437,andrew miles,0.42
+438,438,andrew morrison,2.0
+439,439,andrew parsons,0.11
+440,440,andrew ralston,0.26
+441,441,andrew thomas,0.15
+442,442,andrew wells,1.0
+443,443,andrew wilson,0.57
+444,444,andrew wu,0.07
+445,445,andrew zabriskie,0.13
+446,446,andrews jeff,3.0
+447,447,andrews naveen,0.15
+448,448,andrews team,0.08
+449,449,andria stevens,0.5
+450,450,andriy mysyk,0.5
+451,451,andy,1.0
+452,452,andy brady,0.24
+453,453,andy chen,0.27
+454,454,andy katz,1.0
+455,455,andy l unverzagt,0.33
+456,456,andy pace,1.0
+457,457,andy rodriquez,0.72
+458,458,andy unverzagt,0.07
+459,459,andy west,2.0
+460,460,andy zipper,4.95
+461,461,aneela,2.0
+462,462,aneela charania,0.26
+463,463,angel fuller,2.0
+464,464,angela barnett,0.88
+465,465,angela cadena,1.05
+466,466,angela chen,2.0
+467,467,angela collins,1.0
+468,468,angela connelly,2.0
+469,469,angela davis,1.06
+470,470,angela e ramirez,1.5
+471,471,angela ernest,1.0
+472,472,angela gill,1.33
+473,473,angela hylton,1.32
+474,474,angela matheson,0.6
+475,475,angela mcculloch,0.7
+476,476,angela ramirez,1.0
+477,477,angela schwarz,1.84
+478,478,angela smith,1.0
+479,479,angela sprock,0.22
+480,480,angela white,1.0
+481,481,angela wilson,0.06
+482,482,angeles beltri,2.0
+483,483,angelic davis,5.0
+484,484,angeline poon,0.11
+485,485,angelo miroballi,0.14
+486,486,angelos megan,0.44
+487,487,angelova martina,0.04
+488,488,angie collins,0.3
+489,489,angie conner,0.5
+490,490,angie gillikin,1.0
+491,491,angie hueca,0.38
+492,492,angie o,2.0
+493,493,angie zeman,1.36
+494,494,angie.chappell@enron.com,2.0
+495,495,anissa green,1.0
+496,496,anita dupont,1.08
+497,497,anita fam,0.21
+498,498,anita k patton,0.13
+499,499,anita luong,0.21
+500,500,anita murray,1.0
+501,501,anitha mathis,1.0
+502,502,ann ballard,0.52
+503,503,ann brown carol,0.17
+504,504,ann chance lee,1.0
+505,505,ann choyce elizabeth gilliam jeff mark white whitt,1.0
+506,506,ann daniel elizabeth white,1.0
+507,507,ann elizabeth white,0.41
+508,508,ann foret leigh,1.0
+509,509,ann hill jo,0.25
+510,510,ann jo matson,1.0
+511,511,ann kamin,2.0
+512,512,ann m schmidt,0.25
+513,513,ann melissa murphy,1.49
+514,514,ann mora,1.0
+515,515,ann mountford,1.0
+516,516,ann osire,0.86
+517,517,ann smith,0.08
+518,518,ann vaughn,0.12
+519,519,anna docwra,0.57
+520,520,anna fox,0.57
+521,521,anna gardiner,1.0
+522,522,anna harris,0.07
+523,523,anna jansson,2.0
+524,524,anna mcandrew,2.0
+525,525,anna mehrer,0.37
+526,526,anna salazar,1.0
+527,527,anna santucci,0.15
+528,528,anna shaw,1.0
+529,529,annabel houx,1.0
+530,530,anne,1.0
+531,531,anne barbara braband c gray koehler m mary n ogden sandi,1.0
+532,532,anne barbara braband c gray koehler m mary n sandi,1.0
+533,533,anne bertino,0.21
+534,534,anne bike,4.08
+535,535,anne c koehler,1.11
+536,536,anne collins mary,2.0
+537,537,anne duncan marie,2.0
+538,538,anne edgley,0.04
+539,539,anne hicks,1.0
+540,540,anne koehler,1.0
+541,541,anne labbe,0.88
+542,542,anne yaeger,1.0
+543,543,annemieke slikker,0.32
+544,544,annette willis,1.0
+545,545,annie leung,1.0
+546,546,annmarie tiller,0.36
+547,547,announcement canada enron general,1.0
+548,548,announcement ect general,1.0
+549,549,announcements canada enron general,1.0
+550,550,announcements enron,0.08
+551,551,announcements enron general,1.0
+552,552,anoush farhangi,1.0
+553,553,anshuman srivastav,2.0
+554,554,anthony austin,1.0
+555,555,anthony campos,0.31
+556,556,anthony dayao,0.15
+557,557,anthony duenner,1.0
+558,558,anthony mends,0.16
+559,559,antonetti vicente,1.0
+560,560,antonio jenkins lara,4.0
+561,561,antonio vergara,0.5
+562,562,antony steiner,1.0
+563,563,anurag saksena,2.0
+564,564,anya beylin,1.0
+565,565,anzer kuman,1.0
+566,566,aol,1.0
+567,567,aparna rajaram,0.44
+568,568,apasu yao,0.35
+569,569,apodaca vera,0.21
+570,570,apollo beth,1.17
+571,571,appling mike,0.25
+572,572,april hrach,0.1
+573,573,araceli romero,0.21
+574,574,arap sami,0.28
+575,575,arefieva maria,0.11
+576,576,arfan aziz,1.0
+577,577,arguijo cheryl,0.04
+578,578,arleen barnett,3.0
+579,579,arlene mendieta,2.0
+580,580,arm,1.0
+581,581,armfield dawn,1.0
+582,582,armitage roy,0.74
+583,583,armogida bahner bonnie jim lawless michelle rita sharp vicki white,1.0
+584,584,armogida jim,0.5
+585,585,armstrong james,0.18
+586,586,armstrong julie,0.81
+587,587,armstrong kristin,0.05
+588,588,armsworth jim,0.13
+589,589,arnaez dart,2.0
+590,590,arnell doug,0.52
+591,591,arnie bailey,0.18
+592,592,arnie bailey eric faucheaux frazier jolly norm perry rich spalding,1.0
+593,593,arnold,2.0
+594,594,arnold bentley butlerb corry laura r,2.0
+595,595,arnold eisenstein,1.0
+596,596,arnold eisenstein l,0.19
+597,597,arnold gay,2.0
+598,598,arnold jeff,1.0
+599,599,arnold john,18.16
+600,600,arnold laura r,1.0
+601,601,arnold matthew,0.78
+602,602,arnold nick,1.0
+603,603,aroman,2.0
+604,604,aron tim,1.5
+605,605,arora bani,0.04
+606,606,arora harry,0.87
+607,607,arora vineet,1.0
+608,608,arsdall leah van,1.4
+609,609,arshak sarkissian,1.4
+610,610,arsystem,2.0
+611,611,art stappenbeck,1.0
+612,612,artemio muniz,2.0
+613,613,artesia team,0.05
+614,614,arthur l tracy,1.0
+615,615,arthur ransome,2.0
+616,616,arvel martin,0.23
+617,617,arya sunjay,0.18
+618,618,asante ben,0.28
+619,619,asem atta,0.67
+620,620,ashby kevin,1.0
+621,621,ashcroft beverley,2.0
+622,622,ashley baxter,1.67
+623,623,ashley fay,0.78
+624,624,ashley kasischke,1.0
+625,625,ashley kerr,4.0
+626,626,ashley lord,4.0
+627,627,ashley worthing,0.15
+628,628,ashu tewari,1.33
+629,629,assaf lisa,2.0
+630,630,assistants committee executive,0.06
+631,631,assoc california cast metals,1.0
+632,632,associate the,0.43
+633,633,astramowicz jarek,0.06
+634,634,at brent enron hendry,0.45
+635,635,at c enron robert williams,0.22
+636,636,at enron freyre rodolfo,2.0
+637,637,at enron horton kenneth,3.0
+638,638,at enron mitch taylor,0.1
+639,639,at enron randy young,1.0
+640,640,at enron rob walls,1.0
+641,641,atenor guillermo,1.0
+642,642,atkins e karl,2.0
+643,643,attanasio edward,0.33
+644,644,attila pazmandi,0.38
+645,645,atwood mechelle,1.17
+646,646,aucoin berney,1.0
+647,647,aucoin berney c,0.31
+648,648,aucoin evelyn,0.33
+649,649,audrey cook,0.6
+650,650,audrey keefer,1.0
+651,651,audrey o,0.57
+652,652,audrey robertson,2.33
+653,653,august shouse,1.0
+654,654,aurora dimacali,0.11
+655,655,aury pierre,0.35
+656,656,austin c mark,0.94
+657,657,austin chris,0.27
+658,658,austin terri,6.0
+659,659,australia duncan ken wide,1.0
+660,660,ava garcia,4.71
+661,661,ava syon,0.07
+662,662,aven lynn,0.7
+663,663,avinash jain,0.2
+664,664,avram siegel,1.0
+665,665,avril forster,0.11
+666,666,awais,2.0
+667,667,awais david gilberg omar,1.0
+668,668,awais omar,0.26
+669,669,awilli,2.0
+670,670,axford kathy,0.29
+671,671,ayala carmen,1.0
+672,672,ayala susie,2.0
+673,673,aybar luis,2.0
+674,674,ayers david,3.0
+675,675,ayers lesley,2.0
+676,676,ayesha kanji,1.5
+677,677,ayres john r,0.58
+678,678,azevedo carlos gustavo,4.0
+679,679,b boxx pam,2.0
+680,680,b c c darron dawn giron guggenheim jackson kam keiser kenne logan palmer scott victor,2.0
+681,681,b camp howard,0.24
+682,682,b carter coulter fleming hanse john kayne kinser lorenz matt matthew patrick tim,2.0
+683,683,b cass robert,1.09
+684,684,b christian guerrero harry janel kingerski richard sanders yoder,1.0
+685,685,b christopher hunt,0.11
+686,686,b clapp suzanne,0.62
+687,687,b cousino lisa,0.21
+688,688,b d denne j james karen mara richard richard sanders shapiro steffes susan,3.0
+689,689,b dees kimberly,0.29
+690,690,b ed hearn iii,0.59
+691,691,b fallon james,0.61
+692,692,b fleming matthew,0.57
+693,693,b gamble ginger,0.89
+694,694,b gordon john,0.6
+695,695,b gregory sonntag,0.29
+696,696,b grumulaitis paige,0.31
+697,697,b hattenbach todd,2.0
+698,698,b jones michael,2.0
+699,699,b jones richard,10.0
+700,700,b michael rosen,0.36
+701,701,b mike smith,5.0
+702,702,b palmer,2.68
+703,703,b palmer scott,1.76
+704,704,b palmer scott shane,2.0
+705,705,b richard,0.06
+706,706,b richard sanders,12.96
+707,707,ba4cd662-58db2db2-862564b8-5b412a@enron.com,1.0
+708,708,babb marcy,2.0
+709,709,babbar gaurav,0.79
+710,710,babin richard,1.0
+711,711,baca curly,2.0
+712,712,bachand terri,0.67
+713,713,bacon laura,0.15
+714,714,badeer robert,1.11
+715,715,bagot nancy,0.19
+716,716,bagwell j jennifer,3.0
+717,717,bagwell jennifer,1.67
+718,718,bahlmann gareth,0.13
+719,719,bahner rita,2.0
+720,720,bailey christian,1.0
+721,721,bailey debra,0.21
+722,722,bailey derek,0.29
+723,723,bailey lillian,0.73
+724,724,bailey robert,0.15
+725,725,bailey steven,2.0
+726,726,bailey susan,3.47
+727,727,bajwa bilal,0.82
+728,728,baker briant,0.24
+729,729,baker henry,0.5
+730,730,baker lee,1.0
+731,731,baker marilyn n,0.12
+732,732,baker natalie,0.23
+733,733,baker robert,1.0
+734,734,baker ron,0.22
+735,735,bakondy james,1.0
+736,736,bakondy rob,0.07
+737,737,baldridge don,0.05
+738,738,baldwin mark,1.0
+739,739,balerio jennifer,1.0
+740,740,balette casas stephanie,0.43
+741,741,balette stephanie,0.48
+742,742,balfour,0.34
+743,743,balfour cyndie,0.58
+744,744,ball jeff,6.0
+745,745,ballas jennifer,0.07
+746,746,ballato russell,0.24
+747,747,ballengee todd,1.0
+748,748,balog roger,0.31
+749,749,baltzley blake,1.0
+750,750,ban kaufman paul richard shapiro sharma,1.0
+751,751,ban sharma,0.25
+752,752,banczak peggy,0.67
+753,753,bandel bob,0.12
+754,754,bangle brad,1.27
+755,755,bannantine james m,0.57
+756,756,banner kimberly,0.5
+757,757,bannerman elaine,1.0
+758,758,banu ozcan,10.0
+759,759,barba juan,2.0
+760,760,barbara bischoff,2.0
+761,761,barbara cain,1.0
+762,762,barbara cook,1.0
+763,763,barbara dillard g,0.22
+764,764,barbara epperson,2.0
+765,765,barbara gray,0.34
+766,766,barbara gray hodge jeffrey n stuart t zisman,2.0
+767,767,barbara gray n,1.82
+768,768,barbara hooks,2.0
+769,769,barbara keen,2.0
+770,770,barbara lee,2.0
+771,771,barbara lewis,0.49
+772,772,barbara martinez,0.25
+773,773,barbara paige,4.0
+774,774,barbara taylor,1.0
+775,775,barbara whittaker,2.0
+776,776,barbe robin,1.18
+777,777,barbee wilson,1.0
+778,778,barbo paul,3.07
+779,779,barbour karen l,0.24
+780,780,bard black,1.0
+781,781,bardal chelsea,1.0
+782,782,bargainer david k,0.23
+783,783,barker courtney,0.3
+784,784,barker james,1.0
+785,785,barker james r,0.46
+786,786,barker robina,1.0
+787,787,barkley tom,0.44
+788,788,barkowsky g gloria,0.54
+789,789,barlow ted,1.0
+790,790,barnard marla,0.16
+791,791,barnes caroline,0.65
+792,792,barnes dorothy,1.33
+793,793,barnes jim,2.0
+794,794,barnes judy,2.0
+795,795,barnes lynnette,0.25
+796,796,barnes rodney,8.0
+797,797,barnett leola,2.0
+798,798,barney brasher,0.05
+799,799,barnhart kimberly,1.0
+800,800,barnwell bo,0.17
+801,801,barone michael,3.0
+802,802,barr david,2.0
+803,803,barreda brenda,3.0
+804,804,barrow cynthia,0.23
+805,805,barry bradford miller s stephanie tycholiz,1.0
+806,806,barry mike,0.07
+807,807,barry patrick,0.43
+808,808,barry pearce,0.52
+809,809,barry richard,1.0
+810,810,barry steinhart,2.0
+811,811,barry tycholiz,9.54
+812,812,barry vanderhorst,0.5
+813,813,barry wiederholt,1.0
+814,814,barshk,1.0
+815,815,bart burk,0.38
+816,816,bart monden,2.0
+817,817,barta tammy,0.15
+818,818,barth brian,2.0
+819,819,bartlett jeff,0.21
+820,820,barto brian d,1.38
+821,821,barton clark,0.6
+822,822,bartz gilda,2.0
+823,823,bass baumbach bosse bryan david eric hull kevin kyle lilly o r,2.0
+824,824,bass blanchard bosse bruce bryan bucalo eric harry hull jason jimmy kevin lenhart matthew mills simien timothy wolfe,2.0
+825,825,bass blanchard bryan chad eric hull landry lenhart matthew timothy,2.0
+826,826,bass blanchard eric lenhart matthew timothy,1.0
+827,827,bass eric,30.11
+828,828,bass jason,2.0
+829,829,bass kathy,0.12
+830,830,bassis betsy,1.0
+831,831,bastida nancy,0.39
+832,832,bastos carlos,1.0
+833,833,basu nilay,0.17
+834,834,bat oggero,0.29
+835,835,bates kimberly,1.86
+836,836,batista daniel,3.0
+837,837,battaglia tim,1.0
+838,838,bauer thomas,0.13
+839,839,bauer tom,1.0
+840,840,baughman burnett butlerb don lisa,2.0
+841,841,baughman d edward,0.43
+842,842,baughman don,0.33
+843,843,baughman edward,0.27
+844,844,baughman jr,4.0
+845,845,baum bonnie,1.0
+846,846,baumbach blanchard bryan david gary hull husser lamphier lenhart matthew michael shanna timothy w walters,2.0
+847,847,baumbach bryan david hull michael o walters,0.57
+848,848,baumbach david,3.0
+849,849,baumbach david jason,2.0
+850,850,baumfield richard,1.5
+851,851,bawa mo,1.0
+852,852,baxter brenton,4.0
+853,853,baxter bryce,0.52
+854,854,baxter char,1.0
+855,855,baxter cliff,0.6
+856,856,baxter jean,1.0
+857,857,bay frank,0.24
+858,858,bayi habiba,0.28
+859,859,bayles timothy,0.33
+860,860,bayouth frank,2.0
+861,861,bazelides diane,0.12
+862,862,bb4eb72a-172de319-86256aaa-4c9060@enron.com,1.0
+863,863,bbarth,1.0
+864,864,bdavis,2.0
+865,865,beach dwight,0.16
+866,866,beal felicia,2.0
+867,867,beales nicola,0.09
+868,868,beard sasha,0.14
+869,869,beatrice reyna,1.0
+870,870,beaty beverly,2.15
+871,871,beau harrison,1.0
+872,872,beck matthew,1.0
+873,873,beck sally,30.62
+874,874,beck steve,0.04
+875,875,becker lorraine,0.1
+876,876,becker melissa,0.2
+877,877,becky bruce,1.0
+878,878,becky dickson e spencer stacy,1.0
+879,879,becky ellis helton jenny kaye pat radford spencer,1.0
+880,880,becky merola,2.0
+881,881,becky pham,0.37
+882,882,becky pitre,3.18
+883,883,becky quintana,1.0
+884,884,becky spencer,1.01
+885,885,becky stephens,0.11
+886,886,becky tlucek,0.17
+887,887,becky young,0.49
+888,888,becky zikes,0.11
+889,889,becton pam,0.15
+890,890,beebe kent,6.0
+891,891,beffer michele,2.0
+892,892,behney chris,0.13
+893,893,bekerman joana ryan,1.33
+894,894,belden buy david delainey frevert greg j j john kean kitchen lavorato louise mark richard rick shapiro steven tim w whalley william,1.0
+895,895,belden tim,3.87
+896,896,belew john m,2.0
+897,897,belflower rusty,0.09
+898,898,belford joe,0.67
+899,899,bell bill,1.0
+900,900,bell jean,0.23
+901,901,bell rebecca,2.0
+902,902,bellamy liz,1.0
+903,903,bellard dannis,0.21
+904,904,bellas kirsten,0.22
+905,905,bellinghausen lynn,0.06
+906,906,belyeu randy,0.6
+907,907,ben,0.58
+908,908,ben f glisan,0.32
+909,909,ben f jacoby,2.26
+910,910,ben freeman,0.19
+911,911,ben glisan,0.35
+912,912,ben herman,0.06
+913,913,ben hill,0.31
+914,914,ben jacoby,7.1
+915,915,ben parsons,2.0
+916,916,ben smith,3.0
+917,917,benedict katherine,0.62
+918,918,benedikt messner,1.0
+919,919,benevides dennis,0.31
+920,920,benien michael,0.73
+921,921,benjamin freeman,3.54
+922,922,benjamin markey,0.46
+923,923,benjamin parsons,0.42
+924,924,benjamin rogers,13.7
+925,925,benjamin thomason,0.67
+926,926,benjamin woods,1.0
+927,927,benjelloun hicham,1.0
+928,928,benn julie,2.0
+929,929,benner martha,5.24
+930,930,bennett jeanne,2.0
+931,931,bennett joel,2.0
+932,932,bennett kaufman,1.0
+933,933,bennett peter,2.0
+934,934,bennett stephen,0.25
+935,935,bennett young,1.5
+936,936,bennick kimberlee,1.0
+937,937,benningfield robert,0.63
+938,938,benson eric,0.28
+939,939,benson pam,0.37
+940,940,benson robert,0.89
+941,941,bentley corry,0.33
+942,942,berg lisa,1.0
+943,943,berger john,0.08
+944,944,berger larry,3.06
+945,945,berger peter,1.0
+946,946,bergin patrick,1.0
+947,947,bergsieker rick,1.38
+948,948,berkeland bill,0.04
+949,949,berlin jason,2.4
+950,950,bernadette etienne,1.0
+951,951,bernadette hawkins,0.38
+952,952,bernardi celso,1.0
+953,953,bernice rodriguez,0.15
+954,954,bernstein mark,0.48
+955,955,berry demetrica,1.0
+956,956,berry greg k,0.75
+957,957,berry john,1.0
+958,958,berry lara,1.0
+959,959,berry matthew,1.7
+960,960,berry philip,3.0
+961,961,bersani tracee,2.08
+962,962,bert frazier,1.0
+963,963,bert hernandez,0.67
+964,964,bert meyers,0.39
+965,965,berzins peter,1.09
+966,966,bess erica,0.12
+967,967,bessik matchavariani,3.0
+968,968,best john,1.0
+969,969,best lisa,0.49
+970,970,bestard jose,0.31
+971,971,betancourt jose,1.0
+972,972,betancourt ramona,0.34
+973,973,beth,1.0
+974,974,beth cowan,0.04
+975,975,beth jenkins,0.79
+976,976,beth jensen,0.24
+977,977,beth miertschin,0.36
+978,978,beth perlman,0.58
+979,979,bettis ty,3.0
+980,980,betty tauzier,0.06
+981,981,bettye,1.0
+982,982,betzer evan,1.0
+983,983,bev enron hansen,1.0
+984,984,bev hansen,0.75
+985,985,bevans larry,1.33
+986,986,beverly miller,0.47
+987,987,beverly stephens,15.11
+988,988,beverly.aden@enron.com,2.33
+989,989,beyer j michael,0.24
+990,990,bharat khanna,0.42
+991,991,bharati rakesh,0.69
+992,992,bhatia om,0.06
+993,993,bhatia randy,0.5
+994,994,bhatnagar sanjay,0.2
+995,995,bhattacharya,1.0
+996,996,bhattacharya rasmani,1.0
+997,997,bhatty jay,1.0
+998,998,bhavna pandya,0.12
+999,999,bhawkin,1.0
+1000,1000,bianca ornelas,0.36
+1001,1001,bianchi rita,0.12
+1002,1002,bickett kenny,1.0
+1003,1003,bien teresa,1.33
+1004,1004,bieniawski paul,0.26
+1005,1005,bierbach brian,0.15
+1006,1006,bierbach brian daniel,1.0
+1007,1007,bierbach brian daniel mark whitt,4.0
+1008,1008,bierbach brian shonnie,1.0
+1009,1009,biever jason,0.08
+1010,1010,big,1.0
+1011,1011,big team,0.08
+1012,1012,bigalow steve,1.53
+1013,1013,biggerstaff finley,0.1
+1014,1014,bilberry c michael,1.0
+1015,1015,biliana pehlivanova,0.4
+1016,1016,bill,0.85
+1017,1017,bill bowes,3.0
+1018,1018,bill brown w,0.06
+1019,1019,bill carlton,1.0
+1020,1020,bill casey,0.36
+1021,1021,bill cordes,0.89
+1022,1022,bill d hare,0.15
+1023,1023,bill donovan,0.19
+1024,1024,bill ebanks,1.0
+1025,1025,bill fortney,0.07
+1026,1026,bill fowler,0.36
+1027,1027,bill fox,0.11
+1028,1028,bill fraser,1.0
+1029,1029,bill frasier,1.0
+1030,1030,bill greenizan,0.23
+1031,1031,bill hatch,1.0
+1032,1032,bill heidecker,2.0
+1033,1033,bill iii williams,12.03
+1034,1034,bill kefalas,1.0
+1035,1035,bill kyle,0.41
+1036,1036,bill m,1.0
+1037,1037,bill mathews,1.0
+1038,1038,bill myers,1.0
+1039,1039,bill peterson,0.12
+1040,1040,bill rapp,9.7
+1041,1041,bill riddell,1.0
+1042,1042,bill rust,0.12
+1043,1043,bill swanstrom,0.75
+1044,1044,bill votaw,0.37
+1045,1045,bill white,0.18
+1046,1046,bill williams,1.33
+1047,1047,bill windle,0.2
+1048,1048,bills catherine clark lisa sheila tweed,2.0
+1049,1049,bills lisa,4.41
+1050,1050,bills lisa sheila tweed,2.0
+1051,1051,billy braddock,0.89
+1052,1052,billy dorsey,0.94
+1053,1053,billy lemmons,0.33
+1054,1054,binh pham,0.7
+1055,1055,binky davidson,1.0
+1056,1056,binns darran,0.29
+1057,1057,bird louise,4.0
+1058,1058,bisbee joanne,1.0
+1059,1059,bishop serena,0.5
+1060,1060,bjorn hagelmann,0.24
+1061,1061,blachman jeremy,0.34
+1062,1062,black don,0.58
+1063,1063,black j richard,1.0
+1064,1064,black jae tamara,2.33
+1065,1065,black legale,0.43
+1066,1066,black rob,2.0
+1067,1067,black sean,1.0
+1068,1068,black troy,0.37
+1069,1069,blackburn jody,0.15
+1070,1070,blackburn nate,4.0
+1071,1071,blackshear regina,1.22
+1072,1072,blackwood connie,0.11
+1073,1073,blaine jay,0.31
+1074,1074,blaine michelle,0.57
+1075,1075,blair crystal,2.0
+1076,1076,blair greg,1.6
+1077,1077,blair jean,0.57
+1078,1078,blair kit,0.93
+1079,1079,blair lichtenwalter,0.83
+1080,1080,blair lynn,20.93
+1081,1081,blake estes,1.0
+1082,1082,blake lasuzzo,1.2
+1083,1083,blake walker,0.5
+1084,1084,blanca bollom,0.62
+1085,1085,blanca carrizales,0.18
+1086,1086,blanchard,1.0
+1087,1087,blanchard chad husser landry lenhart matthew shanna timothy,2.0
+1088,1088,blanchard gillette lisa michael o timothy walters,2.0
+1089,1089,blanchard timothy,4.37
+1090,1090,blancke nicola,1.0
+1091,1091,blanco pedro,2.0
+1092,1092,bland c ted,0.69
+1093,1093,bland jr,0.15
+1094,1094,bland stuart,0.04
+1095,1095,bland todd,3.32
+1096,1096,blaschke jordis,1.0
+1097,1097,blay jennifer,1.75
+1098,1098,bledsoe michael,2.0
+1099,1099,blesie brad,2.0
+1100,1100,blevins brad,0.13
+1101,1101,bloomer john,2.0
+1102,1102,blumenthal jeff,0.59
+1103,1103,bmckay,1.0
+1104,1104,bneff,2.0
+1105,1105,boardroom,1.0
+1106,1106,boas fred,0.33
+1107,1107,boatman jack,0.1
+1108,1108,bob,0.89
+1109,1109,bob bowen,1.25
+1110,1110,bob burleson,0.13
+1111,1111,bob butts,0.17
+1112,1112,bob carter,0.47
+1113,1113,bob chandler,0.61
+1114,1114,bob crane,0.21
+1115,1115,bob glen hass julia kathy kay mary miller ringblom thurber white,2.0
+1116,1116,bob hall m,1.6
+1117,1117,bob hillier,0.09
+1118,1118,bob jacobs,1.0
+1119,1119,bob klein,0.13
+1120,1120,bob lee,0.42
+1121,1121,bob licato,2.5
+1122,1122,bob mcauliffe,0.04
+1123,1123,bob poston,0.29
+1124,1124,bob schorr,1.0
+1125,1125,bob shults,1.4
+1126,1126,bob sparger,0.27
+1127,1127,bob stevens,0.31
+1128,1128,bob thurber,2.0
+1129,1129,bob vanessa,2.0
+1130,1130,bob virgo,1.0
+1131,1131,bob ward,4.0
+1132,1132,bob williams,1.2
+1133,1133,bobbi tessandori,1.33
+1134,1134,bobbie campbell,0.07
+1135,1135,bobbie moody,1.0
+1136,1136,bobbie power,0.31
+1137,1137,bobby pritchard,1.0
+1138,1138,bock marcus polach und von,0.1
+1139,1139,bode gary,0.08
+1140,1140,bodnar michael,2.3
+1141,1141,body shop,0.46
+1142,1142,bodyshop,0.25
+1143,1143,bogucki robert,2.0
+1144,1144,bolanos milton,2.0
+1145,1145,bolender corinna,1.0
+1146,1146,boling rosario,3.0
+1147,1147,bolks sean,0.5
+1148,1148,bollinger joni,0.33
+1149,1149,bolt laurel,0.26
+1150,1150,bolton kim,0.11
+1151,1151,bolton scott,0.44
+1152,1152,bolton stacey,0.13
+1153,1153,bond ragan,0.24
+1154,1154,bondareva natalie,0.3
+1155,1155,bone vicki,2.0
+1156,1156,bonhame brenda,1.0
+1157,1157,bonnard janie,1.0
+1158,1158,bonnard xavier,1.0
+1159,1159,bonne castellano,1.0
+1160,1160,bonner elliot,0.03
+1161,1161,bonney mark,1.0
+1162,1162,bonnie hitschel v,0.38
+1163,1163,bonnie nelson,0.06
+1164,1164,bonnie white,0.45
+1165,1165,bonnstetter mike,1.0
+1166,1166,booi kenneth,1.0
+1167,1167,boomer john,1.0
+1168,1168,boose justin,1.0
+1169,1169,booth,1.0
+1170,1170,booth chris,2.13
+1171,1171,booth eric,0.61
+1172,1172,booth khymberly,0.07
+1173,1173,boothe david,1.0
+1174,1174,boots h kelly,0.11
+1175,1175,borg jeff,1.0
+1176,1176,borgman laine,0.06
+1177,1177,boris brevnov,2.0
+1178,1178,borislav feschiev,1.0
+1179,1179,bortniker jeffrey,0.18
+1180,1180,bortolotti riccardo,2.0
+1181,1181,bosek laura,1.33
+1182,1182,bosien teresa,0.22
+1183,1183,bosse bruce c darron giron jimmy kevin kyle lilly mills patrick r ryder simien,2.0
+1184,1184,bosse bwax kevin kyle lilly r,2.0
+1185,1185,bosse c darron giron kevin kyle lilly r,2.0
+1186,1186,bosse jimmy kevin shane simien,2.0
+1187,1187,bosse jimmy kevin simien,2.0
+1188,1188,bosse kevin,0.45
+1189,1189,boston roy,0.67
+1190,1190,botchlett david j,0.21
+1191,1191,botello mary,0.63
+1192,1192,bottomley john,0.29
+1193,1193,boudreau kara l,2.0
+1194,1194,boudreaux elizabeth,0.1
+1195,1195,boudreaux jay,0.03
+1196,1196,boudreaux shanna,1.0
+1197,1197,bouillion james l,0.35
+1198,1198,bourg naomi,1.0
+1199,1199,bourgeois,3.0
+1200,1200,bourgeois clifford,2.0
+1201,1201,bourgeois hilda,1.0
+1202,1202,bowen jr,0.64
+1203,1203,bowen raymond,1.48
+1204,1204,bowen todd,0.14
+1205,1205,bowen tricia,0.73
+1206,1206,bowers,1.0
+1207,1207,bowers janet,1.0
+1208,1208,bowler tim,1.17
+1209,1209,bowling chris,1.0
+1210,1210,boyd david david forster gilberg justin kal kitchen louise marcello romano shah,1.0
+1211,1211,boyd hap,0.19
+1212,1212,boyd justin,0.92
+1213,1213,boyd samantha,2.67
+1214,1214,boyer gillian,2.0
+1215,1215,boyle dan,0.62
+1216,1216,boyle sean,0.31
+1217,1217,boyt eric,1.26
+1218,1218,braband m sandi,0.25
+1219,1219,braband sandi,2.0
+1220,1220,brackett bradford brant campbell conwell darren debbie diamond edward espinoza johnson lebrocq lesli mendoza moran ngo nidia paul r radous reves rohauer rudwell russell s sacks tanya tom tracy vanek veronica wendi wendy,1.0
+1221,1221,brackett debbie,1.0
+1222,1222,brackett debbie r,0.59
+1223,1223,brad carey,2.0
+1224,1224,brad cheney,1.0
+1225,1225,brad coleman,0.3
+1226,1226,brad fagan,0.33
+1227,1227,brad hitch,0.29
+1228,1228,brad holmes,6.0
+1229,1229,brad jones,0.47
+1230,1230,brad k martin,1.0
+1231,1231,brad king,3.0
+1232,1232,brad kirchhofer,1.0
+1233,1233,brad lawson,1.0
+1234,1234,brad martin,1.0
+1235,1235,brad mckay,1.0
+1236,1236,brad mcsherry,0.44
+1237,1237,brad morse,0.09
+1238,1238,brad nebergall,1.0
+1239,1239,brad noble,2.0
+1240,1240,brad richter,0.44
+1241,1241,brad romine,0.1
+1242,1242,brad schneider,0.61
+1243,1243,braddy martha,0.33
+1244,1244,braden erica,0.13
+1245,1245,bradford jklauber lisa mellencamp s,1.0
+1246,1246,bradford larson,0.15
+1247,1247,bradford michael s tribolet,1.0
+1248,1248,bradford rohauer s tanya,1.0
+1249,1249,bradford s,2.0
+1250,1250,bradford s william,1.9
+1251,1251,bradley diebner,1.64
+1252,1252,bradley eixmann,2.0
+1253,1253,bradley holmes,1.71
+1254,1254,bradley jones,2.86
+1255,1255,bradley linda richard rob robertson shapiro,1.0
+1256,1256,bradley michael w,1.0
+1257,1257,bradley rob,0.66
+1258,1258,bradley samuelson,0.46
+1259,1259,brady edward,2.53
+1260,1260,brady kevin,1.8
+1261,1261,brady mark,3.0
+1262,1262,brady penny,1.0
+1263,1263,braedi craig,0.15
+1264,1264,bragg kimberly,1.0
+1265,1265,braly julie,2.0
+1266,1266,brand mark,0.21
+1267,1267,brandee jackson,0.36
+1268,1268,brandi morris,0.13
+1269,1269,brando hayden,0.07
+1270,1270,brandon cavazos,1.0
+1271,1271,brandon luna,4.0
+1272,1272,brandon neff,0.49
+1273,1273,brandon oliveira,2.0
+1274,1274,brandon rigney,1.0
+1275,1275,brandon wax,0.04
+1276,1276,branney theresa,0.28
+1277,1277,brant reves,0.88
+1278,1278,brashier cheryl,2.0
+1279,1279,brassfield morris,0.77
+1280,1280,bratby louise,2.0
+1281,1281,bratton jennifer,4.0
+1282,1282,brawner f sandra,2.08
+1283,1283,bray peter,1.0
+1284,1284,brazaitis greg,0.15
+1285,1285,breen sean,1.0
+1286,1286,breese mark,1.17
+1287,1287,brelsford loretta,0.81
+1288,1288,brenda,1.0
+1289,1289,brenda cassel,2.0
+1290,1290,brenda f herod,1.06
+1291,1291,brenda fletcher h,2.66
+1292,1292,brenda flores,0.58
+1293,1293,brenda funk l,0.12
+1294,1294,brenda j johnston,0.14
+1295,1295,brenda mcafee,0.15
+1296,1296,brenda whitehead,1.71
+1297,1297,brenna neves,1.33
+1298,1298,brennan lorna,0.16
+1299,1299,brennan patrick,2.0
+1300,1300,brenner ursula,0.39
+1301,1301,brennig tammy,2.0
+1302,1302,brent,1.0
+1303,1303,brent carol chris clair cook diamond gaffney greg hendry johnston jones mark mary powell rohauer russell sara shackleton st tana tanya william,1.0
+1304,1304,brent dornier,1.5
+1305,1305,brent hendry,2.51
+1306,1306,brent spiller,8.0
+1307,1307,brent tiner,8.0
+1308,1308,brent vasconcellos,0.29
+1309,1309,brent wallace,1.0
+1310,1310,breslau craig,0.36
+1311,1311,bresnan neil,1.5
+1312,1312,bret fritch,1.0
+1313,1313,bret reich,0.21
+1314,1314,bret scholtes,0.23
+1315,1315,brett,2.0
+1316,1316,brett d hunsucker,1.0
+1317,1317,brett hunsucker,0.14
+1318,1318,brett lawler,1.0
+1319,1319,brett pate,8.0
+1320,1320,brett r wiggs,6.33
+1321,1321,brett wiggs,0.12
+1322,1322,brewer j stacey,0.27
+1323,1323,brewer julie,0.64
+1324,1324,brian,0.28
+1325,1325,brian campos hector hoskins jeganathan lenine luis mena,2.0
+1326,1326,brian cherry,1.0
+1327,1327,brian constantine,1.0
+1328,1328,brian cruver,1.0
+1329,1329,brian dafferner,1.0
+1330,1330,brian davis,2.0
+1331,1331,brian dawson k,2.0
+1332,1332,brian day,1.0
+1333,1333,brian gillis,0.32
+1334,1334,brian heinrich,3.0
+1335,1335,brian hendon,0.12
+1336,1336,brian hensley,2.0
+1337,1337,brian hoskins,2.55
+1338,1338,brian hulse,4.0
+1339,1339,brian kerrigan,0.87
+1340,1340,brian kolle,0.02
+1341,1341,brian kristjansen,0.84
+1342,1342,brian m riley,1.0
+1343,1343,brian merrill,1.0
+1344,1344,brian mihura,0.94
+1345,1345,brian o,2.0
+1346,1346,brian redmond,1.41
+1347,1347,brian robinhold,3.0
+1348,1348,brian schaffer,0.4
+1349,1349,brian schwertner,0.86
+1350,1350,brian spector,0.09
+1351,1351,brian stanley,0.34
+1352,1352,brian swinford,1.0
+1353,1353,brian terp,2.0
+1354,1354,brian terri,2.0
+1355,1355,brian vass,0.19
+1356,1356,brian vassigh,4.0
+1357,1357,brian veazey,1.0
+1358,1358,brian zatarain,1.0
+1359,1359,brickman ronnie,2.0
+1360,1360,bridges mark,1.0
+1361,1361,bridges michael,0.68
+1362,1362,bridgett moore,1.0
+1363,1363,briggs d j james linda mara pat richard robertson shapiro shortridge steffes susan tom,1.0
+1364,1364,briggs tom,0.6
+1365,1365,brindle john,0.73
+1366,1366,brinkworth meagan,0.14
+1367,1367,briscoe marian,1.0
+1368,1368,britaldo soares,1.0
+1369,1369,britt,2.0
+1370,1370,britt davis,0.82
+1371,1371,britt mike,2.0
+1372,1372,broadfoot mark,1.0
+1373,1373,brockwell jennifer,2.0
+1374,1374,broderick j paul,0.35
+1375,1375,brodeur stephane,0.21
+1376,1376,brogan t theresa,0.16
+1377,1377,broido claire,1.2
+1378,1378,bronstein mara,2.8
+1379,1379,brooklyn couch,1.06
+1380,1380,brooks carla,1.0
+1381,1381,brooks loretta,0.43
+1382,1382,bros lehman,1.0
+1383,1383,brostad karen,0.25
+1384,1384,broughton sara,1.0
+1385,1385,broughton susan,1.0
+1386,1386,broussard richard,1.0
+1387,1387,broussard tharsilla,1.0
+1388,1388,brown cole,4.5
+1389,1389,brown coleman,1.0
+1390,1390,brown d kimberly,1.0
+1391,1391,brown daniel,1.5
+1392,1392,brown dennis,1.67
+1393,1393,brown e william,0.71
+1394,1394,brown elizabeth,0.27
+1395,1395,brown ivonne,0.22
+1396,1396,brown j james,2.0
+1397,1397,brown jeff,0.15
+1398,1398,brown katherine,1.02
+1399,1399,brown kimberly,2.47
+1400,1400,brown kortney,0.21
+1401,1401,brown l michael,0.17
+1402,1402,brown max,0.17
+1403,1403,brown michael,0.41
+1404,1404,brown michael r,0.69
+1405,1405,brown pamela,1.0
+1406,1406,brown patrick,1.0
+1407,1407,brown sarah,1.0
+1408,1408,brown sharon,0.66
+1409,1409,brown stephen,3.0
+1410,1410,brown suzanne,0.1
+1411,1411,browner victor,0.05
+1412,1412,brownfeld gail,0.66
+1413,1413,browning mary nell,0.15
+1414,1414,bruce cleve van,1.0
+1415,1415,bruce dan,0.13
+1416,1416,bruce ferrell,0.12
+1417,1417,bruce garner,0.34
+1418,1418,bruce golden,1.05
+1419,1419,bruce grant s,6.0
+1420,1420,bruce harris,0.28
+1421,1421,bruce james,0.11
+1422,1422,bruce lundstrom,0.41
+1423,1423,bruce martin,1.0
+1424,1424,bruce michelle,1.0
+1425,1425,bruce mills,2.45
+1426,1426,bruce n stram,2.0
+1427,1427,bruce robert,1.13
+1428,1428,bruce rudy,0.12
+1429,1429,bruce smith,1.0
+1430,1430,bruce sukaly,0.13
+1431,1431,bruce tom,3.0
+1432,1432,bruce tuttle,0.6
+1433,1433,bruch greg,0.02
+1434,1434,brunette wayne,0.8
+1435,1435,brungs ian,0.28
+1436,1436,bruno gaillard,0.11
+1437,1437,bryan,0.21
+1438,1438,bryan burnett,1.5
+1439,1439,bryan deluca,0.11
+1440,1440,bryan garrett,0.1
+1441,1441,bryan gary,0.2
+1442,1442,bryan gottfredson,2.27
+1443,1443,bryan hull,6.7
+1444,1444,bryan lari,1.0
+1445,1445,bryan linda s,0.4
+1446,1446,bryan powell,1.0
+1447,1447,bryan randy,0.53
+1448,1448,bryan reinecke,2.0
+1449,1449,bryan robins,2.0
+1450,1450,bryan seyfried,0.5
+1451,1451,bryant dana,1.0
+1452,1452,bryant frihart,0.6
+1453,1453,bryant marian,1.0
+1454,1454,bryant mike,0.43
+1455,1455,bryce fraser,0.4
+1456,1456,bryce schneider,0.5
+1457,1457,bryja james,1.0
+1458,1458,bryja jr,1.0
+1459,1459,brymer lacye,2.0
+1460,1460,brysch jim,0.05
+1461,1461,bryson jesse,0.7
+1462,1462,bubenko deborah,0.04
+1463,1463,bucalo harry,0.4
+1464,1464,buchanan g harold,0.32
+1465,1465,buchanan john,2.29
+1466,1466,buchanan stoney,0.05
+1467,1467,buck gary,0.17
+1468,1468,buckley cindy,2.0
+1469,1469,buckley esther,0.18
+1470,1470,buckley karen,2.57
+1471,1471,buckley michael,1.0
+1472,1472,bucknell martin,0.06
+1473,1473,buckner john thomas,0.17
+1474,1474,buddy majorwitz,2.0
+1475,1475,buehler craig,0.42
+1476,1476,buentello raquel,3.0
+1477,1477,buerger rubena,1.0
+1478,1478,buerkert eileen,1.0
+1479,1479,buerkle jim,0.25
+1480,1480,buitron felix,0.56
+1481,1481,bulbes victor,0.15
+1482,1482,bump dan,0.92
+1483,1483,bump dan j,0.66
+1484,1484,bunch dan,0.91
+1485,1485,burchfield richard,0.05
+1486,1486,burgener paul,3.0
+1487,1487,burgher cedric,0.24
+1488,1488,burke todd,0.18
+1489,1489,burkhart paul,2.0
+1490,1490,burleigh matt,1.0
+1491,1491,burlison joe,1.0
+1492,1492,burnett lisa,0.08
+1493,1493,burnham steven,1.0
+1494,1494,burns d stephen,0.2
+1495,1495,burns jennifer,3.58
+1496,1496,burns stephen,1.0
+1497,1497,burry jessica,2.0
+1498,1498,burton katrina,0.14
+1499,1499,burton mcintyre,0.79
+1500,1500,busby todd,0.28
+1501,1501,bush gary,1.0
+1502,1502,bushman g teresa,0.26
+1503,1503,buss jd,0.1
+1504,1504,buss jeremy,1.0
+1505,1505,bussell,1.71
+1506,1506,bussell kathryn,2.0
+1507,1507,buster miyung,0.19
+1508,1508,butch russell,0.27
+1509,1509,butcher sandra,1.0
+1510,1510,butcher sharon,0.67
+1511,1511,butler emily,1.2
+1512,1512,butler janet,0.31
+1513,1513,butler pam,0.24
+1514,1514,butler shelly,6.0
+1515,1515,butler tj,2.0
+1516,1516,buy rick,11.04
+1517,1517,buzz smith,0.22
+1518,1518,byars kerri,2.0
+1519,1519,byron rance,0.27
+1520,1520,byron reid,1.0
+1521,1521,byron w,4.0
+1522,1522,bywaters candace l,0.1
+1523,1523,c,1.0
+1524,1524,c c darron dawn giron guggenheim jason kenne shane victor wolfe,2.0
+1525,1525,c c darron dawn giron guggenheim jason kenne victor wolfe,2.0
+1526,1526,c darlene forsyth,0.05
+1527,1527,c darron giron,19.25
+1528,1528,c darron giron guggenheim victor,2.0
+1529,1529,c dawn kenne,1.59
+1530,1530,c deyoung richard,1.0
+1531,1531,c drew lynch,0.21
+1532,1532,c falbaum william,2.0
+1533,1533,c gossett jeffrey,3.7
+1534,1534,c hall steve,1.0
+1535,1535,c james lewis,2.0
+1536,1536,c james marlo,0.39
+1537,1537,c jere overdyke,0.45
+1538,1538,c john thompson,0.46
+1539,1539,c knightstep melissa,1.0
+1540,1540,c michelle waldhauser,4.0
+1541,1541,c phillip,3.0
+1542,1542,c phillip randle,1.0
+1543,1543,c robert williams,1.94
+1544,1544,c stephen,1.0
+1545,1545,c thompson,1.0
+1546,1546,cabrera reyna,0.08
+1547,1547,cac itsg,4.0
+1548,1548,cady rachel,0.27
+1549,1549,cahsupport,3.0
+1550,1550,calcagno suzanne,0.36
+1551,1551,calgary it,0.06
+1552,1552,calgary reception,2.0
+1553,1553,calger chris,1.67
+1554,1554,calger chris christian d govenar harry j james kingerski mara mccubbin richard sandra scott shapiro steffes susan yoder,1.0
+1555,1555,calger chris christian d j mara mccubbin mday mike richard sandra shapiro smith susan yoder,1.0
+1556,1556,calger christopher,0.56
+1557,1557,calger christopher f,2.67
+1558,1558,call conf dir reports sk,1.0
+1559,1559,call josie,1.0
+1560,1560,callaghan tom,2.0
+1561,1561,callahan teresa,0.12
+1562,1562,callahan timothy,0.17
+1563,1563,callans nancy,0.24
+1564,1564,calub eric,2.0
+1565,1565,calub eric francis,1.0
+1566,1566,calvert gray,0.09
+1567,1567,calvin eakins,0.12
+1568,1568,calvin juantongia,1.0
+1569,1569,camejo teobaldo,0.5
+1570,1570,cameron marlene,1.0
+1571,1571,camille gerard,0.46
+1572,1572,caminos,1.0
+1573,1573,caminos facundo,1.67
+1574,1574,campbell carolyn,1.0
+1575,1575,campbell danny,0.75
+1576,1576,campbell f larry,3.1
+1577,1577,campbell larry,5.75
+1578,1578,campbell lesli,0.58
+1579,1579,campbell richard,1.0
+1580,1580,campbell scott,1.0
+1581,1581,campos e karen,1.0
+1582,1582,campos hector,1.29
+1583,1583,campos kathy,1.27
+1584,1584,canadian,3.0
+1585,1585,candace womack,0.11
+1586,1586,candella therese,0.11
+1587,1587,candice kao,1.0
+1588,1588,cannon lydia,0.16
+1589,1589,canovas guillermo,0.33
+1590,1590,cantekin dincerler,2.0
+1591,1591,cantrell rebecca,1.25
+1592,1592,cantrell rebecca w,1.43
+1593,1593,capasso joe,3.25
+1594,1594,capestany mari,0.13
+1595,1595,cappelletto nella,0.3
+1596,1596,cappiello deb,2.0
+1597,1597,cappiello deborah,1.33
+1598,1598,cara semperger,5.97
+1599,1599,cara tammaro,1.0
+1600,1600,cara vaughan,0.24
+1601,1601,caranti guido,0.57
+1602,1602,cardenas catalina,1.0
+1603,1603,cardoso leonardo,1.0
+1604,1604,cardoso madeleine,1.0
+1605,1605,cardoso mario parra,0.3
+1606,1606,caren,2.0
+1607,1607,carey m metz,0.25
+1608,1608,carey stacy,1.0
+1609,1609,carin nersesian,0.56
+1610,1610,carl carter,0.3
+1611,1611,carl colditz,2.0
+1612,1612,carl eklund,2.0
+1613,1613,carl livermore,0.36
+1614,1614,carl tricoli,0.16
+1615,1615,carla hoffman,1.13
+1616,1616,carla m o,0.11
+1617,1617,carla nguyen,0.52
+1618,1618,carlee gawiuk,1.0
+1619,1619,carlos,1.07
+1620,1620,carlos giron,0.25
+1621,1621,carlos iii sole,0.93
+1622,1622,carlos j rodriguez,0.57
+1623,1623,carlos rodriguez,1.0
+1624,1624,carlos sole,9.8
+1625,1625,carlos torres,0.34
+1626,1626,carlsbad team,1.0
+1627,1627,carlson tobin,0.69
+1628,1628,carmen chavira,0.08
+1629,1629,carmen perez,1.0
+1630,1630,carmen peters,0.8
+1631,1631,carnahan kathleen,7.14
+1632,1632,carnes molly,0.08
+1633,1633,carol carter,0.04
+1634,1634,carol castanos,2.0
+1635,1635,carol clair st,16.44
+1636,1636,carol coats,0.15
+1637,1637,carol howes,1.0
+1638,1638,carol jean marshall,2.0
+1639,1639,carol kincannon,1.0
+1640,1640,carol kraemer,1.0
+1641,1641,carol lapsley,2.0
+1642,1642,carol moffett,0.28
+1643,1643,carol north,0.6
+1644,1644,carol short,0.22
+1645,1645,carolan dominic,3.0
+1646,1646,carole frank,3.53
+1647,1647,carole hodge,2.0
+1648,1648,carolina waingortin,0.09
+1649,1649,caroline,1.0
+1650,1650,caroline emmert,0.49
+1651,1651,caroline schaeffer,1.0
+1652,1652,carolyn cooney,0.67
+1653,1653,carolyn george,0.45
+1654,1654,carolyn gilley,0.59
+1655,1655,carolyn graham,2.5
+1656,1656,carolyn perry,2.0
+1657,1657,carolyn vavrek,1.0
+1658,1658,carolyn winowitch,1.0
+1659,1659,carpenter nancy,0.25
+1660,1660,carpenter nelly,1.67
+1661,1661,carr james,0.17
+1662,1662,carrabine cary m,0.36
+1663,1663,carraway gregory,1.03
+1664,1664,carrera susan,0.5
+1665,1665,carrick george,0.18
+1666,1666,carrie chaffin,1.0
+1667,1667,carrie coldiron,2.0
+1668,1668,carrie hollomon,1.11
+1669,1669,carrie isaacks,1.0
+1670,1670,carrie larkworthy,1.0
+1671,1671,carrie richardson,3.0
+1672,1672,carrie robert,0.5
+1673,1673,carrie slagle,0.23
+1674,1674,carrie southard,0.31
+1675,1675,carrier lee,0.29
+1676,1676,carriere frank,3.0
+1677,1677,carriere l molly,1.0
+1678,1678,carrington clara,0.14
+1679,1679,carroll lillian,0.33
+1680,1680,carrrn,1.0
+1681,1681,carson d govenar guerrero j james janel kaufman mara margaret mccubbin paul sandra scott steffes susan,1.0
+1682,1682,carson l rick,0.35
+1683,1683,carson margaret,0.55
+1684,1684,carson mike,1.16
+1685,1685,carsten haack,2.0
+1686,1686,carter e karen,0.64
+1687,1687,carter ishi,2.0
+1688,1688,carter karen l,2.0
+1689,1689,carter kimberly,1.0
+1690,1690,carter pamela,0.48
+1691,1691,carter rebecca,0.31
+1692,1692,carter tamara,0.18
+1693,1693,carter tim,0.27
+1694,1694,carter tracy,1.0
+1695,1695,carter zuela,0.05
+1696,1696,casari lou,0.22
+1697,1697,casey evans,1.51
+1698,1698,casey sean,0.17
+1699,1699,cash larry,0.78
+1700,1700,cash michelle,9.27
+1701,1701,cash trey,0.15
+1702,1702,cashin janine,0.33
+1703,1703,cashion jim,0.53
+1704,1704,cashion tana,0.14
+1705,1705,cason sharen,3.86
+1706,1706,cassandra schultz,0.85
+1707,1707,castagnola daniel,0.14
+1708,1708,castagnola daniel r,1.0
+1709,1709,castano marianne,0.2
+1710,1710,castiglione mark,0.5
+1711,1711,castillo michael,1.0
+1712,1712,castillo rosie,2.0
+1713,1713,castleman kent,0.07
+1714,1714,castlen moore,2.0
+1715,1715,castro shielah,0.83
+1716,1716,cates rick,0.17
+1717,1717,catharina clabots,1.0
+1718,1718,catherine,2.0
+1719,1719,catherine clark,0.99
+1720,1720,catherine dumont,1.8
+1721,1721,catherine huynh,0.29
+1722,1722,catherine mckalip,1.0
+1723,1723,catherine pernot,2.0
+1724,1724,catherine woods,2.0
+1725,1725,cathers jon,2.0
+1726,1726,cathy,2.0
+1727,1727,cathy de la torre,0.04
+1728,1728,cathy deleonardis,0.06
+1729,1729,cathy harris l,2.0
+1730,1730,cathy l moehlman,0.06
+1731,1731,cathy lira,0.67
+1732,1732,cathy moehlman,0.12
+1733,1733,cathy phillips,4.36
+1734,1734,cathy pocock,1.0
+1735,1735,cathy sprowls,1.3
+1736,1736,catrina lucero,1.0
+1737,1737,cattigan ed,1.0
+1738,1738,causey,1.0
+1739,1739,causey richard,1.42
+1740,1740,causholli monika,5.88
+1741,1741,cavanaugh darren,0.24
+1742,1742,cavazos david,2.0
+1743,1743,cavazos virginia,1.0
+1744,1744,ccooney,1.0
+1745,1745,cdean,1.0
+1746,1746,cebryk doug,0.52
+1747,1747,cecil john,1.0
+1748,1748,cecil stapley,1.0
+1749,1749,cecilia,1.0
+1750,1750,cecilia cheung,0.73
+1751,1751,cecilia hankamer,1.0
+1752,1752,cecilia olvera,0.12
+1753,1753,cecilia rodriguez,0.42
+1754,1754,cecilia wingate,2.0
+1755,1755,cedeno oscar,0.5
+1756,1756,celeste cisneros,0.19
+1757,1757,celeste roberts,0.92
+1758,1758,celestine hollan,1.0
+1759,1759,center ets solution,0.06
+1760,1760,center health,0.04
+1761,1761,center kid mailing,1.0
+1762,1762,centilli james,0.66
+1763,1763,cerezo pilar,0.48
+1764,1764,cerisoli federico,0.11
+1765,1765,cernosek clem,0.4
+1766,1766,cernosek frank,2.0
+1767,1767,cessac kenneth,0.43
+1768,1768,cgeorge,1.0
+1769,1769,chad,0.57
+1770,1770,chad clark,0.16
+1771,1771,chad gardner,1.0
+1772,1772,chad gronvold,10.0
+1773,1773,chad landry,2.7
+1774,1774,chad pennix,0.5
+1775,1775,chad south,1.0
+1776,1776,chad starnes,0.26
+1777,1777,chad tipton,2.0
+1778,1778,chahal ronnie,0.19
+1779,1779,chali zulu,1.0
+1780,1780,chalk wanda,2.0
+1781,1781,chambers john,2.0
+1782,1782,chambers scot,6.0
+1783,1783,champion john,2.0
+1784,1784,chanaba nyree,1.5
+1785,1785,chance debbie,0.07
+1786,1786,chance rabon,1.41
+1787,1787,chandra rajesh,0.75
+1788,1788,chaney craig,0.07
+1789,1789,chang fran,1.35
+1790,1790,chang sheila,2.0
+1791,1791,chanley earl,0.27
+1792,1792,chantelle villanueva,0.32
+1793,1793,chapman christy,0.61
+1794,1794,chapman heather jeffrey keenan kroll ozzie pagan tom,2.0
+1795,1795,chapman joe,2.0
+1796,1796,chapman jon,0.22
+1797,1797,chapman kay,8.55
+1798,1798,chapman tom,0.57
+1799,1799,charbonneau loren,1.0
+1800,1800,charla reese,0.17
+1801,1801,charla stuart,0.04
+1802,1802,charlene jackson,1.48
+1803,1803,charlene richmond,0.34
+1804,1804,charles cheek,0.18
+1805,1805,charles child,1.0
+1806,1806,charles constance,0.13
+1807,1807,charles decker,2.0
+1808,1808,charles h otto,0.21
+1809,1809,charles jacobs,0.2
+1810,1810,charles morgan,1.0
+1811,1811,charles okechukwu,1.0
+1812,1812,charles thompson,1.0
+1813,1813,charles turcich,0.75
+1814,1814,charles uus,1.0
+1815,1815,charles v weldon,0.3
+1816,1816,charles varnell,0.67
+1817,1817,charles vetters,0.11
+1818,1818,charles ward,0.11
+1819,1819,charles weldon,12.21
+1820,1820,charles yeung,0.75
+1821,1821,charlie graham,0.14
+1822,1822,charlie hoang,0.1
+1823,1823,charlie thompson,0.5
+1824,1824,charline stevens,1.0
+1825,1825,charlotte hawkins,0.75
+1826,1826,charlotte jones,1.0
+1827,1827,charlotte kraham,1.18
+1828,1828,charm weeks,2.0
+1829,1829,charnella mims,3.5
+1830,1830,charvel ricardo,0.26
+1831,1831,chatterton jill,0.89
+1832,1832,chauncey hood,2.0
+1833,1833,chaundra woods,0.22
+1834,1834,chavarria javier,0.11
+1835,1835,chavez ted,0.46
+1836,1836,chaxel yvan,1.16
+1837,1837,chen hai,0.18
+1838,1838,cheng john,2.0
+1839,1839,cheng ningya,2.0
+1840,1840,chenoweth christopher,1.0
+1841,1841,cheong dorice,2.0
+1842,1842,cheri mcpherson,1.0
+1843,1843,cheri thomas,1.0
+1844,1844,cherie steigerwald,0.4
+1845,1845,cherry diane,0.23
+1846,1846,cherry ken,2.0
+1847,1847,cherry mont,4.0
+1848,1848,cherry paul,0.42
+1849,1849,cherry steve,1.0
+1850,1850,cheryl,0.15
+1851,1851,cheryl cole,2.0
+1852,1852,cheryl costa,0.3
+1853,1853,cheryl d king,2.0
+1854,1854,cheryl dawes,0.1
+1855,1855,cheryl dudley,0.17
+1856,1856,cheryl gaines,1.0
+1857,1857,cheryl johnson,0.41
+1858,1858,cheryl kuehl,0.33
+1859,1859,cheryl lantz marshall,0.12
+1860,1860,cheryl lindeman,0.35
+1861,1861,cheryl lipshutz,0.29
+1862,1862,cheryl luster,2.0
+1863,1863,cheryl marshall,0.22
+1864,1864,cheryl nelson,2.12
+1865,1865,cheryl perchal,1.6
+1866,1866,cheryl robacker,1.0
+1867,1867,cheryl sumbler,1.0
+1868,1868,chet fenner,1.08
+1869,1869,chettiar rajesh,1.0
+1870,1870,cheung joseph,1.0
+1871,1871,chike okpara,2.5
+1872,1872,childers craig,2.0
+1873,1873,chilkina elena,0.44
+1874,1874,chin h julia,0.71
+1875,1875,chiodi,1.0
+1876,1876,chip,2.0
+1877,1877,chip cox,0.38
+1878,1878,chip schneider,0.55
+1879,1879,chismar john,0.12
+1880,1880,chitradurga sundar,1.0
+1881,1881,chiu lindon,2.0
+1882,1882,chivers paul,2.0
+1883,1883,choate heather,0.53
+1884,1884,choate jason,0.75
+1885,1885,choi paul,0.22
+1886,1886,chola justin,4.0
+1887,1887,chonawee supatgiat,0.1
+1888,1888,choon heng,1.0
+1889,1889,choquette gary,0.27
+1890,1890,chow kenneth,1.2
+1891,1891,choyce ken,0.36
+1892,1892,chris,0.7
+1893,1893,chris clark,1.0
+1894,1894,chris cockrell,1.0
+1895,1895,chris connelly,1.0
+1896,1896,chris constantine,1.0
+1897,1897,chris cramer,1.67
+1898,1898,chris croom,2.0
+1899,1899,chris dorland,6.96
+1900,1900,chris foster,0.2
+1901,1901,chris foster h,1.36
+1902,1902,chris gaffney,0.42
+1903,1903,chris gaskill,1.32
+1904,1904,chris germany,60.98
+1905,1905,chris glaas,0.16
+1906,1906,chris greaney,1.0
+1907,1907,chris hatcher,1.0
+1908,1908,chris hendrix,0.16
+1909,1909,chris herron,0.06
+1910,1910,chris hilgert,1.13
+1911,1911,chris holmes,0.11
+1912,1912,chris hyde,0.66
+1913,1913,chris jones,1.0
+1914,1914,chris kravas,1.0
+1915,1915,chris l miller,1.0
+1916,1916,chris lackey,0.15
+1917,1917,chris lambert,0.19
+1918,1918,chris lambie,0.53
+1919,1919,chris lenartowicz,0.05
+1920,1920,chris long,0.36
+1921,1921,chris love,1.0
+1922,1922,chris mahoney,0.54
+1923,1923,chris mallory,0.38
+1924,1924,chris meyer,0.5
+1925,1925,chris morton,1.0
+1926,1926,chris mumm,2.0
+1927,1927,chris norris,10.0
+1928,1928,chris ordway,0.22
+1929,1929,chris price,0.04
+1930,1930,chris reedy,2.0
+1931,1931,chris riegler,1.0
+1932,1932,chris schomer,2.0
+1933,1933,chris sebesta,0.14
+1934,1934,chris sonneborn,0.07
+1935,1935,chris stokley,8.0
+1936,1936,chris walker,1.0
+1937,1937,chris wiebe,0.28
+1938,1938,chris williams,1.2
+1939,1939,chrisman marty,2.0
+1940,1940,chrissy grove,1.0
+1941,1941,christa winfrey,0.87
+1942,1942,christi culwell,0.23
+1943,1943,christi l nicolay,2.24
+1944,1944,christi nicolay,0.36
+1945,1945,christiaan huizer,0.91
+1946,1946,christian,0.33
+1947,1947,christian lebroc,0.77
+1948,1948,christian rahaim,0.25
+1949,1949,christian werner,0.08
+1950,1950,christian yoder,1.28
+1951,1951,christiansen suzanne,0.27
+1952,1952,christie connell,6.0
+1953,1953,christie lauren,1.0
+1954,1954,christie patrick,1.83
+1955,1955,christina finelli,0.28
+1956,1956,christina garza,1.0
+1957,1957,christina liscano,1.0
+1958,1958,christina sanchez,0.25
+1959,1959,christina sherman,1.0
+1960,1960,christina valdez,1.02
+1961,1961,christine garcia,4.0
+1962,1962,christine jung s,1.0
+1963,1963,christine lee,2.0
+1964,1964,christine mcevoy,0.24
+1965,1965,christine milliner,1.0
+1966,1966,christine pham,2.0
+1967,1967,christine shenkman,4.0
+1968,1968,christine stokes,1.95
+1969,1969,christine sullivan,2.0
+1970,1970,christodoulou diomedes,0.12
+1971,1971,christopher czuppon,1.0
+1972,1972,christopher day j,1.0
+1973,1973,christopher foster,1.0
+1974,1974,christopher gann,2.0
+1975,1975,christopher jeska,1.0
+1976,1976,christopher kravas,1.0
+1977,1977,christopher smith,0.18
+1978,1978,christopher spears,0.32
+1979,1979,christopher watts,0.51
+1980,1980,christy lobusch,0.36
+1981,1981,chu dian,2.0
+1982,1982,chumley jason,1.0
+1983,1983,chun inja,0.16
+1984,1984,chung oh taek,1.0
+1985,1985,churbock scott,2.0
+1986,1986,cicchetti cindy,2.0
+1987,1987,cichosz stuart,1.0
+1988,1988,cigarroa gabriella,0.33
+1989,1989,cilia mary,1.0
+1990,1990,cindy derecksey,3.0
+1991,1991,cindy derecskey,0.42
+1992,1992,cindy horn,1.0
+1993,1993,cindy justice,1.33
+1994,1994,cindy long,2.0
+1995,1995,cindy olson,0.8
+1996,1996,cindy richardson,0.65
+1997,1997,cindy shaffer,1.0
+1998,1998,cindy skinner,0.26
+1999,1999,cindy stark,2.87
+2000,2000,cindy stokes,0.16
+2001,2001,cindy tarsi,1.0
+2002,2002,cindy vachuska,0.8
+2003,2003,cindy ward,3.0
+2004,2004,cini pat,1.0
+2005,2005,cini patricia,0.95
+2006,2006,ciscon larry,2.0
+2007,2007,cisneros d michelle,0.44
+2008,2008,cisneros maria,0.04
+2009,2009,clair fowler,1.0
+2010,2010,claire dunnett,1.0
+2011,2011,claire harvey,2.0
+2012,2012,clapper karen,0.67
+2013,2013,clare ellis,0.6
+2014,2014,clarence schwab,1.0
+2015,2015,clarian vondrak,2.0
+2016,2016,clarissa cooper,1.0
+2017,2017,clarissa garcia,0.52
+2018,2018,clark claudia,0.18
+2019,2019,clark craig,0.09
+2020,2020,clark danny,0.08
+2021,2021,clark ed,1.0
+2022,2022,clark kathleen,4.42
+2023,2023,clark mary,0.36
+2024,2024,clark mayers,1.0
+2025,2025,clark morris,1.12
+2026,2026,clark morris richard,0.16
+2027,2027,clark nekesha,2.0
+2028,2028,clark patricia,1.0
+2029,2029,clark scott,0.56
+2030,2030,clarke niamh,0.13
+2031,2031,clarke sonya,2.0
+2032,2032,classen kay,7.0
+2033,2033,claudette harvey,0.42
+2034,2034,claudia,1.0
+2035,2035,claudia guerra,0.23
+2036,2036,claudia meraz,0.14
+2037,2037,claudia.santos@enron.com,2.0
+2038,2038,claudio ribeiro,0.18
+2039,2039,clause kristen,0.78
+2040,2040,clay,4.0
+2041,2041,clay dryden,1.0
+2042,2042,clay harris,0.27
+2043,2043,clay monica,1.0
+2044,2044,clay spears,0.86
+2045,2045,clayton lawrence,0.21
+2046,2046,clayton paul,2.0
+2047,2047,clayton rondeau,0.14
+2048,2048,clayton seigle,0.42
+2049,2049,clayton vernon,0.84
+2050,2050,cleaveland derryl,4.0
+2051,2051,clement lau,1.22
+2052,2052,clements david,1.0
+2053,2053,cleverly scott,1.0
+2054,2054,click,1.0
+2055,2055,clickathome,0.51
+2056,2056,clickathomecanada,1.0
+2057,2057,clickathomepilot,1.0
+2058,2058,cliff evans,1.0
+2059,2059,cliff lawrick,0.32
+2060,2060,cliff mcpherson,1.0
+2061,2061,cliff shedd,0.67
+2062,2062,clifford douglas,2.0
+2063,2063,clifford l marlene,1.0
+2064,2064,clifford mike,1.0
+2065,2065,clifford phil,0.27
+2066,2066,clifford rachel,2.0
+2067,2067,cline wade,0.19
+2068,2068,clint cockrell,1.0
+2069,2069,clint dean,0.27
+2070,2070,clint freeland,0.85
+2071,2071,clint shay,1.0
+2072,2072,clint walden,0.21
+2073,2073,clint wilson,1.0
+2074,2074,clu@enron.com,4.0
+2075,2075,clyatt julie,0.9
+2076,2076,clynes pat,2.33
+2077,2077,clynes terri,0.18
+2078,2078,cmoore,1.0
+2079,2079,cms router,1.4
+2080,2080,coats edward,2.0
+2081,2081,cobb john,1.0
+2082,2082,cobb jr,1.05
+2083,2083,cobden jan,0.14
+2084,2084,cocavessis nick,0.16
+2085,2085,cocke jr,0.44
+2086,2086,cocke stanley,0.86
+2087,2087,coe sap,0.2
+2088,2088,cofer sandy,1.0
+2089,2089,coffer walter,0.07
+2090,2090,coffey jackson jim rhett,1.0
+2091,2091,coffey james,2.0
+2092,2092,coffey jim,2.0
+2093,2093,coffey jr,0.29
+2094,2094,coffing timothy,0.55
+2095,2095,cogan john,1.0
+2096,2096,cohagan fred,0.07
+2097,2097,coi dang,2.0
+2098,2098,coker ron,1.21
+2099,2099,colbert marilyn,0.2
+2100,2100,cole dan,1.0
+2101,2101,cole jim,2.0
+2102,2102,cole kate,0.14
+2103,2103,cole marion w,2.0
+2104,2104,cole rob,0.06
+2105,2105,coleman jacqueline,0.36
+2106,2106,coleman mike,0.38
+2107,2107,coleman venita,0.86
+2108,2108,coles frank,0.44
+2109,2109,colette dow,1.0
+2110,2110,colin poon tip,0.9
+2111,2111,colin skellett,4.0
+2112,2112,colin tonks,0.49
+2113,2113,colleen raker,0.07
+2114,2114,colleen sullivan,1.89
+2115,2115,collett crissy,0.05
+2116,2116,collier ricky,1.0
+2117,2117,collins dustin,0.17
+2118,2118,collins harry m,1.19
+2119,2119,collins joan,0.09
+2120,2120,collins joann,2.8
+2121,2121,collins marion,0.12
+2122,2122,collonges remi,0.26
+2123,2123,colwell wes,2.17
+2124,2124,comeaux keith,0.25
+2125,2125,comello mary,2.0
+2126,2126,comiskey trey,1.0
+2127,2127,committee executive,0.08
+2128,2128,commons matthew,1.0
+2129,2129,communications,2.0
+2130,2130,community,0.2
+2131,2131,community relations,2.0
+2132,2132,comp temp,1.0
+2133,2133,compean karla,0.05
+2134,2134,concannon greg,1.0
+2135,2135,concannon ruth,0.79
+2136,2136,concklin elaine,0.46
+2137,2137,condon douglas,0.44
+2138,2138,condon matthew,0.11
+2139,2139,cones janet,0.26
+2140,2140,conf,1.0
+2141,2141,confer mark,0.73
+2142,2142,confirm desk,1.0
+2143,2143,conn philip,0.33
+2144,2144,connelly scott,1.0
+2145,2145,conner danny,0.16
+2146,2146,conner patrick,2.0
+2147,2147,connevey g yvette,0.94
+2148,2148,connie estrems f,0.41
+2149,2149,connie hook,0.12
+2150,2150,connie lo,1.0
+2151,2151,connie sutton,0.37
+2152,2152,connolly lisa,0.13
+2153,2153,connor eric,1.0
+2154,2154,connor joe,0.12
+2155,2155,connors eugene eugene,1.0
+2156,2156,considine keith,0.29
+2157,2157,console security,0.5
+2158,2158,contract european management,1.0
+2159,2159,convery theresa,1.0
+2160,2160,conway frank p,5.0
+2161,2161,conwell wendy,0.97
+2162,2162,cook diane h,0.39
+2163,2163,cook kelly,1.0
+2164,2164,cook mary,3.91
+2165,2165,cook sam,2.0
+2166,2166,cooke ian,1.12
+2167,2167,cooley jan,0.31
+2168,2168,coon galen,0.17
+2169,2169,cooper edmund,0.89
+2170,2170,cooper j tracy,2.69
+2171,2171,cooper megan,2.0
+2172,2172,cooper richey,2.41
+2173,2173,cooper tim,0.24
+2174,2174,cooper tracey,2.0
+2175,2175,cooper tracy,0.26
+2176,2176,copeland erin,2.5
+2177,2177,copeland james l,1.0
+2178,2178,cora pendergrass,0.36
+2179,2179,coralina rivera,0.02
+2180,2180,corbally kathryn,0.24
+2181,2181,corbally michael,0.25
+2182,2182,corbet nancy,0.23
+2183,2183,cordell gary,0.33
+2184,2184,cordes kathryn,0.07
+2185,2185,cordesman kevin,0.07
+2186,2186,cordova,1.0
+2187,2187,cordova ernesto,2.0
+2188,2188,cordova karen,0.19
+2189,2189,corey hobbs,1.0
+2190,2190,corey hollander,4.0
+2191,2191,corey paula,0.29
+2192,2192,corina taylor,0.5
+2193,2193,corman shelley,8.49
+2194,2194,cormier martha,0.1
+2195,2195,corneiro eydie,1.0
+2196,2196,cornett justin,0.03
+2197,2197,corporate security,0.07
+2198,2198,corteselli gina,0.47
+2199,2199,cortez nicole,0.29
+2200,2200,cory willis,0.3
+2201,2201,costanzo nadine,0.86
+2202,2202,costello lisa,0.27
+2203,2203,cotten robert,0.94
+2204,2204,couch greg,0.32
+2205,2205,coulter jodi,0.03
+2206,2206,coulter kayne,0.49
+2207,2207,courtney mark,0.95
+2208,2208,courtney votaw,0.35
+2209,2209,couvillon paul,6.0
+2210,2210,cowan michael,0.37
+2211,2211,cowan mike,1.26
+2212,2212,cowan sue,1.0
+2213,2213,cox david,0.08
+2214,2214,cox grant,0.12
+2215,2215,cox paige,0.31
+2216,2216,cox shirley,1.0
+2217,2217,coyote moon,1.0
+2218,2218,crady e ned,0.1
+2219,2219,craig,2.0
+2220,2220,craig dean,2.83
+2221,2221,craig h sutter,1.0
+2222,2222,craig hiddleston,2.0
+2223,2223,craig john taylor,0.44
+2224,2224,craig johnstone,0.05
+2225,2225,craig lipke,2.0
+2226,2226,craig mclurg,0.28
+2227,2227,craig rick,0.11
+2228,2228,craig rickard,1.0
+2229,2229,craig taylor,0.45
+2230,2230,craig young,0.83
+2231,2231,cramer james,1.0
+2232,2232,crandall,1.0
+2233,2233,crandall sean,3.01
+2234,2234,crane jr,0.1
+2235,2235,crawford jason,1.0
+2236,2236,crawford sharon,0.56
+2237,2237,credit,1.0
+2238,2238,creech nathan,1.0
+2239,2239,crenshaw shirley,10.26
+2240,2240,cresswell james,1.0
+2241,2241,crews david,0.24
+2242,2242,crilly peter,0.06
+2243,2243,cris daniel sherman,1.0
+2244,2244,cris sherman,0.28
+2245,2245,cristal metz,1.0
+2246,2246,cristina zavala,0.33
+2247,2247,critz smith,2.0
+2248,2248,cromwell l sheri,0.21
+2249,2249,cronin jennifer,1.0
+2250,2250,cronin william,1.5
+2251,2251,crook denver jody o plachy,2.0
+2252,2252,crook jody,0.37
+2253,2253,crooks william,0.75
+2254,2254,cross darren,0.5
+2255,2255,cross edith,0.21
+2256,2256,cross edith ees,1.0
+2257,2257,cross ora,0.34
+2258,2258,cross richard,0.1
+2259,2259,croucher jr,1.0
+2260,2260,crowell rachel,0.09
+2261,2261,crowell scott,1.25
+2262,2262,crowley philip,0.03
+2263,2263,crump jim,1.0
+2264,2264,cruz gloria,1.82
+2265,2265,cruz magdelena,0.63
+2266,2266,crystal dobson,2.0
+2267,2267,crystal hyde,1.88
+2268,2268,crystal lightfield,6.0
+2269,2269,csandhe,0.5
+2270,2270,csikos lisa,0.4
+2271,2271,cubillos humberto,0.91
+2272,2272,cuccia michael,2.0
+2273,2273,cuenco sue,1.0
+2274,2274,cuilla martin,1.4
+2275,2275,cuilla wayne,2.0
+2276,2276,cullen duke,2.0
+2277,2277,culver deborah,0.1
+2278,2278,cumberland shawn,0.34
+2279,2279,cummings john,0.23
+2280,2280,cunningham cutty,0.5
+2281,2281,cunningham lance,0.67
+2282,2282,cunningham margarite,0.09
+2283,2283,curlee steven,0.27
+2284,2284,curran greg,0.29
+2285,2285,curry jim,1.0
+2286,2286,curry ken,0.58
+2287,2287,curry mike,0.41
+2288,2288,curry randall,0.12
+2289,2289,curry wanda,0.72
+2290,2290,curtis hutcheson,1.5
+2291,2291,curtis michele,0.14
+2292,2292,curtis smith,0.25
+2293,2293,curtis valerie,0.17
+2294,2294,customer sap support,1.0
+2295,2295,cutaia jennifer,0.5
+2296,2296,cuthbert roberts,1.0
+2297,2297,cutsforth diane,0.75
+2298,2298,cyndi jewell m,0.46
+2299,2299,cyndi wulfson,6.0
+2300,2300,cynthia,2.0
+2301,2301,cynthia franklin,0.37
+2302,2302,cynthia gin,0.28
+2303,2303,cynthia gonzalez,1.0
+2304,2304,cynthia hakemack,0.23
+2305,2305,cynthia harkness,0.07
+2306,2306,cynthia mayes,1.0
+2307,2307,cynthia morrow,0.04
+2308,2308,cynthia ramirez,2.0
+2309,2309,cynthia rivers,0.23
+2310,2310,cynthia safford,1.0
+2311,2311,cynthia sandherr,0.44
+2312,2312,cynthia vasquez,1.0
+2313,2313,cyntia distefano,1.0
+2314,2314,cyprow jarrod,0.51
+2315,2315,cyril price,2.0
+2316,2316,d,0.27
+2317,2317,d daniel mc whirter,1.0
+2318,2318,d david kinder,1.0
+2319,2319,d davis jeff,0.1
+2320,2320,d deborah merril,1.0
+2321,2321,d denne govenar guerrero harry j james janel karen kaufman kingerski mara mccubbin paul richard sandra scott shapiro steffes susan,1.0
+2322,2322,d denne govenar guerrero j james janel karen mara mccubbin richard sandra scott shapiro steffes susan,1.0
+2323,2323,d denne govenar guerrero james janel karen kaufman linda mark mccubbin palmer paul richard robertson sandra scott shapiro steffes,1.0
+2324,2324,d denne guerrero harry james janel karen kaufman kingerski mccubbin paul sandra steffes,1.0
+2325,2325,d denne guerrero j james janel karen kaufman mara paul steffes susan,1.0
+2326,2326,d denne guerrero james janel karen steffes,0.25
+2327,2327,d denne harry james karen kaufman kingerski paul steffes,1.0
+2328,2328,d edward gottlob,0.56
+2329,2329,d exe tara,1.0
+2330,2330,d foster james,1.33
+2331,2331,d garry wilson,0.03
+2332,2332,d gordon,1.0
+2333,2333,d govenar j j james kaufman kean mara mccubbin paul richard sandra scott shapiro steffes steven susan,1.0
+2334,2334,d govenar james linda richard robertson scott shapiro steffes,1.0
+2335,2335,d govenar james mccubbin richard sandra scott shapiro steffes,1.0
+2336,2336,d gros thomas,0.37
+2337,2337,d guerrero james janel kaufman paul richard shapiro steffes,1.0
+2338,2338,d hall,0.5
+2339,2339,d hall todd,0.43
+2340,2340,d hardeman kathleen,1.0
+2341,2341,d harry j james jmb johnson kaufman kingerski lawner leslie mara paul richard scott shapiro steffes stoness susan tamara,1.0
+2342,2342,d harry j james kingerski lawner leslie mara mday richard shapiro steffes susan,1.0
+2343,2343,d harry j james kingerski mahoney mara peggy steffes susan,1.0
+2344,2344,d harry j james kingerski mara mccubbin sandra steffes susan,1.0
+2345,2345,d harry james kaufman kingerski mccubbin paul sandra steffes,1.0
+2346,2346,d harry james kaufman kingerski paul richard shapiro steffes,1.0
+2347,2347,d harry james kaufman kingerski paul steffes,1.0
+2348,2348,d harry james kingerski mccubbin richard sandra shapiro steffes,1.0
+2349,2349,d hartsoe james joe richard shapiro steffes,1.0
+2350,2350,d hogan irena,0.93
+2351,2351,d j james mara richard shapiro steffes susan,1.0
+2352,2352,d j kinser,0.58
+2353,2353,d j smith,2.0
+2354,2354,d james lawner leslie steffes,1.0
+2355,2355,d james mday richard shapiro steffes,1.0
+2356,2356,d james richard shapiro steffes,1.0
+2357,2357,d james steffes,28.79
+2358,2358,d jefferson sorenson,0.96
+2359,2359,d jerry martin,0.24
+2360,2360,d john miller,1.0
+2361,2361,d john powell,3.0
+2362,2362,d john suarez,0.5
+2363,2363,d karen mcilvoy,0.44
+2364,2364,d kenneth,0.13
+2365,2365,d kenneth rice,1.0
+2366,2366,d marchand patrick,2.0
+2367,2367,d mark thorne,0.34
+2368,2368,d matthew williams,0.06
+2369,2369,d mike smith,0.43
+2370,2370,d morgan robert,0.05
+2371,2371,d paul thomas,1.75
+2372,2372,d susan trevino,0.9
+2373,2373,dad,2.5
+2374,2374,daetz milagros,2.0
+2375,2375,daffin margaret,0.45
+2376,2376,dahlke mike,2.0
+2377,2377,daigle dana,4.0
+2378,2378,daigre sergai,2.0
+2379,2379,daily leonard,0.17
+2380,2380,daily pamela,1.18
+2381,2381,dain eric le,1.56
+2382,2382,dalal sunil,0.91
+2383,2383,dale,0.38
+2384,2384,dale eldridge,0.13
+2385,2385,dale furrow,0.43
+2386,2386,dale neuner,1.46
+2387,2387,dale rasmussen,1.58
+2388,2388,dale ratliff,0.46
+2389,2389,dale surbey,1.02
+2390,2390,dalgleish randel,1.0
+2391,2391,dalia minal,0.07
+2392,2392,dallmann shane,0.06
+2393,2393,dalton dorothy,0.37
+2394,2394,dalton hogan,0.83
+2395,2395,dalton oscar,0.3
+2396,2396,damon harvey,1.0
+2397,2397,dan,0.11
+2398,2398,dan dietrich,0.17
+2399,2399,dan dorland,1.43
+2400,2400,dan douglass,1.0
+2401,2401,dan fancler,0.38
+2402,2402,dan feather,2.0
+2403,2403,dan hyvl,0.75
+2404,2404,dan hyvl j,8.06
+2405,2405,dan junek,2.26
+2406,2406,dan leff,0.91
+2407,2407,dan lyons,0.71
+2408,2408,dan masters,0.4
+2409,2409,dan maxwell,2.0
+2410,2410,dan miller,1.0
+2411,2411,dan pribble,0.15
+2412,2412,dan staines,1.0
+2413,2413,dan temple,1.0
+2414,2414,dan thibaut,0.47
+2415,2415,dan watkiss,1.0
+2416,2416,dana davis,2.53
+2417,2417,dana davis mark,0.55
+2418,2418,dana gibbs,0.17
+2419,2419,dana gibbs r,3.0
+2420,2420,dana jones,0.16
+2421,2421,dana lee,1.0
+2422,2422,danaher patrick,3.0
+2423,2423,dang son,1.0
+2424,2424,daniel,0.16
+2425,2425,daniel diamond,1.1
+2426,2426,daniel dutt ranabir,1.0
+2427,2427,daniel falcone,0.56
+2428,2428,daniel ferrell,2.0
+2429,2429,daniel fitzgerald,1.0
+2430,2430,daniel joel johnson,1.0
+2431,2431,daniel junek,13.0
+2432,2432,daniel kang,0.89
+2433,2433,daniel lisk,0.18
+2434,2434,daniel lyons,1.0
+2435,2435,daniel muschar,0.23
+2436,2436,daniel quezada,1.32
+2437,2437,daniel r rogers,0.37
+2438,2438,daniel reck,0.77
+2439,2439,daniel s,1.0
+2440,2440,daniel shonnie,0.57
+2441,2441,danielle dees,2.0
+2442,2442,danielle marcinkowski,4.0
+2443,2443,danielles,2.0
+2444,2444,daniels eddie,1.0
+2445,2445,daniels eddy,0.38
+2446,2446,danielson michael,0.65
+2447,2447,danilo juvane,2.0
+2448,2448,danilov viacheslav,0.13
+2449,2449,dannhaus ed,0.08
+2450,2450,danny,0.4
+2451,2451,danny mccarty,2.82
+2452,2452,danny quint,1.0
+2453,2453,danny wilson,1.0
+2454,2454,danya moody,2.0
+2455,2455,danz suzanne,8.0
+2456,2456,daphne quarles,2.0
+2457,2457,dara flinn m,3.0
+2458,2458,daren farmer j,19.47
+2459,2459,darensbourg joe,1.0
+2460,2460,dari dornan,0.75
+2461,2461,darin presto,0.4
+2462,2462,darin talley,3.0
+2463,2463,darla saucier,1.88
+2464,2464,darmitzel paul,1.0
+2465,2465,darrah shawn,1.0
+2466,2466,darrell kinder w,2.0
+2467,2467,darrell schoolcraft,9.66
+2468,2468,darrell stovall,2.0
+2469,2469,darren delage,0.17
+2470,2470,darren espey,1.56
+2471,2471,darren gurner,1.0
+2472,2472,darren maloney,1.29
+2473,2473,darren vanek,1.85
+2474,2474,darrington outama,1.0
+2475,2475,darveaux mary,0.99
+2476,2476,daryll fuentes,8.0
+2477,2477,dasilva esther,0.38
+2478,2478,dasovich enron jeff sf,2.0
+2479,2479,dasovich jeff,59.74
+2480,2480,dasovich jeffrey,2.0
+2481,2481,dat truong,1.0
+2482,2482,datren williams,0.15
+2483,2483,dautel rudy,0.19
+2484,2484,dauterive inez,1.0
+2485,2485,dave,0.75
+2486,2486,dave delainey,2.0
+2487,2487,dave fuller,1.59
+2488,2488,dave gorte,2.0
+2489,2489,dave hill,0.1
+2490,2490,dave kellermeyer,2.0
+2491,2491,dave kistler,1.0
+2492,2492,dave kristich,20.0
+2493,2493,dave martinez,1.0
+2494,2494,dave maxey,1.0
+2495,2495,dave miller w,0.8
+2496,2496,dave neubauer,0.81
+2497,2497,dave nommensen,0.15
+2498,2498,dave parquet,1.0
+2499,2499,dave perrino,2.93
+2500,2500,dave roberts,1.0
+2501,2501,dave samuels,1.59
+2502,2502,dave schafer,0.21
+2503,2503,dave scott,3.42
+2504,2504,dave smalley,1.0
+2505,2505,dave waymire,2.0
+2506,2506,dave wei,1.12
+2507,2507,davenport kaye,1.0
+2508,2508,davette warren,2.0
+2509,2509,davey shirley,0.33
+2510,2510,david,0.52
+2511,2511,david delainey,1.29
+2512,2512,david delainey w,24.59
+2513,2513,david delaney,0.22
+2514,2514,david draper,1.0
+2515,2515,david dronet,0.4
+2516,2516,david duff,2.0
+2517,2517,david dupre p,0.78
+2518,2518,david duran w,0.86
+2519,2519,david e rosenberg,0.53
+2520,2520,david eubanks w,0.21
+2521,2521,david fairley,1.69
+2522,2522,david fairley l,0.09
+2523,2523,david fildes,2.5
+2524,2524,david fontana,2.0
+2525,2525,david forster,2.92
+2526,2526,david foster,1.0
+2527,2527,david foti,0.56
+2528,2528,david fulghum,4.0
+2529,2529,david g mally,2.0
+2530,2530,david gorte,1.02
+2531,2531,david gossett,1.0
+2532,2532,david grant,1.0
+2533,2533,david grevelle,1.0
+2534,2534,david hardy,2.0
+2535,2535,david haug,0.33
+2536,2536,david hensel,1.33
+2537,2537,david hill,1.0
+2538,2538,david hoog,0.12
+2539,2539,david howe,1.0
+2540,2540,david hunker,4.0
+2541,2541,david hutchinson,0.1
+2542,2542,david ingram,0.55
+2543,2543,david j vitrella,1.0
+2544,2544,david jensen,2.0
+2545,2545,david johnson l,2.0
+2546,2546,david jones,0.56
+2547,2547,david junus,3.0
+2548,2548,david keyes,1.0
+2549,2549,david kistler,1.0
+2550,2550,david koogler,1.0
+2551,2551,david kowalczyk,4.0
+2552,2552,david l roland,1.0
+2553,2553,david leboe,0.29
+2554,2554,david lund,0.24
+2555,2555,david m rosenberg,0.67
+2556,2556,david mally,2.0
+2557,2557,david marks,0.14
+2558,2558,david marshall,0.25
+2559,2559,david martin,2.0
+2560,2560,david matthews,2.0
+2561,2561,david maxwell,0.15
+2562,2562,david mayeux,0.1
+2563,2563,david mcellin,1.0
+2564,2564,david merrill,1.0
+2565,2565,david minns,0.72
+2566,2566,david mitchell,0.06
+2567,2567,david nobles,1.0
+2568,2568,david nutt,0.5
+2569,2569,david o,0.22
+2570,2570,david oliver,2.05
+2571,2571,david owen,0.48
+2572,2572,david owens,1.0
+2573,2573,david oxley,3.21
+2574,2574,david parquet,1.11
+2575,2575,david pope,0.14
+2576,2576,david port,0.79
+2577,2577,david porter v,0.28
+2578,2578,david portz,0.7
+2579,2579,david poston,0.46
+2580,2580,david pruner,0.11
+2581,2581,david rawlings,0.5
+2582,2582,david redmond,0.2
+2583,2583,david reinfeld,0.06
+2584,2584,david reinfeld s,0.67
+2585,2585,david roensch,0.46
+2586,2586,david roland,0.06
+2587,2587,david ronkainen,2.0
+2588,2588,david rosenberg,0.6
+2589,2589,david runnels,0.25
+2590,2590,david ryan,0.19
+2591,2591,david shields,0.09
+2592,2592,david smith,1.0
+2593,2593,david steiner,0.93
+2594,2594,david swearingen,1.0
+2595,2595,david sztroin,0.17
+2596,2596,david tagliarino,0.31
+2597,2597,david v,2.0
+2598,2598,david vandor,0.3
+2599,2599,david wall,1.0
+2600,2600,david weekes,1.0
+2601,2601,david wile,0.11
+2602,2602,david woodstrom,0.6
+2603,2603,david zaccour,1.0
+2604,2604,davidson debra,0.54
+2605,2605,davidson julie,1.0
+2606,2606,davidson mark,2.0
+2607,2607,davidson sara,0.15
+2608,2608,davies derek,0.52
+2609,2609,davies neil,0.41
+2610,2610,davila raul,1.25
+2611,2611,davis frank l,2.99
+2612,2612,davis geneva,0.08
+2613,2613,davis hardie,1.0
+2614,2614,davis joya,0.39
+2615,2615,davis karen,4.0
+2616,2616,davis larry,1.0
+2617,2617,davis matt,4.0
+2618,2618,davis pete,0.25
+2619,2619,davis robert,1.0
+2620,2620,davis tamara,1.0
+2621,2621,davis thames,0.32
+2622,2622,daw nicki,0.44
+2623,2623,dawn doucet,0.44
+2624,2624,dawne,2.0
+2625,2625,dawson matt,9.0
+2626,2626,dawson matthew,0.69
+2627,2627,dawson paul,0.17
+2628,2628,dawson sherry,0.76
+2629,2629,dax sanders,1.0
+2630,2630,day l smith,0.87
+2631,2631,day mike,2.0
+2632,2632,day misti,0.1
+2633,2633,dayal madhur,0.5
+2634,2634,dayem khandker,1.0
+2635,2635,dblack,1.0
+2636,2636,de,0.18
+2637,2637,de frank jesus,0.39
+2638,2638,de gohm pete van,1.0
+2639,2639,de janet la paz,0.1
+2640,2640,de klerk nadja,2.0
+2641,2641,de la marc roche,0.06
+2642,2642,de rabi,0.24
+2643,2643,deadwyler erik,0.24
+2644,2644,deal east ews new power report,1.0
+2645,2645,dean,1.0
+2646,2646,dean drozdiak,0.2
+2647,2647,dean laurent,0.36
+2648,2648,dean mccallister,1.0
+2649,2649,dean russell,0.12
+2650,2650,dean urbanik,1.0
+2651,2651,deane ryan,2.0
+2652,2652,deb gebhardt,0.09
+2653,2653,deb korkmas,0.36
+2654,2654,debbie flores,0.67
+2655,2655,debbie moore,1.17
+2656,2656,debbie moseley,0.09
+2657,2657,debbie nicholls,0.03
+2658,2658,debbie nowak,0.14
+2659,2659,debbie ramey,1.0
+2660,2660,debi vanwey,0.8
+2661,2661,debny greenlee,1.0
+2662,2662,deborah defforge,1.0
+2663,2663,deborah henderson,1.0
+2664,2664,deborah shahmoradi,0.2
+2665,2665,debra hicks,1.0
+2666,2666,debra perlingiere,18.47
+2667,2667,debra scurlock,0.4
+2668,2668,debra thompson,0.73
+2669,2669,decker robin,1.6
+2670,2670,dede russo,1.0
+2671,2671,dederusso,1.0
+2672,2672,dee madole,0.28
+2673,2673,dee svatos,0.23
+2674,2674,deepak sitlani,1.5
+2675,2675,deffner joseph,0.75
+2676,2676,deffner joseph m,0.25
+2677,2677,deirdre mccaffrey,0.38
+2678,2678,del,0.25
+2679,2679,del joseph moral,1.0
+2680,2680,delahoussaye,3.0
+2681,2681,delaney hunter,0.29
+2682,2682,delaney john,1.0
+2683,2683,deleon roberto,0.12
+2684,2684,delgado lydia,1.0
+2685,2685,delma salazar,10.0
+2686,2686,demetrics tyson,1.0
+2687,2687,demetrion ware,14.0
+2688,2688,deming richard,1.17
+2689,2689,demoes les phil webber,1.0
+2690,2690,demoes phil,0.75
+2691,2691,dempsey stacey,0.28
+2692,2692,dempsey wes,1.0
+2693,2693,dena pawlowski,2.0
+2694,2694,denae umbower,3.0
+2695,2695,denetsosie troy,0.53
+2696,2696,deng kenneth,1.0
+2697,2697,denis o,0.72
+2698,2698,denis tu,0.06
+2699,2699,denise furey,0.11
+2700,2700,denise lagesse,0.72
+2701,2701,denise squirrel,0.42
+2702,2702,denise williams,4.0
+2703,2703,denne govenar guerrero j janel karen kaufman mara paul scott susan,1.0
+2704,2704,denne govenar j karen kaufman mara mccubbin paul sandra scott susan,1.0
+2705,2705,denne govenar j karen kaufman mara paul richard scott shapiro susan,3.0
+2706,2706,denne govenar karen mccubbin sandra scott,1.0
+2707,2707,denne guerrero janel karen,1.0
+2708,2708,denne guerrero janel karen kaufman paul,1.0
+2709,2709,denne harry jennifer karen kingerski landwehr m susan thome,1.0
+2710,2710,denne j karen mara mccubbin sandra susan,0.67
+2711,2711,denne j karen mara mday susan,1.0
+2712,2712,denne karen,3.11
+2713,2713,dennis harris,0.75
+2714,2714,dennis howell,1.0
+2715,2715,dennis lee,0.28
+2716,2716,dennis montgomery,1.0
+2717,2717,dennis vegas,0.17
+2718,2718,denny jennifer,0.12
+2719,2719,denos george,2.0
+2720,2720,dent rochelle,2.0
+2721,2721,denton l rhonda,1.67
+2722,2722,denton rhonda,1.0
+2723,2723,denver plachy,0.37
+2724,2724,denys watson,2.0
+2725,2725,depaolis tammi,1.26
+2726,2726,derek edmiston,1.0
+2727,2727,derek flaman,1.0
+2728,2728,derek kelly,0.16
+2729,2729,derek lee,0.6
+2730,2730,derenda plunkett,1.0
+2731,2731,dernehl ginger,1.0
+2732,2732,derrick james,1.94
+2733,2733,derrick james v,0.24
+2734,2734,derrick jr,13.81
+2735,2735,derrick tim,2.0
+2736,2736,derrota luis,1.0
+2737,2737,desai jayshree,1.69
+2738,2738,deshonda hamilton,0.3
+2739,2739,desk portland west,0.2
+2740,2740,despain tim,0.12
+2741,2741,desrae nicholson,1.0
+2742,2742,determeyer peggy,1.0
+2743,2743,detiveaux kim,3.0
+2744,2744,detmering j timothy,0.11
+2745,2745,detmering tim,1.5
+2746,2746,deville mike,1.0
+2747,2747,devries glen,1.0
+2748,2748,devries paul,0.14
+2749,2749,dewar donette,1.0
+2750,2750,dforster,2.0
+2751,2751,dfossum,0.07
+2752,2752,dfs inc international,3.0
+2753,2753,dfulton,1.0
+2754,2754,dgiron,0.33
+2755,2755,dhont margaret,2.78
+2756,2756,dhruv tushar,0.6
+2757,2757,dhyvl,1.0
+2758,2758,dial sandra,3.78
+2759,2759,diamond russell,2.92
+2760,2760,diana gutierrez,1.0
+2761,2761,diana higgins,0.07
+2762,2762,diana mclaughlin,2.0
+2763,2763,diana ovalle,2.0
+2764,2764,diana peters,2.0
+2765,2765,diana porter,0.13
+2766,2766,diana scholtes,2.63
+2767,2767,diana willigerod,0.33
+2768,2768,diane e niestrath,2.0
+2769,2769,diane eckels,2.0
+2770,2770,diane fellers,3.0
+2771,2771,diane fellers r,0.46
+2772,2772,diane goode,1.71
+2773,2773,diane salcido,1.12
+2774,2774,diane taylor,0.11
+2775,2775,diann huddleson,0.56
+2776,2776,dianne j swiber,0.25
+2777,2777,dianne langeland,1.0
+2778,2778,dianne seib,0.16
+2779,2779,dianne swiber,2.0
+2780,2780,diaz george,2.0
+2781,2781,dicarlo louis,0.62
+2782,2782,dick jenkins,2.83
+2783,2783,dick sharon,2.0
+2784,2784,dick westfahl,0.52
+2785,2785,dicke scott,1.0
+2786,2786,dickens,1.0
+2787,2787,dickerson steve v,1.0
+2788,2788,dickin mark,0.88
+2789,2789,dickson e stacy,5.03
+2790,2790,dickson stacy,1.0
+2791,2791,dieball scott,1.5
+2792,2792,diers gene,0.12
+2793,2793,dietrich janet,0.75
+2794,2794,dietrich janet r,2.64
+2795,2795,dietrich sarah,0.17
+2796,2796,dietz rick,1.26
+2797,2797,difiore estelle love,1.0
+2798,2798,dillingham gavin,0.25
+2799,2799,dillingham geynille,0.89
+2800,2800,dilworth mark,0.33
+2801,2801,dimare dominic,3.0
+2802,2802,dimichele richard,0.22
+2803,2803,dimitry dirk,1.0
+2804,2804,dina snow,0.24
+2805,2805,dinah schlecht,1.0
+2806,2806,dinari l sabra,0.32
+2807,2807,ding yuan,2.0
+2808,2808,dinh huy,1.0
+2809,2809,dinh trang,0.07
+2810,2810,disturnal john,0.56
+2811,2811,divelbiss sasha,1.17
+2812,2812,dl,6.02
+2813,2813,dmccarty,4.0
+2814,2814,doan felicia,1.3
+2815,2815,doan jad,0.47
+2816,2816,dobbs jason,0.75
+2817,2817,dobernecker jan,1.0
+2818,2818,dobernecker janet,0.71
+2819,2819,dobin nora,0.4
+2820,2820,dobler mark,0.53
+2821,2821,dodgen kathy,0.21
+2822,2822,dodson keith,0.39
+2823,2823,doll jeanette,0.51
+2824,2824,dolores fisher,0.07
+2825,2825,dolores lenfest,0.75
+2826,2826,dolores muzzy,0.14
+2827,2827,dolores sustaita,4.0
+2828,2828,dominic marshall,1.0
+2829,2829,domke jana,1.0
+2830,2830,don,0.11
+2831,2831,don germany jr,2.0
+2832,2832,don hammond,0.92
+2833,2833,don hawkins,0.24
+2834,2834,don iacobell,1.0
+2835,2835,don kirkindahl,2.0
+2836,2836,don miller,3.01
+2837,2837,don nelson,2.0
+2838,2838,don powell,0.22
+2839,2839,don rollins,0.07
+2840,2840,don schroeder,0.36
+2841,2841,don stevens,1.0
+2842,2842,donahue jeff,0.91
+2843,2843,donald lassere,0.53
+2844,2844,donald lassere scott,1.0
+2845,2845,donald m,1.33
+2846,2846,donald p reinhardt,2.0
+2847,2847,donald paddack,1.0
+2848,2848,donald robinson,1.07
+2849,2849,donald solomon,2.0
+2850,2850,donald vignaroli,0.17
+2851,2851,donald vinson wayne,0.24
+2852,2852,doner max,0.56
+2853,2853,donlevy,0.67
+2854,2854,donna,3.0
+2855,2855,donna dye,0.57
+2856,2856,donna fulton,0.27
+2857,2857,donna greif,0.2
+2858,2858,donna johnson,0.45
+2859,2859,donna jones,0.12
+2860,2860,donna lowry,0.34
+2861,2861,donna martens,0.34
+2862,2862,donna scott,1.57
+2863,2863,donna sheidun,0.3
+2864,2864,donnelly paul,0.17
+2865,2865,donnie myers,0.72
+2866,2866,donnis traylor,1.0
+2867,2867,donoho lindy,4.56
+2868,2868,donohoe tom,0.48
+2869,2869,donovan j thomas,0.14
+2870,2870,donovan terry w,0.13
+2871,2871,dopson lametrice,0.07
+2872,2872,dora trevino,0.1
+2873,2873,dorie hitchcock,0.97
+2874,2874,dorina garcia,1.0
+2875,2875,doris foster,3.0
+2876,2876,doroteo rufino,0.5
+2877,2877,dorothy mccoppin,0.67
+2878,2878,dorothy youngblood,0.25
+2879,2879,dorsey joyce,0.04
+2880,2880,dorsey tim,0.24
+2881,2881,dortha gray,0.05
+2882,2882,doucette margaret,0.33
+2883,2883,doug,2.0
+2884,2884,doug elmore,1.0
+2885,2885,doug gilbert,0.23
+2886,2886,doug leach,0.45
+2887,2887,doug mcdowell,0.06
+2888,2888,doug miller,1.67
+2889,2889,doug nelson,0.29
+2890,2890,doug paterson,0.75
+2891,2891,doug pedigo,0.1
+2892,2892,doug rotenberg,2.0
+2893,2893,doug sewell,0.47
+2894,2894,doug wood,1.0
+2895,2895,douglas friedman s,0.04
+2896,2896,douglas fuehne,1.0
+2897,2897,douglas h stephen,0.32
+2898,2898,douglas huth,0.13
+2899,2899,douglas loon,2.0
+2900,2900,douglas moreno v,0.08
+2901,2901,douglas nichols,0.83
+2902,2902,douglas parsons s,4.0
+2903,2903,doukas tom,1.12
+2904,2904,dovie keprta,0.28
+2905,2905,dowd stephen,0.71
+2906,2906,dowd steve,0.67
+2907,2907,dowden jr,0.25
+2908,2908,downey kacee,9.0
+2909,2909,downey patricia,0.09
+2910,2910,doyle melanie,2.0
+2911,2911,dozier melissa,1.0
+2912,2912,dozier scott,0.54
+2913,2913,dperlin,2.0
+2914,2914,drachenberg kevin w,0.75
+2915,2915,draemer mary,0.19
+2916,2916,drager kevin,1.0
+2917,2917,draper lon,0.09
+2918,2918,dreadin gary,2.0
+2919,2919,drew,2.0
+2920,2920,drew fossum,33.54
+2921,2921,drew hill,0.86
+2922,2922,drew kanellopoulos,0.57
+2923,2923,drew l tammy,1.0
+2924,2924,drew lynch,4.0
+2925,2925,drew ries,2.0
+2926,2926,driscoll,0.5
+2927,2927,driscoll l marde,3.15
+2928,2928,driscoll m michael,0.3
+2929,2929,druzbik lisa,0.76
+2930,2930,dubash geiv,2.0
+2931,2931,dubose heidi,3.0
+2932,2932,ducote i james,0.04
+2933,2933,duff jeff,0.38
+2934,2934,duff simon,1.0
+2935,2935,duffy matthew,2.0
+2936,2936,duffy steve,2.0
+2937,2937,dujic neven,1.0
+2938,2938,dung tran,1.0
+2939,2939,dunn,1.0
+2940,2940,dunphy lynn,1.0
+2941,2941,dunsmore paul,1.0
+2942,2942,dunton heather,0.59
+2943,2943,duong luu,0.35
+2944,2944,dupuy mark,0.22
+2945,2945,duran w,1.05
+2946,2946,duree janelle,0.31
+2947,2947,dusek ryan,1.0
+2948,2948,dushinske john,0.25
+2949,2949,dusty paez warren,0.59
+2950,2950,dutch quigley,5.33
+2951,2951,dutt ranabir,0.2
+2952,2952,dutta tom,1.0
+2953,2953,dwivedi vikas,0.6
+2954,2954,dyar teresa,1.0
+2955,2955,dybowski jarek,2.0
+2956,2956,dyer judy,1.23
+2957,2957,dyer laird,0.37
+2958,2958,dyk russell,0.23
+2959,2959,dykes tangie,0.5
+2960,2960,dyson fernley,0.47
+2961,2961,e edward graham,2.0
+2962,2962,e elliot mainzer,1.0
+2963,2963,e garcia maria,2.0
+2964,2964,e gayla seiter,2.5
+2965,2965,e gene humphrey,1.0
+2966,2966,e haedicke mark,8.11
+2967,2967,e james keller,0.22
+2968,2968,e jeffrey sommers,2.62
+2969,2969,e jesse neyman,2.0
+2970,2970,e jones karen,0.72
+2971,2971,e julie love,2.0
+2972,2972,e kasemervisz william,0.47
+2973,2973,e kathleen magruder,0.13
+2974,2974,e kelly mike,0.21
+2975,2975,e laura scott,0.27
+2976,2976,e laura webner,1.0
+2977,2977,e lee robert,1.5
+2978,2978,e levingston maxine,1.0
+2979,2979,e lindsey mark,0.12
+2980,2980,e lloyd robert,0.61
+2981,2981,e mark peterson,0.22
+2982,2982,e mark taylor,4.79
+2983,2983,e michael molland,1.0
+2984,2984,e michael moscoso,0.34
+2985,2985,e michael taylor,2.71
+2986,2986,e morten pettersen,4.0
+2987,2987,e murrell russell,0.1
+2988,2988,e peter weidler,0.62
+2989,2989,e rainbow traci,4.0
+2990,2990,e sharon sullo,0.08
+2991,2991,e stephanie taylor,1.8
+2992,2992,e stephen williams,1.0
+2993,2993,e thomas white,0.24
+2994,2994,e62e126d-6e2b3722-862565a8-71d1a3@enron.com,1.0
+2995,2995,earl ken,0.07
+2996,2996,earl tisdale,0.21
+2997,2997,earlene o,0.12
+2998,2998,earline kendall,1.0
+2999,2999,earnest scott,0.68
+3000,3000,east laynie,0.11
+3001,3001,eaves james,1.0
+3002,3002,eber louis,1.0
+3003,3003,eberts max,2.0
+3004,3004,eberts pat,2.0
+3005,3005,echterhoff lal,1.0
+3006,3006,ect,1.1
+3007,3007,ecthou,2.0
+3008,3008,ed,2.0
+3009,3009,ed hlopak,1.0
+3010,3010,ed martin,1.0
+3011,3011,ed mcmichael,0.7
+3012,3012,ed quinn,0.25
+3013,3013,ed smith,2.0
+3014,3014,ed wood,0.31
+3015,3015,eddie sera,1.0
+3016,3016,eddie zhang,0.12
+3017,3017,edie leschber,0.19
+3018,3018,edith turnipseed,0.18
+3019,3019,edmiston gene,2.0
+3020,3020,edmonds marcus,1.0
+3021,3021,edmonds nina,0.1
+3022,3022,edmund gaetjens,1.0
+3023,3023,edward gottlob,0.8
+3024,3024,edward hamb,0.09
+3025,3025,edward ondarza,0.19
+3026,3026,edward sacks,2.06
+3027,3027,edward stockbridge t,1.0
+3028,3028,edward terry,2.08
+3029,3029,edwards janet,0.42
+3030,3030,edwards monica,1.0
+3031,3031,edwards ralph,2.0
+3032,3032,edwards tasha,1.0
+3033,3033,edwin essandoh,0.07
+3034,3034,ees fax frankfurt,2.0
+3035,3035,ees power settlements,1.0
+3036,3036,eespower,1.0
+3037,3037,egflegal,1.0
+3038,3038,eggebrecht kurt,1.0
+3039,3039,eggleston m meredith,0.04
+3040,3040,eghneim gus,3.0
+3041,3041,egmar niclas,2.0
+3042,3042,ehrig j steven,0.17
+3043,3043,ehud i,1.0
+3044,3044,eiben michael,0.19
+3045,3045,eichmann marc,0.2
+3046,3046,eickenroht robert,0.23
+3047,3047,eileen kisluk,0.12
+3048,3048,eklavya sareen,2.0
+3049,3049,elafandi mo,0.8
+3050,3050,elaina vallo,1.0
+3051,3051,elaine esparza,1.0
+3052,3052,elaine harkins,1.0
+3053,3053,elaine overturf,0.07
+3054,3054,elaine schield,0.36
+3055,3055,elberg gelin,0.67
+3056,3056,elbertson janette,4.63
+3057,3057,eleanor fraser,2.0
+3058,3058,elena kapralova,0.36
+3059,3059,eletke,1.0
+3060,3060,elinnell,1.0
+3061,3061,elio tortolero,0.38
+3062,3062,elisa tamez,2.0
+3063,3063,elisabeth mccabe,0.35
+3064,3064,elizabeth grant,0.84
+3065,3065,elizabeth hernandez,1.0
+3066,3066,elizabeth hernandez l,1.66
+3067,3067,elizabeth hutchinson,1.0
+3068,3068,elizabeth ivers,0.31
+3069,3069,elizabeth labanowski,0.12
+3070,3070,elizabeth linnell,0.73
+3071,3071,elizabeth mccarthy,2.0
+3072,3072,elizabeth murphy,1.0
+3073,3073,elizabeth peters,0.12
+3074,3074,elizabeth rivera,0.03
+3075,3075,elizabeth sager,9.96
+3076,3076,elizabeth serralheiro,0.42
+3077,3077,elizabeth shim,0.15
+3078,3078,elizabeth soto,0.15
+3079,3079,elizabeth tilney,0.25
+3080,3080,elizabeth webb,1.11
+3081,3081,elizondo rudy,1.0
+3082,3082,elledge susan,0.63
+3083,3083,ellen fowler,2.0
+3084,3084,ellen mary miller,3.0
+3085,3085,ellen su,0.21
+3086,3086,ellen wallumrod,3.42
+3087,3087,ellenberg mark,1.29
+3088,3088,ellenberger mary,0.21
+3089,3089,elliot fullwood,1.0
+3090,3090,elliot mainzer,0.62
+3091,3091,elliott lexi,1.31
+3092,3092,elliott m steven,0.05
+3093,3093,elliott mark,0.39
+3094,3094,ellis faye,0.17
+3095,3095,ellis kaye,3.05
+3096,3096,ellis kelly,2.0
+3097,3097,ellis laurie,1.2
+3098,3098,ellis lora,2.0
+3099,3099,ellis nate,0.19
+3100,3100,ellis ricky,4.0
+3101,3101,ellis stern,0.5
+3102,3102,ellis toby,2.0
+3103,3103,eloise meza,2.0
+3104,3104,eloy escobar,2.0
+3105,3105,elsa piekielniak,0.2
+3106,3106,elsa villarreal,0.26
+3107,3107,elsie lew,1.0
+3108,3108,elspeth inglis,0.03
+3109,3109,ely l stella,1.0
+3110,3110,elyse kalmans,0.15
+3111,3111,emerson michael,1.0
+3112,3112,emilio vicens,0.62
+3113,3113,emily ferguson,2.0
+3114,3114,emily hillegeist,0.09
+3115,3115,emily sellers,0.73
+3116,3116,emily ward,1.0
+3117,3117,emmanuel mangin,1.0
+3118,3118,emmons suzette,0.19
+3119,3119,ena supervisors,4.0
+3120,3120,enajobs,1.0
+3121,3121,endo steve,1.0
+3122,3122,endo steven,1.0
+3123,3123,energy security storage ubsw,1.0
+3124,3124,enerson john,0.22
+3125,3125,engel thomas,0.6
+3126,3126,engel tom,3.0
+3127,3127,engeldorf m roseann,4.0
+3128,3128,engeldorf roseann,4.73
+3129,3129,engineer hunaid,2.0
+3130,3130,enrique jose zambrano,1.0
+3131,3131,enrique lenci,1.0
+3132,3132,enron,0.94
+3133,3133,enron everyone,4.0
+3134,3134,enron expertfinder,1.0
+3135,3135,enron govenar hedy sacto,1.0
+3136,3136,enron govenar scott,2.0
+3137,3137,enron it purchasing,1.0
+3138,3138,enron jim steffes,1.0
+3139,3139,enron london,0.05
+3140,3140,enron messaging security,0.1
+3141,3141,enron pac,1.0
+3142,3142,enron payroll,2.0
+3143,3143,enronitpurchasing,3.0
+3144,3144,ephross joel,0.21
+3145,3145,erb kim,0.61
+3146,3146,eric,0.22
+3147,3147,eric faucheaux,0.25
+3148,3148,eric feitler,0.33
+3149,3149,eric gadd,1.22
+3150,3150,eric gillaspie,1.53
+3151,3151,eric gonzales,2.47
+3152,3152,eric groves,0.29
+3153,3153,eric h mason,2.0
+3154,3154,eric holzer,1.0
+3155,3155,eric klinkner,3.0
+3156,3156,eric ledain,0.5
+3157,3157,eric letke,0.41
+3158,3158,eric letke mccubbin sandra,1.0
+3159,3159,eric linder,0.52
+3160,3160,eric melvin,0.33
+3161,3161,eric moon,0.81
+3162,3162,eric munion,2.0
+3163,3163,eric newell,0.08
+3164,3164,eric raab,2.0
+3165,3165,eric saibi,1.14
+3166,3166,eric schneider,2.0
+3167,3167,eric scott,0.04
+3168,3168,eric shaw,0.06
+3169,3169,eric thode,1.05
+3170,3170,eric wardle,1.5
+3171,3171,erica garcia,1.0
+3172,3172,erica gut,1.0
+3173,3173,erica mestre,1.0
+3174,3174,erik hansen,1.0
+3175,3175,erik serio,1.0
+3176,3176,erik simpson,1.0
+3177,3177,erin norris,2.57
+3178,3178,erin rice,0.33
+3179,3179,ermes melinchon,0.05
+3180,3180,ermis frank,1.19
+3181,3181,ernie,0.2
+3182,3182,ernst nicholas,1.0
+3183,3183,ernst nick,3.0
+3184,3184,errigo joe,2.58
+3185,3185,errol mclaughlin,14.57
+3186,3186,erskine ilene,4.0
+3187,3187,ervin lorna,2.0
+3188,3188,erwin kenton,0.05
+3189,3189,erwin landivar,2.0
+3190,3190,erwin stephanie,1.0
+3191,3191,esmeralda gonzalez,0.22
+3192,3192,esmeralda hinojosa,0.05
+3193,3193,espinoza javier,1.0
+3194,3194,espinoza richard,2.0
+3195,3195,espinoza roger,0.6
+3196,3196,espinoza veronica,2.57
+3197,3197,essie locklear,0.67
+3198,3198,essoufi laverne,1.0
+3199,3199,estalee russi,0.1
+3200,3200,estelle love,3.0
+3201,3201,esther gerratt,4.0
+3202,3202,estrada israel,2.0
+3203,3203,et,2.0
+3204,3204,et m steven,2.0
+3205,3205,etelvina guerra,0.5
+3206,3206,etringer govenar mccubbin michael sandra scott,1.0
+3207,3207,etringer michael,0.55
+3208,3208,ets information management risk,1.0
+3209,3209,etter kyle,0.53
+3210,3210,eubank marshall,2.0
+3211,3211,eubanks jr,2.0
+3212,3212,eugene lee,1.25
+3213,3213,eugene zeitz,2.0
+3214,3214,eugenio perez,0.18
+3215,3215,eunice team,2.0
+3216,3216,eurek marsha,2.0
+3217,3217,ev,1.0
+3218,3218,eva neufeld,1.67
+3219,3219,eva pao,2.0
+3220,3220,eva rainer,0.39
+3221,3221,evaluation performance process,7.0
+3222,3222,evan hughes,0.53
+3223,3223,evans laura,1.0
+3224,3224,evans mark,0.44
+3225,3225,evans sandra,4.0
+3226,3226,evans ted,0.57
+3227,3227,evansmark,1.0
+3228,3228,evanson meliza,0.19
+3229,3229,eve puckett,0.75
+3230,3230,evelyn l,1.0
+3231,3231,evelyn metoyer,10.57
+3232,3232,evens timothy,1.0
+3233,3233,everett,0.22
+3234,3234,everett plante,2.0
+3235,3235,everett smith,2.0
+3236,3236,everyone,2.0
+3237,3237,ewald laura,1.0
+3238,3238,ewing j linda,0.05
+3239,3239,expense report,0.83
+3240,3240,expertfinder,0.08
+3241,3241,f george smith,0.4
+3242,3242,f gockerman matthew,0.62
+3243,3243,f greg piper,2.0
+3244,3244,f jason williams,2.0
+3245,3245,f keavey peter,1.79
+3246,3246,f michael wong,3.33
+3247,3247,fagan fran,0.62
+3248,3248,faggard steve,1.0
+3249,3249,fahd lodi,1.0
+3250,3250,faith killen,0.79
+3251,3251,faldyn rodney,1.0
+3252,3252,fallon jim,0.63
+3253,3253,fallon susan,0.19
+3254,3254,faltinsen stig,3.0
+3255,3255,fang fang,1.0
+3256,3256,fangming zhu,2.0
+3257,3257,farhangnia farzad,0.19
+3258,3258,fariba karimi,3.0
+3259,3259,farley jack,1.0
+3260,3260,farmer stanley,1.0
+3261,3261,farouk lalji,4.0
+3262,3262,farrell keegan,0.64
+3263,3263,farrell sharon,0.05
+3264,3264,farrow shana,3.0
+3265,3265,farrow suzanne,0.67
+3266,3266,fascetti lee,0.29
+3267,3267,fastuca george,0.8
+3268,3268,fatimata liamidi,2.0
+3269,3269,fawcett jeff,0.16
+3270,3270,fawcett jeffery,2.5
+3271,3271,fawcett lisa,1.0
+3272,3272,fawcett mike,2.0
+3273,3273,federico haeussler,2.0
+3274,3274,feeley una,2.5
+3275,3275,feldman karla,0.1
+3276,3276,feldman mark,2.0
+3277,3277,feldt rachel,2.0
+3278,3278,felecia fitzgerald,3.0
+3279,3279,felicia ma,1.0
+3280,3280,felicia solis,1.0
+3281,3281,felipe hernandez,5.0
+3282,3282,felipe ibarra,0.08
+3283,3283,felipe ospina,0.73
+3284,3284,feltman peter,0.56
+3285,3285,fenceroy lachandra,1.0
+3286,3286,feng wayne,2.0
+3287,3287,feng youyi,0.2
+3288,3288,fenstad larry,0.13
+3289,3289,fenton mark,1.0
+3290,3290,ferenc jaroslaw,2.0
+3291,3291,fergus gary,1.0
+3292,3292,fergus gary s,0.23
+3293,3293,ferguson mark,0.07
+3294,3294,ferlic suzanne,1.5
+3295,3295,fernandez fernando,1.0
+3296,3296,fernandez justin,0.67
+3297,3297,fernando manrique pedro,2.0
+3298,3298,ferrara julie,1.56
+3299,3299,ferrari kerry,1.0
+3300,3300,ferrell lee,0.41
+3301,3301,ferries nelson,0.3
+3302,3302,ferry jay,0.22
+3303,3303,fiala markus,0.1
+3304,3304,fiandt terri,0.59
+3305,3305,fichten murray,0.35
+3306,3306,fieldhouse stuart,1.0
+3307,3307,fields h sharon,1.0
+3308,3308,fields jon,1.0
+3309,3309,fields kerry,1.0
+3310,3310,fields lara,0.05
+3311,3311,fillinger mark,0.15
+3312,3312,fincher wendy,1.0
+3313,3313,finken paul,0.68
+3314,3314,fiona grant,1.0
+3315,3315,fiona lavelle,0.1
+3316,3316,fiona mcnaught,0.07
+3317,3317,fiona stewart,1.0
+3318,3318,fischer,0.5
+3319,3319,fischer jason,0.14
+3320,3320,fischer luitgard,0.17
+3321,3321,fischer mark,0.42
+3322,3322,fischer mary,7.08
+3323,3323,fiscus john,0.06
+3324,3324,fisher mark,1.29
+3325,3325,fisher steven,1.6
+3326,3326,fishkin,1.0
+3327,3327,fitch gary,0.08
+3328,3328,fite rebecca,3.0
+3329,3329,fitzgerald genia,1.11
+3330,3330,fitzgerald jay,0.83
+3331,3331,fitzgerald stacy,1.0
+3332,3332,fitzwater loftus,0.53
+3333,3333,flack paul,0.33
+3334,3334,flagstaff,3.0
+3335,3335,flagstaff team,0.26
+3336,3336,flahaven julie,2.0
+3337,3337,flanigan tricia,0.31
+3338,3338,flavia negrete,1.0
+3339,3339,fleenor william,2.5
+3340,3340,fleming lloyd,3.0
+3341,3341,fleming rhonda,2.0
+3342,3342,fleming rosalee,2.88
+3343,3343,fletcher j sturm,3.38
+3344,3344,flores leticia,1.0
+3345,3345,flores nony,0.32
+3346,3346,flores sidrac,2.0
+3347,3347,flores zulie,0.07
+3348,3348,floris vinio,0.23
+3349,3349,floyd jodie,0.74
+3350,3350,flynn irene,2.0
+3351,3351,flynn shawna,0.13
+3352,3352,flynn susan,3.04
+3353,3353,foard jean,1.0
+3354,3354,fogo georgia,0.1
+3355,3355,fondren mark,1.2
+3356,3356,forbish sherry,0.21
+3357,3357,ford rebecca,0.37
+3358,3358,ford sue,0.25
+3359,3359,ford yolanda,0.57
+3360,3360,fore jeanne,0.25
+3361,3361,forney john,1.0
+3362,3362,forney john m,8.96
+3363,3363,forney judy,1.0
+3364,3364,forrester j,1.0
+3365,3365,fortunato john,2.0
+3366,3366,fortunov gallin,2.0
+3367,3367,foster gary,1.0
+3368,3368,foust l michelle,1.0
+3369,3369,foust sue,1.33
+3370,3370,fowler kulvinder,0.22
+3371,3371,fowler mike,0.32
+3372,3372,fowler peggy,1.31
+3373,3373,foy tracy,0.08
+3374,3374,fraley keith,0.15
+3375,3375,fran l mayes,0.93
+3376,3376,fran mayes,1.0
+3377,3377,frances ortiz,2.0
+3378,3378,francis gail,2.0
+3379,3379,francis gonzales,1.0
+3380,3380,francis lim s,0.31
+3381,3381,francis matt,6.0
+3382,3382,francisca juarez,1.0
+3383,3383,francisco,0.88
+3384,3384,francisco leite pinto,0.38
+3385,3385,franck scott,2.0
+3386,3386,frank hayden,2.19
+3387,3387,frank laura,1.0
+3388,3388,frank lobdell,1.0
+3389,3389,frank mark,0.13
+3390,3390,frank matthew,0.09
+3391,3391,frank oldenhuis,2.0
+3392,3392,frank ortiz,1.0
+3393,3393,frank prejean,0.05
+3394,3394,frank rishe,1.0
+3395,3395,frank robert,0.8
+3396,3396,frank sayre,1.08
+3397,3397,frank semin,0.11
+3398,3398,frank smith,0.11
+3399,3399,frank sosa,1.0
+3400,3400,frank steven,1.0
+3401,3401,frank vickers,0.71
+3402,3402,frank vickers w,0.83
+3403,3403,franklin mary theresa,1.01
+3404,3404,franklin warrick,1.0
+3405,3405,franks shawn,1.0
+3406,3406,franksen robert,0.29
+3407,3407,franky sulistio,0.36
+3408,3408,franz kathy,1.0
+3409,3409,fraser jennifer,1.58
+3410,3410,fraser kate,0.41
+3411,3411,frausto ruthann,0.63
+3412,3412,frayre imelda,0.7
+3413,3413,frazier,1.0
+3414,3414,frazier glenn,1.0
+3415,3415,frazier king,0.57
+3416,3416,frazier lamar,0.8
+3417,3417,frazier michael,0.19
+3418,3418,frazier perry,0.49
+3419,3419,fred,0.6
+3420,3420,fred j,2.0
+3421,3421,fred kelly l,0.46
+3422,3422,fred lagrasta,0.3
+3423,3423,fred mitro,2.82
+3424,3424,fred philipson,0.48
+3425,3425,fred rimington,1.0
+3426,3426,fredericks kristi,1.0
+3427,3427,frederking william,0.11
+3428,3428,freeman sandra,2.0
+3429,3429,freeman scott,1.0
+3430,3430,freije william,1.0
+3431,3431,frers greg,0.5
+3432,3432,fresquez rick,1.0
+3433,3433,frevert mark,1.8
+3434,3434,freyre rodolfo,0.32
+3435,3435,fricke liz,1.0
+3436,3436,friedman,1.0
+3437,3437,friedman mark,0.1
+3438,3438,friedman richard,0.69
+3439,3439,friend trip,1.0
+3440,3440,frnka patrick,2.0
+3441,3441,frolov yevgeny,0.19
+3442,3442,fromer howard,0.33
+3443,3443,frumkin kim,1.0
+3444,3444,fuentes irma,1.0
+3445,3445,fuller gary,1.0
+3446,3446,fuller robert,1.0
+3447,3447,funkhouser shanna,0.76
+3448,3448,fussell jim,2.0
+3449,3449,fvickers,1.0
+3450,3450,g gay rob,7.31
+3451,3451,g gosnell mary,0.37
+3452,3452,g jeff slaughter,1.43
+3453,3453,g john rigby,0.62
+3454,3454,g kevin moore,0.72
+3455,3455,g michael stage,0.43
+3456,3456,g mike smith,0.21
+3457,3457,g mr timothy usachppm,1.0
+3458,3458,g rexrode stuart,2.0
+3459,3459,g rosendahl thomas,2.0
+3460,3460,ga west,1.0
+3461,3461,gabriel monroy,10.08
+3462,3462,gagliardi larry,0.13
+3463,3463,gahn scott,0.15
+3464,3464,gail tholen,0.3
+3465,3465,galan joseph m,0.27
+3466,3466,gallishaw melinda,1.0
+3467,3467,gallup,0.25
+3468,3468,gallup team,0.06
+3469,3469,galura jess,1.0
+3470,3470,galvan joshua p,1.0
+3471,3471,galvan michael s,0.05
+3472,3472,ganapathy ramesh,0.3
+3473,3473,gandy kristin,1.16
+3474,3474,gang govenar scott william,1.0
+3475,3475,gang lisa,0.99
+3476,3476,gang william,0.45
+3477,3477,ganjoo shalesh,0.13
+3478,3478,gapinski michael,0.14
+3479,3479,garaygracie,2.0
+3480,3480,garberding michael,0.61
+3481,3481,garcia irene,1.0
+3482,3482,garcia l miguel,0.25
+3483,3483,garcia miguel,0.75
+3484,3484,garcia nina,0.23
+3485,3485,garcia nita,1.0
+3486,3486,garcia paul,0.67
+3487,3487,garcia reynaldo,4.0
+3488,3488,garcia santiago,0.29
+3489,3489,gardner wayne,0.14
+3490,3490,garland kevin,0.24
+3491,3491,garner joanne,1.0
+3492,3492,garner kate,1.0
+3493,3493,garred h michael,2.04
+3494,3494,garred michael,1.0
+3495,3495,garrett tripp,0.18
+3496,3496,garrick hill,0.42
+3497,3497,garrison john,2.0
+3498,3498,garrison john l,0.8
+3499,3499,garvey jason,1.0
+3500,3500,gary,0.11
+3501,3501,gary gleeson,3.0
+3502,3502,gary hanks,2.0
+3503,3503,gary hickerson,1.07
+3504,3504,gary hugo,1.0
+3505,3505,gary justice,1.0
+3506,3506,gary kane,1.0
+3507,3507,gary kenagy,0.21
+3508,3508,gary lamphier w,1.52
+3509,3509,gary maestas,0.07
+3510,3510,gary monk,1.0
+3511,3511,gary p,1.0
+3512,3512,gary p smith,0.45
+3513,3513,gary peng,0.09
+3514,3514,gary smith,0.51
+3515,3515,gary spraggins,1.5
+3516,3516,gary stadler,1.34
+3517,3517,gary taylor,0.41
+3518,3518,gary weiss,0.15
+3519,3519,gary zahn,0.12
+3520,3520,garza maria,0.85
+3521,3521,garza sarita,1.0
+3522,3522,garza tommy,1.33
+3523,3523,gas,1.0
+3524,3524,gaskey ron,2.0
+3525,3525,gaskill jonathan,0.4
+3526,3526,gaul gavin,1.0
+3527,3527,gautam gupta,0.09
+3528,3528,gavin russo,2.0
+3529,3529,gay l randall,4.67
+3530,3530,gay mayeux,0.25
+3531,3531,gay rob,0.67
+3532,3532,gayle muench w,2.0
+3533,3533,gayle rodgers,1.0
+3534,3534,gaynel henley,2.0
+3535,3535,gcp,0.16
+3536,3536,gdavis,2.0
+3537,3537,geaccone tracy,9.14
+3538,3538,geffryes toby,1.0
+3539,3539,geghneim,2.0
+3540,3540,geheb robert,1.0
+3541,3541,gehle jr william,8.0
+3542,3542,geir solberg,1.17
+3543,3543,gelder john van,1.0
+3544,3544,gem project,2.0
+3545,3545,genaro mendoza,0.54
+3546,3546,gene,1.0
+3547,3547,gene humphrey,0.19
+3548,3548,geneva holland,4.0
+3549,3549,geneva patterson,1.0
+3550,3550,genia,1.0
+3551,3551,gentle jackie,0.13
+3552,3552,gentry mike,3.0
+3553,3553,geoff pollard,4.0
+3554,3554,geoff storey,1.69
+3555,3555,georganne hodges,1.67
+3556,3556,george,1.0
+3557,3557,george gilbert n,0.04
+3558,3558,george grant,0.13
+3559,3559,george h robert,0.16
+3560,3560,george hope,0.21
+3561,3561,george hopley,0.48
+3562,3562,george huan,0.48
+3563,3563,george lojko,1.0
+3564,3564,george margoliner,1.0
+3565,3565,george mcclellan,0.81
+3566,3566,george mccormick,0.1
+3567,3567,george mckean,2.0
+3568,3568,george mike,6.0
+3569,3569,george phillips,0.85
+3570,3570,george posey w,2.0
+3571,3571,george robinson,0.09
+3572,3572,george smith,1.13
+3573,3573,george tocquigny,1.0
+3574,3574,george waidelich,0.18
+3575,3575,george wasaff,0.4
+3576,3576,george weissman,0.2
+3577,3577,george wood,0.1
+3578,3578,george zivic,0.07
+3579,3579,georgeanne hodges,0.17
+3580,3580,georgene moore,1.0
+3581,3581,georgi landau,0.19
+3582,3582,gerald,2.0
+3583,3583,gerald gilbert,0.24
+3584,3584,gerald lofton,0.06
+3585,3585,gerald nemec,18.83
+3586,3586,geraldine irvine,1.0
+3587,3587,geralyn mack,3.0
+3588,3588,geri greenall,2.0
+3589,3589,geriann warner,0.38
+3590,3590,germany,2.0
+3591,3591,germany mary,0.1
+3592,3592,gerri gosnell,12.0
+3593,3593,gerry gibson,0.12
+3594,3594,gerry hrap,1.0
+3595,3595,gerry medeles,0.57
+3596,3596,gerry robert,1.0
+3597,3597,ghosh partho,1.0
+3598,3598,ghosh soma,0.22
+3599,3599,gia maisashvili,1.0
+3600,3600,giambrone laura,0.71
+3601,3601,gibner stinson,4.55
+3602,3602,gigliotti mark,0.2
+3603,3603,gil m melman,0.57
+3604,3604,gil melman,0.04
+3605,3605,gil mercy,0.42
+3606,3606,gil muhl,0.13
+3607,3607,gilbert,2.23
+3608,3608,gilbert jim,0.5
+3609,3609,gilbert r,1.0
+3610,3610,gilbert scotty,0.19
+3611,3611,gilbert steve,0.41
+3612,3612,gilbert tom,2.0
+3613,3613,gilchrist scott,0.07
+3614,3614,giles valerie,0.86
+3615,3615,gill kiran,0.38
+3616,3616,gillespie john,0.11
+3617,3617,gillespie steve,1.05
+3618,3618,gillette,1.0
+3619,3619,gillette lisa,3.16
+3620,3620,gilliam jeff,2.0
+3621,3621,gillian johnson,0.5
+3622,3622,gillian lockwood,2.0
+3623,3623,gim steve,1.0
+3624,3624,gimble mathew,0.57
+3625,3625,gina lavallee,1.0
+3626,3626,gina taylor,0.42
+3627,3627,ginger mccain,6.0
+3628,3628,ginger sinclair,0.08
+3629,3629,ginsberg jamie,1.2
+3630,3630,ginsberg jamie k,1.5
+3631,3631,ginty james,0.18
+3632,3632,giovannini jana,0.8
+3633,3633,gipson kischa,2.0
+3634,3634,giron gustavo,1.0
+3635,3635,giselle james,0.21
+3636,3636,giuliani william,0.04
+3637,3637,giuseppe paleologo,1.0
+3638,3638,glasin shirleen,1.5
+3639,3639,gleffe larry,1.0
+3640,3640,glen hass,1.53
+3641,3641,glen rector,3.0
+3642,3642,glenda wagner,1.0
+3643,3643,glenn rogers,3.0
+3644,3644,glenn stovall,0.1
+3645,3645,glenn surowiec,1.0
+3646,3646,globalist the,2.0
+3647,3647,gloria ogenyi,1.39
+3648,3648,glover ian,1.0
+3649,3649,glover sheila,1.42
+3650,3650,glowacki jacek,0.4
+3651,3651,go lauren,1.0
+3652,3652,gobel jens,0.12
+3653,3653,goddard paul,0.1
+3654,3654,godfrey hyde,1.0
+3655,3655,goebel peter,2.0
+3656,3656,goering matthew,0.23
+3657,3657,goh han,1.0
+3658,3658,gold joe,0.22
+3659,3659,goldberg lenny,1.0
+3660,3660,golden jeff,0.48
+3661,3661,golden sally,1.0
+3662,3662,gomes stephanie,0.75
+3663,3663,gomez julie,0.14
+3664,3664,gonzales greg,1.0
+3665,3665,gonzales luis,1.0
+3666,3666,gonzales norm,1.0
+3667,3667,gonzales sharon,0.08
+3668,3668,gonzalez magdalena,2.0
+3669,3669,gonzalez mara,1.0
+3670,3670,gonzalez orlando,0.35
+3671,3671,gonzalez rudy,1.0
+3672,3672,gonzalez veronica,0.21
+3673,3673,goodbody winston,4.0
+3674,3674,goodell scott,3.91
+3675,3675,goodpasture john,0.32
+3676,3676,gopalakrishnan subramaniam,2.0
+3677,3677,gopalan mary,1.0
+3678,3678,goradia pallavi,0.4
+3679,3679,gordon heaney,0.22
+3680,3680,gordon jocelyn,1.0
+3681,3681,gordon joe,0.13
+3682,3682,gordon mckillop,0.32
+3683,3683,gordon savage,0.22
+3684,3684,gore john,2.0
+3685,3685,gorny vladimir,0.71
+3686,3686,gorsuch gwynn,4.5
+3687,3687,gossett jeffrey,0.25
+3688,3688,gottsponer morgan,0.17
+3689,3689,goughary jim,0.06
+3690,3690,govenar guerrero janel scott,1.0
+3691,3691,govenar harry j kaufman kingerski mara michael paul scott susan tribolet,1.0
+3692,3692,govenar hedy,4.64
+3693,3693,govenar hedy j kaufman mara mccubbin paul sandra susan,1.0
+3694,3694,govenar j mara mccubbin richard sandra scott shapiro susan,1.0
+3695,3695,govenar kaufman landwehr m paul richard scott shapiro susan,1.0
+3696,3696,govenar kaufman mccubbin paul sandra scott,1.0
+3697,3697,govenar kaufman paul scott,1.0
+3698,3698,govenar mccubbin richard sandra scott shapiro,1.0
+3699,3699,govenar mccubbin sandra scott,1.0
+3700,3700,govenar richard scott shapiro,1.0
+3701,3701,govenar scott,0.33
+3702,3702,grabstald kathie,0.29
+3703,3703,grace james,0.16
+3704,3704,grace kim,1.0
+3705,3705,grace m rebecca,0.34
+3706,3706,grace rodriguez,0.43
+3707,3707,grace taylor,1.0
+3708,3708,gracey rosemary,1.0
+3709,3709,gracie presas s,0.13
+3710,3710,grady sean,4.0
+3711,3711,grady shawn,2.0
+3712,3712,graham j sherry,2.0
+3713,3713,graham toni,1.35
+3714,3714,grajewski joseph t,2.0
+3715,3715,gramse kerry,1.0
+3716,3716,grant masson,1.62
+3717,3717,grant oh,0.32
+3718,3718,grant zimmerman,2.0
+3719,3719,grass john,0.31
+3720,3720,graves jerry,0.78
+3721,3721,graves melissa,0.29
+3722,3722,graves sheila,1.0
+3723,3723,gray griff mary,0.46
+3724,3724,gray gwendolyn,0.17
+3725,3725,gray jeff m,0.75
+3726,3726,gray judy,0.12
+3727,3727,gray melody,0.12
+3728,3728,gray stan,1.25
+3729,3729,gray stephen,1.0
+3730,3730,greek rice,1.25
+3731,3731,green michael,2.0
+3732,3732,greenberg mark,3.52
+3733,3733,greene john,0.45
+3734,3734,greene tracy,1.0
+3735,3735,greenwood,1.0
+3736,3736,greer mendelow,1.0
+3737,3737,greg,0.35
+3738,3738,greg grissom,0.19
+3739,3739,greg gruber,1.0
+3740,3740,greg hermans,0.13
+3741,3741,greg hibbert,5.0
+3742,3742,greg johnston,0.94
+3743,3743,greg krause,13.5
+3744,3744,greg lewis,1.0
+3745,3745,greg mann,8.0
+3746,3746,greg martin,0.18
+3747,3747,greg mathews,1.0
+3748,3748,greg mcclendon,0.12
+3749,3749,greg nikkel,2.0
+3750,3750,greg piper,2.68
+3751,3751,greg schlender,1.0
+3752,3752,greg sharp,0.07
+3753,3753,greg trefz,0.15
+3754,3754,greg whalley,4.48
+3755,3755,greg whiting,0.66
+3756,3756,greg wolfe,0.47
+3757,3757,greg woulfe,0.18
+3758,3758,gregg,0.38
+3759,3759,gregg lenart,2.0
+3760,3760,gregg penman,3.01
+3761,3761,gregg young,1.0
+3762,3762,gregory j porter,1.69
+3763,3763,gregory l phillips,1.0
+3764,3764,gregory mcintyre,2.0
+3765,3765,gregory paul,0.23
+3766,3766,gregory paul saverance,0.8
+3767,3767,gregory r sharp,1.0
+3768,3768,gregory sarah,1.0
+3769,3769,gregory schockling,0.6
+3770,3770,greider jeff,0.33
+3771,3771,gresch robert,0.3
+3772,3772,gresham wayne,0.07
+3773,3773,gretchen hardeway,2.0
+3774,3774,gretchen lotz,0.08
+3775,3775,gretel smith,4.5
+3776,3776,griebling john,2.0
+3777,3777,griffin khristina,1.0
+3778,3778,griffin rebecca,0.67
+3779,3779,griffin scott,1.0
+3780,3780,griffin sherri,1.0
+3781,3781,griffin vanessa,0.75
+3782,3782,griffith heidi,0.41
+3783,3783,griffith john,1.42
+3784,3784,griffiths mary,2.0
+3785,3785,grigsby mike,12.55
+3786,3786,grimes michael,1.0
+3787,3787,grimescorpenron michael,2.0
+3788,3788,grisaffi mary,0.05
+3789,3789,groenewold shannon,1.33
+3790,3790,gros tom,2.0
+3791,3791,groscrand vanessa,0.54
+3792,3792,grube raimund,0.18
+3793,3793,gruesen karen,0.21
+3794,3794,grumulaitis paige,0.42
+3795,3795,grutzmacher patty,3.5
+3796,3796,gsolberg,0.17
+3797,3797,gstorey,2.0
+3798,3798,guadarrama michael,0.15
+3799,3799,gualy jaime,0.06
+3800,3800,guenther klar,0.3
+3801,3801,guerra jesus,0.52
+3802,3802,guerra ricardo,2.0
+3803,3803,guerra sonia,1.0
+3804,3804,guerrero janel,1.24
+3805,3805,guerrero janel kaufman paul,1.0
+3806,3806,guerrero janel novosel sarah,1.0
+3807,3807,guerrero sam,2.0
+3808,3808,guerriero michael,0.46
+3809,3809,guevara mauricio,1.5
+3810,3810,guggenheim victor,2.13
+3811,3811,guidroz stacy,0.05
+3812,3812,guidroz walter,1.96
+3813,3813,guidry james,2.0
+3814,3814,guidry john,1.0
+3815,3815,guinn linda,9.33
+3816,3816,guinn linda r,1.12
+3817,3817,gunter nichole,1.0
+3818,3818,guo jin,1.0
+3819,3819,gupta sanjay,1.0
+3820,3820,gupta sanjeev,2.33
+3821,3821,gurley kenneth,0.38
+3822,3822,gus perez,1.0
+3823,3823,gustafson ken,1.0
+3824,3824,gustafson mollie,0.83
+3825,3825,gustavo junqueira,2.0
+3826,3826,guthrie robert,0.06
+3827,3827,gutman paul,1.0
+3828,3828,guy ishikawa,1.0
+3829,3829,guy sharfman,0.18
+3830,3830,guzman mark,2.81
+3831,3831,gwendolyn petteway,1.0
+3832,3832,gwendolyn williams,0.06
+3833,3833,gwyn koepke,0.25
+3834,3834,gwynn,2.0
+3835,3835,gygax thomas,1.0
+3836,3836,h harrison john,1.0
+3837,3837,h janet moore,0.31
+3838,3838,h janet wallis,0.77
+3839,3839,h joanie ngo,0.39
+3840,3840,h khan nasim,0.3
+3841,3841,h nancy vu,0.1
+3842,3842,h terence thorn,0.5
+3843,3843,h welsh,1.0
+3844,3844,ha kenny,1.33
+3845,3845,ha vicky,2.0
+3846,3846,hachen james,0.15
+3847,3847,haden james r,0.23
+3848,3848,haden sarah,1.0
+3849,3849,hadix susan,0.24
+3850,3850,haedicke mark,0.48
+3851,3851,hagerty lauren,2.0
+3852,3852,haggerty john,2.0
+3853,3853,hain,1.0
+3854,3854,hain mary,10.06
+3855,3855,haist karen,1.0
+3856,3856,haizmann jan,1.0
+3857,3857,hal mckinney,0.15
+3858,3858,hall joe,1.0
+3859,3859,hall jr,0.55
+3860,3860,hall maryellen,2.0
+3861,3861,hall steve,0.1
+3862,3862,halliburton tom,0.48
+3863,3863,halpin tom,1.0
+3864,3864,halstead lia,0.49
+3865,3865,hamer jennifer,1.0
+3866,3866,hamic priscilla,0.62
+3867,3867,hamilton j timothy,0.11
+3868,3868,hamilton tony,1.0
+3869,3869,hamlin mason,0.22
+3870,3870,hammad jeffrey,1.0
+3871,3871,hammond pearce w,0.33
+3872,3872,hanagriff richard,0.43
+3873,3873,hand kristen,2.0
+3874,3874,haney mike,0.23
+3875,3875,hannon kevin,0.43
+3876,3876,hannon kevin p,0.74
+3877,3877,hans wong,1.0
+3878,3878,hanse patrick,0.26
+3879,3879,hansen leslie,2.37
+3880,3880,hansen patrick,0.6
+3881,3881,hanson j kristen,0.37
+3882,3882,hara kathy,1.0
+3883,3883,harasin leaf,0.23
+3884,3884,haratunian stephen,1.0
+3885,3885,harbert jeff,0.12
+3886,3886,harder laura,0.89
+3887,3887,harding jason,2.0
+3888,3888,hardy john,0.13
+3889,3889,hardy john jr,1.0
+3890,3890,hardy trey,0.08
+3891,3891,hargrave michelle,0.27
+3892,3892,harlan,2.0
+3893,3893,harlan joyce,1.0
+3894,3894,harlan murphy,1.52
+3895,3895,harlan wendell,1.0
+3896,3896,harmon kayla,0.33
+3897,3897,harper richard,1.25
+3898,3898,harrell willie,0.32
+3899,3899,harrington stephen,0.07
+3900,3900,harris j stephanie,4.67
+3901,3901,harris linda,1.0
+3902,3902,harris mary,2.0
+3903,3903,harris michael,1.0
+3904,3904,harris mike,2.0
+3905,3905,harris molly,0.31
+3906,3906,harris paula,0.51
+3907,3907,harris stephanie,0.37
+3908,3908,harris steve,0.22
+3909,3909,harris steven,5.2
+3910,3910,harris tony,0.21
+3911,3911,harris tracy,1.0
+3912,3912,harrison howard john,1.0
+3913,3913,harrison susan,0.41
+3914,3914,harrison tracy,2.0
+3915,3915,harrison tyrell,1.42
+3916,3916,harry,0.22
+3917,3917,harry j kaufman kingerski mara mccubbin paul sandra susan,1.0
+3918,3918,harry j kaufman kingerski mara paul susan,1.0
+3919,3919,harry jbennett kingerski,1.0
+3920,3920,harry jmb kingerski,0.18
+3921,3921,harry kingerski,2.34
+3922,3922,harry walters,0.17
+3923,3923,harry woodson,0.58
+3924,3924,hart reginald,1.0
+3925,3925,hart sandra,1.0
+3926,3926,hart vivian,0.29
+3927,3927,hartfield rita,0.09
+3928,3928,hartsoe,2.0
+3929,3929,hartsoe joe,1.09
+3930,3930,harvey james,1.0
+3931,3931,harwell melanie,1.0
+3932,3932,hasan kedwaii,0.59
+3933,3933,hasenjager norma,0.22
+3934,3934,hastings karie,0.21
+3935,3935,hatten micah,0.34
+3936,3936,haughn jarrod,0.33
+3937,3937,hausinger sharon,0.44
+3938,3938,hawker jai,0.16
+3939,3939,hawthorn jay,2.0
+3940,3940,hayes robert,0.34
+3941,3941,haynes sue,2.0
+3942,3942,hayslett rod,11.75
+3943,3943,heal kevin,0.06
+3944,3944,health,6.0
+3945,3945,healy,3.0
+3946,3946,healy scott,2.58
+3947,3947,heard marie,8.87
+3948,3948,hearn steven,0.12
+3949,3949,heath holly,4.0
+3950,3950,heath schiesser,0.33
+3951,3951,heather,0.53
+3952,3952,heather j mitchell,1.0
+3953,3953,heather jeffrey keenan kroll ozzie pagan,2.0
+3954,3954,heather kendall,0.06
+3955,3955,heather kroll,4.44
+3956,3956,heather mueck,1.0
+3957,3957,heather purcell,0.24
+3958,3958,heather thompson,3.0
+3959,3959,heathman k karen,1.07
+3960,3960,hebert thomas,1.0
+3961,3961,hector mcloughlin,1.03
+3962,3962,hector ruiz,0.31
+3963,3963,hedstrom peggy,0.51
+3964,3964,heeg peggy,1.0
+3965,3965,hege kleven,1.0
+3966,3966,heidi hellmann,1.0
+3967,3967,heidi mason,0.15
+3968,3968,heidi messick,1.0
+3969,3969,heidi withers,0.52
+3970,3970,heineman sarah,0.09
+3971,3971,heinitz j mary,0.26
+3972,3972,heintzelman pete,0.84
+3973,3973,heintzelman peter,0.8
+3974,3974,heitzman russell,1.0
+3975,3975,heizenrader tim,0.6
+3976,3976,heizenrader timothy,0.67
+3977,3977,hejka marie,1.0
+3978,3978,helen marie taylor,1.0
+3979,3979,helge,1.0
+3980,3980,hello,1.0
+3981,3981,helme m melinda,1.0
+3982,3982,helpdesk houston,4.0
+3983,3983,helton jenny,0.26
+3984,3984,helton susan,0.12
+3985,3985,hemsley simon,1.0
+3986,3986,hemstock robert,0.37
+3987,3987,henderson john,0.21
+3988,3988,hendrickson hollis,2.0
+3989,3989,hendrickson scott,1.38
+3990,3990,henenberg joel,0.13
+3991,3991,henking paul,1.0
+3992,3992,hennemeyer paul,0.33
+3993,3993,hennessy rita,0.28
+3994,3994,hennessy sonia,0.87
+3995,3995,henrique oliveira pedro,1.0
+3996,3996,henry hilburn jane,1.0
+3997,3997,henry joe,1.0
+3998,3998,henry joseph,2.0
+3999,3999,henry moreno,2.0
+4000,4000,henry patricia,0.26
+4001,4001,henry van,4.0
+4002,4002,hensch richard,1.0
+4003,4003,herbelot olivier,0.07
+4004,4004,herber stephen,0.1
+4005,4005,herman manis,3.06
+4006,4006,herman michael,1.0
+4007,4007,hermanek patty,0.13
+4008,4008,hermann robert,0.18
+4009,4009,hernandez juan,2.76
+4010,4010,hernandez judy,10.2
+4011,4011,hernandez lorie,1.0
+4012,4012,hernandez mike,0.33
+4013,4013,hernandez morela,0.1
+4014,4014,hernandez nancy,0.78
+4015,4015,herndon rogers,1.55
+4016,4016,herndon wayne,1.14
+4017,4017,herrera j rafael,1.0
+4018,4018,herrera katherine,0.53
+4019,4019,herrmann karen,2.0
+4020,4020,herrold jeff,2.0
+4021,4021,hess theresa,0.49
+4022,4022,hesse lisa,1.43
+4023,4023,hester katy,1.0
+4024,4024,hetrick nancy,0.36
+4025,4025,heu mog,0.66
+4026,4026,hewitt jess,0.25
+4027,4027,hewitt jess p,0.25
+4028,4028,hewitt kirstee,0.08
+4029,4029,hgovenar,0.53
+4030,4030,hibbard scott,0.5
+4031,4031,hicken jeff,1.0
+4032,4032,hickok kim,0.04
+4033,4033,hicks michael,0.14
+4034,4034,hicks michelle,0.12
+4035,4035,hicks randall,2.0
+4036,4036,hicks w wade,1.0
+4037,4037,hiemstra nick,0.43
+4038,4038,higgason kelly,2.0
+4039,4039,higgason kelly noel,0.09
+4040,4040,higgins ned,0.26
+4041,4041,hilda lindley,0.07
+4042,4042,hill lisa,1.0
+4043,4043,hill robert,0.09
+4044,4044,hill robin,0.1
+4045,4045,hillary mack,2.0
+4046,4046,hilliard marlene,0.6
+4047,4047,hillings joe,0.44
+4048,4048,hillis kimberly,3.38
+4049,4049,hillman liz,0.83
+4050,4050,hiltabrand j thomas,1.0
+4051,4051,hirasuna robert,1.0
+4052,4052,hirko joe,4.0
+4053,4053,hirl joseph,0.7
+4054,4054,hirl joseph p,0.79
+4055,4055,hix paula,2.0
+4056,4056,hlavaty l nathan,0.11
+4057,4057,ho l leroy,2.0
+4058,4058,hoang vo,1.0
+4059,4059,hoatson tom,0.67
+4060,4060,hochschild lenny,1.0
+4061,4061,hockenhull simon,1.0
+4062,4062,hodge jeffrey,0.25
+4063,4063,hodge jeffrey t,6.19
+4064,4064,hodge john,0.84
+4065,4065,hoff james,0.21
+4066,4066,hoff james mark whitt,0.5
+4067,4067,hoff jonathan,0.22
+4068,4068,hogan janice,1.4
+4069,4069,hogarth kirsty,1.0
+4070,4070,holcombe tina,1.0
+4071,4071,holden salisbury,2.77
+4072,4072,holli krebs,0.39
+4073,4073,hollis kate,2.0
+4074,4074,hollis kimbrough,16.0
+4075,4075,holloway joann,2.0
+4076,4076,holloway scott,1.0
+4077,4077,holly keiser,1.55
+4078,4078,holly strong,0.08
+4079,4079,holman kelly,0.29
+4080,4080,holmes sean,3.0
+4081,4081,holst keith,1.95
+4082,4082,holsworth mark,0.21
+4083,4083,holtzman staci,0.26
+4084,4084,holtzman vance,2.0
+4085,4085,homan rita,1.0
+4086,4086,homco jim,1.78
+4087,4087,homco meredith,0.45
+4088,4088,home inc premier rentals,2.0
+4089,4089,homer lin,0.23
+4090,4090,honeycutt lea,1.0
+4091,4091,hong neil,0.1
+4092,4092,hooser lisa mellencamp steve van william,1.0
+4093,4093,hooser stephen van w,0.5
+4094,4094,hooser steve van,0.77
+4095,4095,hope vargas,0.31
+4096,4096,hopkins stephanie,1.4
+4097,4097,hopkins tamara,0.11
+4098,4098,hopkinson rick,0.11
+4099,4099,hopley john,2.0
+4100,4100,hoppe ray,0.2
+4101,4101,hopper kevin,0.08
+4102,4102,horn r stephen,0.26
+4103,4103,horne jonathan,0.44
+4104,4104,horowitz marc,1.0
+4105,4105,horton jami,1.0
+4106,4106,horton stan,2.0
+4107,4107,horton stanley,7.76
+4108,4108,hotline isc,0.18
+4109,4109,hotmail,1.0
+4110,4110,hotte steve,0.68
+4111,4111,houda,1.0
+4112,4112,house john,0.13
+4113,4113,houser rita,0.36
+4114,4114,houston rita,2.0
+4115,4115,houston stephanie,1.0
+4116,4116,houten maria van,0.36
+4117,4117,howard,1.0
+4118,4118,howard jack,0.27
+4119,4119,howard kevin,0.46
+4120,4120,howard petty,1.0
+4121,4121,howard randy,0.38
+4122,4122,howard sangwine,0.14
+4123,4123,howard sheila,1.0
+4124,4124,howell kaci,1.0
+4125,4125,howenstine laura,0.16
+4126,4126,howton john,0.07
+4127,4127,hoyt thomas,3.0
+4128,4128,hpl schneider steve,0.24
+4129,4129,hrabal richard,1.2
+4130,4130,hrgim,0.19
+4131,4131,hrgovcic joseph,0.51
+4132,4132,hrishelp,2.0
+4133,4133,hu sylvia,0.06
+4134,4134,hu wei,0.12
+4135,4135,huang jason,0.78
+4136,4136,hubbard mary,0.08
+4137,4137,huber lee,1.05
+4138,4138,huddleson,1.0
+4139,4139,hudgens mark,1.0
+4140,4140,hughes james,1.0
+4141,4141,hughes matt,0.06
+4142,4142,hugo moreira,2.0
+4143,4143,hull,1.0
+4144,4144,hundl kimberly,2.49
+4145,4145,huneke kurt s,1.0
+4146,4146,hungerford james,0.32
+4147,4147,hunter,2.0
+4148,4148,hunter joe larry,1.53
+4149,4149,hunter nicole,0.69
+4150,4150,hunter patricia,2.0
+4151,4151,hunter s shively,7.68
+4152,4152,hunter shively,0.33
+4153,4153,huntley kelley,1.0
+4154,4154,huo jeff,1.0
+4155,4155,hurtrobert,1.0
+4156,4156,hurwitz seth,0.13
+4157,4157,husain karima,2.0
+4158,4158,huson margaret,0.29
+4159,4159,husser shanna,3.79
+4160,4160,hutchinson michael,1.0
+4161,4161,hwang monica,0.5
+4162,4162,hyatt kevin,4.24
+4163,4163,iaia vito,2.0
+4164,4164,iain russell,2.0
+4165,4165,ian,1.0
+4166,4166,iannarone lauren,2.0
+4167,4167,ibasco leandro,3.0
+4168,4168,ibuyit,2.0
+4169,4169,ii john massey,0.88
+4170,4170,ii nestor thomas,1.0
+4171,4171,iii jackson logan,1.0
+4172,4172,iii jesse john,0.4
+4173,4173,iii kilmer robert,0.62
+4174,4174,iii stuart william,0.17
+4175,4175,imad tareen,4.0
+4176,4176,imai rika,1.42
+4177,4177,imam zarin,3.0
+4178,4178,imceanotes,0.24
+4179,4179,imelda trevino,4.0
+4180,4180,immer ingrid,3.33
+4181,4181,ina,1.0
+4182,4182,ina rangel,4.24
+4183,4183,inc interinvestments realty,2.0
+4184,4184,indelicato kimberly,0.48
+4185,4185,indivero michael,2.0
+4186,4186,information management risk,0.7
+4187,4187,ingersoll richard,0.11
+4188,4188,inman zachary,1.0
+4189,4189,ione irvine,2.0
+4190,4190,ipsen laura,2.0
+4191,4191,iris mack,0.97
+4192,4192,iris meunier,2.0
+4193,4193,iris waser,0.18
+4194,4194,iris wong,1.0
+4195,4195,irma perez,1.0
+4196,4196,irvin steve,0.93
+4197,4197,irvin tracey,0.14
+4198,4198,isabel resendez y,0.26
+4199,4199,isc notification systems,1.0
+4200,4200,isc registrar,2.0
+4201,4201,israni rakhi,1.21
+4202,4202,issler paulo,0.29
+4203,4203,it security,0.5
+4204,4204,ivan,2.0
+4205,4205,ivan liu,1.0
+4206,4206,iz wong,1.0
+4207,4207,izzo l larry,0.68
+4208,4208,j,1.0
+4209,4209,j john lavorato,25.42
+4210,4210,j john shoobridge,0.33
+4211,4211,j jones paul,1.0
+4212,4212,j kaminski vince,56.73
+4213,4213,j kaufman kean mara mccubbin paul richard sandra shapiro steve susan,1.0
+4214,4214,j kaufman l mara mccubbin mona paul petrochko sandra susan,1.0
+4215,4215,j kean steven,20.2
+4216,4216,j kenny soignet,0.17
+4217,4217,j krejci richard,1.0
+4218,4218,j kristian lande,1.0
+4219,4219,j lawrence,1.0
+4220,4220,j leanza paul,0.44
+4221,4221,j legler michael,0.38
+4222,4222,j linda noske,1.12
+4223,4223,j linda simmons,0.17
+4224,4224,j lt,1.0
+4225,4225,j mara mccubbin mday sandra susan,1.0
+4226,4226,j mara mccubbin sandra susan,1.0
+4227,4227,j mara susan,4.65
+4228,4228,j mark metts,0.16
+4229,4229,j michael,2.0
+4230,4230,j michael miller,2.0
+4231,4231,j michael taylor,0.18
+4232,4232,j mike miller,0.88
+4233,4233,j nicholas stephan,0.51
+4234,4234,j parrish paula,0.02
+4235,4235,j patrick,1.0
+4236,4236,j peter thompson,1.0
+4237,4237,j phillips richard,1.0
+4238,4238,j porter,2.88
+4239,4239,j pratel robert,1.0
+4240,4240,j richard weeks,0.25
+4241,4241,j teresa wood,3.0
+4242,4242,j tommy yanowski,0.13
+4243,4243,jack mcadoo v,2.0
+4244,4244,jack simunek,0.05
+4245,4245,jack wise,2.0
+4246,4246,jackie morgan,0.06
+4247,4247,jackie nelson,2.0
+4248,4248,jackie young,1.65
+4249,4249,jackson jacqueline,0.43
+4250,4250,jackson jeffrey,0.4
+4251,4251,jackson karl,1.0
+4252,4252,jackson lee,0.08
+4253,4253,jackson logan,1.25
+4254,4254,jackson mark,0.28
+4255,4255,jackson neil,1.0
+4256,4256,jackson rhett,0.46
+4257,4257,jackson steve,1.63
+4258,4258,jackson tony,2.0
+4259,4259,jackson vo,2.0
+4260,4260,jacobellis steve,0.13
+4261,4261,jacobson lisa,0.22
+4262,4262,jacobson michael,0.74
+4263,4263,jacobson stephen,2.0
+4264,4264,jacqueline kelly,0.44
+4265,4265,jacquelyn matthews,2.0
+4266,4266,jader,2.0
+4267,4267,jafry rahil,0.93
+4268,4268,jagdeo marcus,2.0
+4269,4269,jaime rincon,1.0
+4270,4270,jaime sanabria,1.5
+4271,4271,jaime vela,1.0
+4272,4272,jaime williams,0.41
+4273,4273,jaisinghani priya,5.0
+4274,4274,jake staffel,0.5
+4275,4275,jake thomas,0.55
+4276,4276,jakubik mike,6.0
+4277,4277,jalamo,1.25
+4278,4278,jamadagni rajaram,1.0
+4279,4279,jameika smikle,2.0
+4280,4280,james,0.11
+4281,4281,james javins t,0.57
+4282,4282,james keller,0.15
+4283,4283,james kloehr,1.0
+4284,4284,james l noles,0.6
+4285,4285,james lawrence r,0.1
+4286,4286,james lessor n,0.13
+4287,4287,james lewis,1.0
+4288,4288,james light,1.0
+4289,4289,james love,1.0
+4290,4290,james m wood,0.13
+4291,4291,james mckay,0.23
+4292,4292,james moore,8.0
+4293,4293,james new,0.25
+4294,4294,james nguyen,1.0
+4295,4295,james nielsen,6.0
+4296,4296,james p studdert,0.05
+4297,4297,james petrie,1.0
+4298,4298,james prentice,0.21
+4299,4299,james puntumapanitch,1.0
+4300,4300,james richardson,1.0
+4301,4301,james saunders,1.41
+4302,4302,james scribner,0.68
+4303,4303,james shirley,2.0
+4304,4304,james simpson,0.37
+4305,4305,james steffes,0.57
+4306,4306,james steffew,1.0
+4307,4307,james studebaker,0.21
+4308,4308,james terrell,1.0
+4309,4309,james terrie,0.25
+4310,4310,james trudeau,1.0
+4311,4311,james weitekamp,0.52
+4312,4312,james whitehead,0.8
+4313,4313,james whitt,0.83
+4314,4314,james wood,0.22
+4315,4315,jameson lance,10.0
+4316,4316,jamie lynn,1.0
+4317,4317,jamie wachel,2.0
+4318,4318,jan,2.0
+4319,4319,jan johnson,0.2
+4320,4320,jan king m,0.3
+4321,4321,jan moore,1.51
+4322,4322,jan sutherland,0.14
+4323,4323,jan wilson,0.12
+4324,4324,jana l paxton,2.0
+4325,4325,jana morse,0.15
+4326,4326,jane,1.0
+4327,4327,jane joyce,0.21
+4328,4328,jane m tholt,7.07
+4329,4329,jane mcbride,0.65
+4330,4330,jane s saladino,1.09
+4331,4331,jane wilhite,0.27
+4332,4332,jane wilson,0.13
+4333,4333,janel,1.0
+4334,4334,janelle scheuer,0.29
+4335,4335,janet,1.0
+4336,4336,janet mcdaniel,0.31
+4337,4337,janet peake,1.0
+4338,4338,janet place,0.17
+4339,4339,janet wood,2.5
+4340,4340,janette oquendo,1.0
+4341,4341,janice moore,0.3
+4342,4342,janice moore r,0.78
+4343,4343,janice priddy,1.0
+4344,4344,janichen marc,5.0
+4345,4345,janine,1.0
+4346,4346,janine juggins,0.22
+4347,4347,janine migden,0.8
+4348,4348,janine treader,4.0
+4349,4349,jann leeder,1.0
+4350,4350,janousek kimberly martha watson,2.0
+4351,4351,janousek martha,0.2
+4352,4352,january steve,3.5
+4353,4353,january steven,2.68
+4354,4354,janzen randy,0.58
+4355,4355,jaquet tammy,0.09
+4356,4356,jared kaiser,0.56
+4357,4357,jarnagin josie,4.0
+4358,4358,jarod jenson,1.0
+4359,4359,jarrett montgomery,1.0
+4360,4360,jarrett tony,0.5
+4361,4361,jason,1.85
+4362,4362,jason jennaro,0.33
+4363,4363,jason kaniss,0.27
+4364,4364,jason kriendler,2.0
+4365,4365,jason mcnair,1.0
+4366,4366,jason moore,0.27
+4367,4367,jason peters,2.55
+4368,4368,jason r wiesepape,0.4
+4369,4369,jason r williams,4.22
+4370,4370,jason rios,2.0
+4371,4371,jason seigal,1.0
+4372,4372,jason sherman,0.12
+4373,4373,jason sokolov,0.49
+4374,4374,jason sonnier,2.0
+4375,4375,jason williams,1.38
+4376,4376,jason wolfe,2.63
+4377,4377,jason woodward,1.0
+4378,4378,jass juan,4.0
+4379,4379,javier li,0.5
+4380,4380,jay,0.07
+4381,4381,jay johnson,1.0
+4382,4382,jay knoblauh,0.06
+4383,4383,jay reitmeyer,1.53
+4384,4384,jay smith,1.33
+4385,4385,jay sparling,2.0
+4386,4386,jay webb,0.89
+4387,4387,jay wilson,1.0
+4388,4388,jay zoellner,1.0
+4389,4389,jayant krishnaswamy,2.0
+4390,4390,jbhatty,1.0
+4391,4391,jdasovic,0.88
+4392,4392,jean,2.0
+4393,4393,jean mcfarland,0.57
+4394,4394,jean mrha,1.08
+4395,4395,jean ryall,1.76
+4396,4396,jeanette mertz,1.0
+4397,4397,jeanette nickell,2.0
+4398,4398,jeanie robins,2.0
+4399,4399,jeanie slone,2.29
+4400,4400,jeanne,2.0
+4401,4401,jeanne licciardo,0.18
+4402,4402,jeanne wukasch,0.15
+4403,4403,jeannie mandelker,0.59
+4404,4404,jeb ligums,0.67
+4405,4405,jebong lee,1.0
+4406,4406,jeff,0.32
+4407,4407,jeff johnson,0.07
+4408,4408,jeff kabel,0.1
+4409,4409,jeff keeler,3.0
+4410,4410,jeff king,0.37
+4411,4411,jeff kinneman,0.26
+4412,4412,jeff lowney,1.0
+4413,4413,jeff lyons,1.0
+4414,4414,jeff maurer,2.0
+4415,4415,jeff may,1.0
+4416,4416,jeff merola,0.6
+4417,4417,jeff nieland,0.12
+4418,4418,jeff nielsen,0.1
+4419,4419,jeff nogid,0.42
+4420,4420,jeff poche,1.0
+4421,4421,jeff richter,1.04
+4422,4422,jeff royed,1.0
+4423,4423,jeff sears,2.0
+4424,4424,jeff shields,0.07
+4425,4425,jeff skilling,1.92
+4426,4426,jeff w westover,1.7
+4427,4427,jeff whippo,0.5
+4428,4428,jeff wolf,2.0
+4429,4429,jefferies mike,1.0
+4430,4430,jeffers joe,0.1
+4431,4431,jefferson marvia,0.67
+4432,4432,jefferson tangela,2.0
+4433,4433,jeffrey,0.55
+4434,4434,jeffrey jewell,2.0
+4435,4435,jeffrey keeler,0.14
+4436,4436,jeffrey keenan,1.36
+4437,4437,jeffrey keenan m,5.67
+4438,4438,jeffrey mcclellan,0.32
+4439,4439,jeffrey mcmahon,0.96
+4440,4440,jeffrey miller,1.55
+4441,4441,jeffrey oh,0.67
+4442,4442,jeffrey porter,3.92
+4443,4443,jeffrey richard,0.26
+4444,4444,jeffrey sherrick,0.39
+4445,4445,jeganathan lenine,0.18
+4446,4446,jennie pai,1.0
+4447,4447,jennifer,1.01
+4448,4448,jennifer jmb rudolph,1.0
+4449,4449,jennifer johnson,0.18
+4450,4450,jennifer johnson k,0.5
+4451,4451,jennifer jordan,0.1
+4452,4452,jennifer knight,2.0
+4453,4453,jennifer lee,0.83
+4454,4454,jennifer lev,0.6
+4455,4455,jennifer lowry,2.0
+4456,4456,jennifer marie smith,1.5
+4457,4457,jennifer martinez,0.25
+4458,4458,jennifer mcclain,1.0
+4459,4459,jennifer mcquade,0.24
+4460,4460,jennifer mendez,0.09
+4461,4461,jennifer milligan,1.32
+4462,4462,jennifer n stewart,2.0
+4463,4463,jennifer nguyen,1.5
+4464,4464,jennifer pattison,1.0
+4465,4465,jennifer reed,0.3
+4466,4466,jennifer reside,2.0
+4467,4467,jennifer richard,2.0
+4468,4468,jennifer rudolph,0.21
+4469,4469,jennifer sabine,0.04
+4470,4470,jennifer shipos,0.56
+4471,4471,jennifer smith,1.0
+4472,4472,jennifer stevenson,0.18
+4473,4473,jennifer stewart,4.0
+4474,4474,jennifer thome,0.97
+4475,4475,jennifer velasco,6.0
+4476,4476,jennifer walker,0.25
+4477,4477,jennifer whitney,1.0
+4478,4478,jennifer wilson,2.0
+4479,4479,jennings webb,0.2
+4480,4480,jenny latham,0.4
+4481,4481,jenny rub,0.41
+4482,4482,jensen ruth,0.65
+4483,4483,jeremy morris,0.2
+4484,4484,jeremy wong,0.51
+4485,4485,jernigan steven,5.0
+4486,4486,jerry martin,2.0
+4487,4487,jerry miller,1.0
+4488,4488,jerry moore thomas,1.0
+4489,4489,jerry peters,0.65
+4490,4490,jerry seade,1.0
+4491,4491,jerry ward,1.0
+4492,4492,jerry wilkens,0.17
+4493,4493,jesse morris,1.0
+4494,4494,jesse neyman,0.28
+4495,4495,jesse villarreal,0.41
+4496,4496,jessica nunez,1.0
+4497,4497,jessica presas,0.79
+4498,4498,jessica ramirez,0.2
+4499,4499,jessica uhl,3.0
+4500,4500,jessie mata,0.07
+4501,4501,jester larry,0.18
+4502,4502,jesus melendrez,0.08
+4503,4503,jewel,2.0
+4504,4504,jewel meeks,2.0
+4505,4505,jewell wade,2.0
+4506,4506,jez peters,0.05
+4507,4507,jfrizzell,1.0
+4508,4508,jhartso,1.0
+4509,4509,jia wenyao,2.0
+4510,4510,jiewen li,1.0
+4511,4511,jill louie,0.5
+4512,4512,jill miller,1.0
+4513,4513,jill t zivley,0.22
+4514,4514,jim,0.05
+4515,4515,jim keesling,1.0
+4516,4516,jim kolodgie,6.0
+4517,4517,jim little,0.74
+4518,4518,jim lynch,1.0
+4519,4519,jim meyer,6.0
+4520,4520,jim meyn,0.42
+4521,4521,jim piro,0.44
+4522,4522,jim pond,0.35
+4523,4523,jim reyes,0.35
+4524,4524,jim schoene,1.0
+4525,4525,jim schwieger,1.58
+4526,4526,jim steffes,0.17
+4527,4527,jim talcott,0.12
+4528,4528,jim taylor,1.36
+4529,4529,jim tucker,1.0
+4530,4530,jim willis,1.0
+4531,4531,jim wiltfong,2.0
+4532,4532,jimenez lina,2.0
+4533,4533,jimmie williams,0.17
+4534,4534,jimmy manguba,1.67
+4535,4535,jimmy mogal,0.07
+4536,4536,jimmy simien,0.82
+4537,4537,jinbaek kim,2.0
+4538,4538,jinsung myung,2.55
+4539,4539,jjtaylor,2.0
+4540,4540,jmcmahon,0.42
+4541,4541,jo johnson mary,0.12
+4542,4542,jo matson,1.0
+4543,4543,jo shirley wilson,2.0
+4544,4544,jo williams,0.43
+4545,4545,joan quick,0.9
+4546,4546,joan richard,1.0
+4547,4547,joan stransky,0.17
+4548,4548,joan veselack,5.44
+4549,4549,joana ryan,1.0
+4550,4550,joann lavine,2.0
+4551,4551,joanna williams,2.0
+4552,4552,joanne rozycki,1.65
+4553,4553,joanne smith,2.4
+4554,4554,joannie williamson,2.12
+4555,4555,joao,1.0
+4556,4556,jocelyn m sears,1.0
+4557,4557,jody,1.0
+4558,4558,jody pierce,0.1
+4559,4559,jody underwood,2.0
+4560,4560,joe,0.14
+4561,4561,joe jure,0.18
+4562,4562,joe king,0.2
+4563,4563,joe kishkill,0.55
+4564,4564,joe langston,3.0
+4565,4565,joe linhart,0.36
+4566,4566,joe parks,6.48
+4567,4567,joe quenet,0.43
+4568,4568,joe richards,2.0
+4569,4569,joe steele,0.6
+4570,4570,joe stepenovitch,0.65
+4571,4571,joe vazquez,1.0
+4572,4572,joe villela,0.25
+4573,4573,joel ross,1.0
+4574,4574,joey taylor,0.65
+4575,4575,johan zaayman,0.09
+4576,4576,johanson tim,0.33
+4577,4577,john,0.27
+4578,4578,john jr mee,1.0
+4579,4579,john keffer,1.0
+4580,4580,john keiser,0.9
+4581,4581,john keller r,0.1
+4582,4582,john kiani,5.33
+4583,4583,john kinser,0.3
+4584,4584,john klauberg,0.09
+4585,4585,john l,1.0
+4586,4586,john l nowlan,1.36
+4587,4587,john l wilson,0.16
+4588,4588,john laborde,1.0
+4589,4589,john lamb,0.21
+4590,4590,john lambert,1.0
+4591,4591,john lavorato,11.16
+4592,4592,john llodra,0.56
+4593,4593,john long,0.11
+4594,4594,john m rose,2.0
+4595,4595,john m singer,1.59
+4596,4596,john malowney,0.3
+4597,4597,john massey,0.11
+4598,4598,john mcmullan,0.33
+4599,4599,john mcpherson,0.09
+4600,4600,john messenger p,0.27
+4601,4601,john metzler,2.33
+4602,4602,john millar,0.45
+4603,4603,john monaco,2.0
+4604,4604,john moore,1.39
+4605,4605,john neslage,0.37
+4606,4606,john neslage richard shapiro,2.0
+4607,4607,john normand,0.26
+4608,4608,john novak,0.8
+4609,4609,john oh,0.29
+4610,4610,john opalko,1.0
+4611,4611,john p tollefsen,0.11
+4612,4612,john paskin,0.11
+4613,4613,john pavetto,0.63
+4614,4614,john peyton,0.54
+4615,4615,john postlethwaite,3.94
+4616,4616,john presley,1.25
+4617,4617,john pritchard,0.22
+4618,4618,john r redding,2.0
+4619,4619,john race,1.0
+4620,4620,john rutledge,1.75
+4621,4621,john saji,0.2
+4622,4622,john salinardo,2.0
+4623,4623,john scarborough,0.13
+4624,4624,john schwartzenburg,1.17
+4625,4625,john shafer,1.05
+4626,4626,john shelk,2.42
+4627,4627,john sherriff,1.36
+4628,4628,john sieckman,2.0
+4629,4629,john singer,1.0
+4630,4630,john sorrells,0.3
+4631,4631,john stokes,1.0
+4632,4632,john sturn,0.47
+4633,4633,john suarez,0.64
+4634,4634,john suttle,0.65
+4635,4635,john swafford,1.0
+4636,4636,john swinney,0.26
+4637,4637,john t wilson,1.0
+4638,4638,john thompson,0.21
+4639,4639,john thurston,2.0
+4640,4640,john towles,0.02
+4641,4641,john urquhart,1.0
+4642,4642,john valdes,0.74
+4643,4643,john vardanian,1.0
+4644,4644,john vickers,2.0
+4645,4645,john viverito,0.3
+4646,4646,john wack,2.0
+4647,4647,john walt,0.5
+4648,4648,john west,4.0
+4649,4649,john whiting,1.0
+4650,4650,john williams,0.05
+4651,4651,john zufferli,3.09
+4652,4652,john zurita,2.0
+4653,4653,johnny,2.0
+4654,4654,johnny mcgee,0.05
+4655,4655,johnny palmer,0.48
+4656,4656,johnny ross,1.0
+4657,4657,johnson julie,2.0
+4658,4658,johnson katrina,4.0
+4659,4659,johnson kelly,0.28
+4660,4660,johnson laura,0.03
+4661,4661,johnson luchas,0.16
+4662,4662,johnson molly,3.74
+4663,4663,johnson pat,0.13
+4664,4664,johnson patrick,0.09
+4665,4665,johnson paul t,0.18
+4666,4666,johnson randy,6.0
+4667,4667,johnson rick,0.42
+4668,4668,johnson rudwell,1.14
+4669,4669,johnson shawna,0.28
+4670,4670,johnson sonya,0.31
+4671,4671,johnson tamara,0.17
+4672,4672,johnston naomi,2.0
+4673,4673,johnston robert,0.2
+4674,4674,jolly kevin,0.09
+4675,4675,jolly rich,0.81
+4676,4676,jon thomsen,1.0
+4677,4677,jon trevelise,8.0
+4678,4678,jonalan page,0.05
+4679,4679,jonathan,1.0
+4680,4680,jonathan lane,1.0
+4681,4681,jonathan le,2.0
+4682,4682,jonathan marsh,1.0
+4683,4683,jonathan mckay,2.96
+4684,4684,jonathan roumel,1.0
+4685,4685,jonathan whitehead,0.18
+4686,4686,jones kevin m,1.5
+4687,4687,jones lisa,0.23
+4688,4688,jones lorna,0.12
+4689,4689,jones melissa,0.27
+4690,4690,jones monte,1.08
+4691,4691,jones nyree,2.0
+4692,4692,jones robert,0.67
+4693,4693,jones robert w,0.89
+4694,4694,jones sandra,1.0
+4695,4695,jones scott,0.73
+4696,4696,jones shelly,0.63
+4697,4697,jones susan,1.0
+4698,4698,jones tana,45.8
+4699,4699,jones timothy,0.12
+4700,4700,joni veselack,0.36
+4701,4701,jordan madeline,1.0
+4702,4702,jordan mike,1.12
+4703,4703,jordan mintz,0.28
+4704,4704,jordan monica,0.17
+4705,4705,jordan monica richards,3.0
+4706,4706,jordan paul,0.83
+4707,4707,jordan robin,0.17
+4708,4708,jordan sheri,1.0
+4709,4709,jose,1.0
+4710,4710,jose lazo,0.26
+4711,4711,jose lucio reis,3.0
+4712,4712,jose maria minguillon,1.0
+4713,4713,jose marquez,0.1
+4714,4714,joseph,0.06
+4715,4715,joseph koothrappally,1.0
+4716,4716,joseph northrop r,2.0
+4717,4717,joseph piotrowski,1.0
+4718,4718,joseph short,0.14
+4719,4719,joseph smith,0.55
+4720,4720,joseph sutton w,0.64
+4721,4721,joseph wagner,0.54
+4722,4722,josey scott,0.61
+4723,4723,joshua koenig,1.0
+4724,4724,joshua meachum,2.0
+4725,4725,joshua wooten,2.0
+4726,4726,joslyn kate,1.7
+4727,4727,joy oliver,4.0
+4728,4728,joy toups,1.0
+4729,4729,joy werner,0.3
+4730,4730,joya,1.0
+4731,4731,joya williams,2.0
+4732,4732,joyce kevin,2.0
+4733,4733,joyce mary,0.44
+4734,4734,joyce teixeira,2.0
+4735,4735,joyce viltz,1.0
+4736,4736,jpalmer,2.0
+4737,4737,jr,1.0
+4738,4738,jr kimball,1.0
+4739,4739,jr king,0.86
+4740,4740,jr lemmons,0.67
+4741,4741,jr little,1.0
+4742,4742,jr lydecker,1.67
+4743,4743,jr mclaughlin,5.73
+4744,4744,jr mcmichael,2.77
+4745,4745,jr nowlan,0.3
+4746,4746,jr olinde,0.55
+4747,4747,jr poole,2.0
+4748,4748,jr walls,1.37
+4749,4749,jr walters,1.33
+4750,4750,jr wojcik,0.33
+4751,4751,jsteffe,0.38
+4752,4752,jsteffes,1.0
+4753,4753,juan,1.0
+4754,4754,juan padron,0.19
+4755,4755,juana,1.0
+4756,4756,juanita marchand,1.0
+4757,4757,juanita ruffeno,2.0
+4758,4758,jubran whalan,1.32
+4759,4759,jude rolfes,3.0
+4760,4760,judith schlesinger,1.0
+4761,4761,judith thorne,2.0
+4762,4762,judy,2.0
+4763,4763,judy knepshield,1.0
+4764,4764,judy kudym,0.1
+4765,4765,judy lin,0.32
+4766,4766,judy martin,1.0
+4767,4767,judy nyegaard,0.44
+4768,4768,judy thorne,2.2
+4769,4769,judy townsend,2.03
+4770,4770,judy walters,0.41
+4771,4771,julia,1.0
+4772,4772,julia murray,0.85
+4773,4773,julia pittman,1.0
+4774,4774,julia sudduth,3.0
+4775,4775,julia white,0.73
+4776,4776,julian poole,0.29
+4777,4777,juliann kemp,2.43
+4778,4778,julie,1.5
+4779,4779,julie kearney,0.67
+4780,4780,julie mccoy,0.07
+4781,4781,julie meyers,1.58
+4782,4782,julie pechersky,0.22
+4783,4783,julie russell,0.24
+4784,4784,julie sarnowski,0.1
+4785,4785,julius zajda,2.0
+4786,4786,junellen pearsall,4.0
+4787,4787,jung,0.06
+4788,4788,jungsuk suh,2.0
+4789,4789,jurgens kristen,2.5
+4790,4790,justin laverell,1.0
+4791,4791,justin o,6.0
+4792,4792,justin rostant,0.27
+4793,4793,jweitek,1.0
+4794,4794,k,2.0
+4795,4795,k melissa ratnala,2.0
+4796,4796,k michael patrick,0.06
+4797,4797,kaase ken,1.0
+4798,4798,kaase kenneth w,0.05
+4799,4799,kal shah,0.35
+4800,4800,kalb thomas,1.0
+4801,4801,kalembka lech,1.0
+4802,4802,kalen pieper,0.52
+4803,4803,kam,4.0
+4804,4804,kam keiser,8.49
+4805,4805,kaminski vince,1.0
+4806,4806,kane paul,0.22
+4807,4807,kang lisa,0.09
+4808,4808,kapfer michelle,2.33
+4809,4809,kara knop,1.0
+4810,4810,karasinski piotr,1.0
+4811,4811,karasinski@enron.com,1.0
+4812,4812,karen,1.0
+4813,4813,karen kuhfeldt,2.0
+4814,4814,karen lagerstrom,1.0
+4815,4815,karen lambert,0.35
+4816,4816,karen lastovica,1.0
+4817,4817,karen lewis,1.0
+4818,4818,karen lindley,0.24
+4819,4819,karen marshall,0.43
+4820,4820,karen martin y,1.0
+4821,4821,karen maskwa,1.0
+4822,4822,karen moore,0.4
+4823,4823,karen myer,4.0
+4824,4824,karen o,0.6
+4825,4825,karen owens,0.08
+4826,4826,karen owens s,1.0
+4827,4827,kari oquinn,1.0
+4828,4828,karim punja,0.33
+4829,4829,karina prizont,1.17
+4830,4830,karl tomlinson,0.04
+4831,4831,karolina moran,1.67
+4832,4832,karon o,1.0
+4833,4833,karry kendall,1.0
+4834,4834,karthik rajan,0.18
+4835,4835,kasravi key,3.0
+4836,4836,kaster mei,1.0
+4837,4837,kate lucas,2.0
+4838,4838,kate lykes,1.0
+4839,4839,kate panchuk,1.0
+4840,4840,kate symes,47.71
+4841,4841,katherine,2.0
+4842,4842,katherine kelly l,1.89
+4843,4843,katherine perry,1.0
+4844,4844,kathleen,0.48
+4845,4845,kathleen sullivan,0.6
+4846,4846,kathlene mosley,2.0
+4847,4847,kathryn mclean,1.5
+4848,4848,kathryn schultea,0.44
+4849,4849,kathryn sheppard,0.38
+4850,4850,kathryn thomas,1.0
+4851,4851,kathy lynn m,1.0
+4852,4852,kathy m moore,0.19
+4853,4853,kathy mayfield,0.12
+4854,4854,kathy mcmahon,3.0
+4855,4855,kathy neal,0.38
+4856,4856,kathy nuernberg,2.0
+4857,4857,kathy reeves,1.27
+4858,4858,kathy ringblom,0.67
+4859,4859,kathy sturr,1.5
+4860,4860,kathy washington,0.26
+4861,4861,katie spencer,0.5
+4862,4862,katie stowers,1.0
+4863,4863,katina smith,1.0
+4864,4864,katwala sandeep,1.0
+4865,4865,katyal sunita,1.0
+4866,4866,katz martin,1.0
+4867,4867,kaufman,1.0
+4868,4868,kaufman paul,4.22
+4869,4869,kavi nagesh,0.47
+4870,4870,kay,2.0
+4871,4871,kay mann,98.87
+4872,4872,kay mary,2.0
+4873,4873,kay mary miller,3.85
+4874,4874,kay quigley,5.83
+4875,4875,kay threet,0.33
+4876,4876,kay woods,0.02
+4877,4877,kay young,0.87
+4878,4878,kayla ruiz,0.14
+4879,4879,kean steve,0.36
+4880,4880,kean steven,0.18
+4881,4881,keenan sean,0.08
+4882,4882,keene patrick,0.33
+4883,4883,keeney kevin,0.26
+4884,4884,keeney william,0.27
+4885,4885,keepers sally,0.16
+4886,4886,keesler martha,0.44
+4887,4887,kegley kim,0.38
+4888,4888,keily ruth,1.0
+4889,4889,keith macivor,0.67
+4890,4890,keith marlow,1.2
+4891,4891,keith miceli,0.06
+4892,4892,keith petersen,0.46
+4893,4893,keith sparks,1.0
+4894,4894,keith stepp,1.0
+4895,4895,keller mayeaux,8.0
+4896,4896,kelli little,1.34
+4897,4897,kelli stevens,0.3
+4898,4898,kellie metcalf,1.0
+4899,4899,kelly,0.21
+4900,4900,kelly kimberly,0.23
+4901,4901,kelly lombardi,1.5
+4902,4902,kelly loocke,2.0
+4903,4903,kelly merritt,2.0
+4904,4904,kelly mike,1.0
+4905,4905,kelly neil,0.6
+4906,4906,kelly pat,1.0
+4907,4907,kelly strader,3.0
+4908,4908,kelly suzanne,1.0
+4909,4909,kelly templeton,0.11
+4910,4910,kelly tisman,2.0
+4911,4911,kelly william,1.65
+4912,4912,kelly willie,2.0
+4913,4913,kelso michelle,1.0
+4914,4914,ken,2.0
+4915,4915,ken lewchuk,0.8
+4916,4916,ken loch,0.25
+4917,4917,ken powers,0.23
+4918,4918,ken rice,0.49
+4919,4919,ken shulklapper,0.3
+4920,4920,ken smith,1.0
+4921,4921,kendra lee,1.0
+4922,4922,kendrick,1.0
+4923,4923,kendrick william,0.67
+4924,4924,kenley neil,2.0
+4925,4925,kenneally michael,2.0
+4926,4926,kennedy l susan,2.0
+4927,4927,kennedy phyllis r,3.0
+4928,4928,kennedy rod,4.0
+4929,4929,kenneth,1.0
+4930,4930,kenneth lay,1.4
+4931,4931,kenneth lee,2.0
+4932,4932,kenneth parker,1.0
+4933,4933,kenneth parkhill,2.14
+4934,4934,kenneth rice,1.0
+4935,4935,kenneth seaman,1.6
+4936,4936,kenneth shulklapper,0.97
+4937,4937,kenneth thibodeaux,1.27
+4938,4938,kenneth w walther,2.0
+4939,4939,kenneth young,8.0
+4940,4940,kenny maltby,1.0
+4941,4941,kenny soignet,1.0
+4942,4942,kent miller,0.7
+4943,4943,keohane peter,1.52
+4944,4944,kermit team,2.0
+4945,4945,kerri thompson,13.81
+4946,4946,kerry notestine,0.6
+4947,4947,kerry roper,0.19
+4948,4948,kerry stroup,1.21
+4949,4949,kerry zuegner,1.0
+4950,4950,ketcherside kirk l,0.67
+4951,4951,kettler kyle,0.17
+4952,4952,kevin,2.0
+4953,4953,kevin kindall,0.76
+4954,4954,kevin kuykendall,2.0
+4955,4955,kevin lee,2.0
+4956,4956,kevin m presto,10.81
+4957,4957,kevin mccutcheon,2.0
+4958,4958,kevin mcgowan,0.59
+4959,4959,kevin meredith,0.4
+4960,4960,kevin miller,1.0
+4961,4961,kevin montagne,1.0
+4962,4962,kevin murray,1.0
+4963,4963,kevin p radous,0.97
+4964,4964,kevin presto,0.71
+4965,4965,kevin radous,1.0
+4966,4966,kevin ruscitti,1.81
+4967,4967,kevin sluder,2.0
+4968,4968,kevin sweeney,0.19
+4969,4969,khajeh michael,0.37
+4970,4970,khan nasim,1.0
+4971,4971,khan selena,2.0
+4972,4972,khanna sanjeev,0.19
+4973,4973,khater rajat,2.0
+4974,4974,khoja moazzam,4.0
+4975,4975,khoja sayed,1.0
+4976,4976,kholst,0.22
+4977,4977,kiani,0.62
+4978,4978,kiddle mark,6.0
+4979,4979,kiehne sean,2.0
+4980,4980,kilchrist shawn,0.45
+4981,4981,kile rick,0.4
+4982,4982,kilmer rob,2.0
+4983,4983,kilmer robert,0.16
+4984,4984,kim,0.13
+4985,4985,kim kouri,0.19
+4986,4986,kim ladish,2.0
+4987,4987,kim melodick,1.32
+4988,4988,kim michael,2.0
+4989,4989,kim olinger,2.0
+4990,4990,kim parks,0.33
+4991,4991,kim pattison,4.0
+4992,4992,kim perez,1.0
+4993,4993,kim phan,1.0
+4994,4994,kim s theriot,1.02
+4995,4995,kim s ward,16.08
+4996,4996,kim stanley,0.48
+4997,4997,kim steve,1.0
+4998,4998,kim ward,4.22
+4999,4999,kim wilkie,0.18
+5000,5000,kim zachary,0.06
+5001,5001,kimat singla,1.33
+5002,5002,kimberlain todd,1.0
+5003,5003,kimberley nelson,0.18
+5004,5004,kimberly nelson,0.23
+5005,5005,kimberly olinger s,0.42
+5006,5006,kimberly parrish,1.0
+5007,5007,kimberly perkins,0.35
+5008,5008,kimberly rizzi,0.44
+5009,5009,kimberly shoaf,1.0
+5010,5010,kimberly vaughn,0.17
+5011,5011,kimberly watson,11.25
+5012,5012,king lisa,0.13
+5013,5013,king lucy,1.0
+5014,5014,king randal,1.0
+5015,5015,king wendy,2.0
+5016,5016,kingman team,0.08
+5017,5017,kingsley sophie,4.0
+5018,5018,kinningham laura,0.11
+5019,5019,kinsey lisa,0.45
+5020,5020,kip lipper,3.0
+5021,5021,kirby treasa,0.3
+5022,5022,kirit purbhoo r,3.0
+5023,5023,kirk lenart,0.11
+5024,5024,kirk mcdaniel,0.34
+5025,5025,kirk neuner,1.0
+5026,5026,kirk steve,0.36
+5027,5027,kirk stevens,0.4
+5028,5028,kirkpatrick shawn,1.73
+5029,5029,kisch krista,2.0
+5030,5030,kiske,1.0
+5031,5031,kissner tim,0.86
+5032,5032,kitagawa kyle,0.18
+5033,5033,kitchen,1.0
+5034,5034,kitchen louise,14.23
+5035,5035,kittel robin,0.09
+5036,5036,kjeseth peder,1.0
+5037,5037,kleb steve,0.38
+5038,5038,kleege steven,1.0
+5039,5039,klein stephen,1.0
+5040,5040,kleindorfer paul,1.0
+5041,5041,klimesh steve,3.0
+5042,5042,klussmann troy,0.29
+5043,5043,kmagrude,1.0
+5044,5044,kmann,2.0
+5045,5045,knight robert,0.14
+5046,5046,knippa mark,0.85
+5047,5047,knudsen sheila,0.46
+5048,5048,koenig,1.0
+5049,5049,koenig mark,0.59
+5050,5050,koerselman lisa,0.36
+5051,5051,koh wendy,0.1
+5052,5052,kohli sandeep,0.59
+5053,5053,kolinge,1.33
+5054,5054,koller ross,0.09
+5055,5055,kolman michael,0.17
+5056,5056,kopper michael,1.0
+5057,5057,korbelik stephanie,1.0
+5058,5058,kori loibl,2.31
+5059,5059,koulikov pavel,0.08
+5060,5060,kourtney nelson,0.35
+5061,5061,kovalcik tammy,2.0
+5062,5062,kovin russ,1.0
+5063,5063,kowalke terry,5.15
+5064,5064,kozadinos tracey,2.0
+5065,5065,kraemer kristi,2.0
+5066,5066,kraltchev nikolay,0.16
+5067,5067,krejci rick,0.17
+5068,5068,krenz william,0.06
+5069,5069,kriegel wilson,2.1
+5070,5070,krimsky steve,3.0
+5071,5071,krimsky steven,0.68
+5072,5072,krishnarao pinnamaneni,1.13
+5073,5073,kristal yana,1.0
+5074,5074,kristann shireman,0.08
+5075,5075,kriste,0.03
+5076,5076,kriste sullivan,0.55
+5077,5077,kristen mullen,2.0
+5078,5078,kristian lande,0.5
+5079,5079,kristin passmore,1.0
+5080,5080,kristin walsh,0.34
+5081,5081,kristina mordaunt,0.36
+5082,5082,kroum kroumov,0.16
+5083,5083,kuehl toby,0.26
+5084,5084,kuehn m scott,1.0
+5085,5085,kulic sladana,0.5
+5086,5086,kumar madhup,0.35
+5087,5087,kumar rahul,2.0
+5088,5088,kumar s v,2.0
+5089,5089,kumar vivek,1.0
+5090,5090,kunkel laura,1.0
+5091,5091,kurt lindahl,1.0
+5092,5092,kuykendall m patrick,1.57
+5093,5093,kuykendall tori,4.32
+5094,5094,kwatson,1.0
+5095,5095,kyama vanessa,2.0
+5096,5096,kyle lilly r,0.4
+5097,5097,kyle norosky,1.0
+5098,5098,kyle purvis,0.75
+5099,5099,kyle schultz,0.1
+5100,5100,kyser ruby,1.0
+5101,5101,l lawrence linda,0.05
+5102,5102,l lee papayoti,0.33
+5103,5103,l lou pai,0.15
+5104,5104,l mark schrab,0.1
+5105,5105,l michael miller,0.32
+5106,5106,l mike smith,1.0
+5107,5107,l mims patrice,4.05
+5108,5108,l mona petrochko,1.36
+5109,5109,l morris stella,0.74
+5110,5110,l mulrooney tammy,2.0
+5111,5111,l ray timothy,0.32
+5112,5112,l robin treadwell,0.14
+5113,5113,l taylor vance,0.17
+5114,5114,l tori wells,0.78
+5115,5115,la nicole,0.4
+5116,5116,la rose simone,2.0
+5117,5117,la simone,1.67
+5118,5118,laad milind,2.0
+5119,5119,lackey michael,2.0
+5120,5120,lad lorenz,1.0
+5121,5121,laferla lynda,0.39
+5122,5122,lafontaine steve,0.38
+5123,5123,lafuze molly,0.35
+5124,5124,lagler mark,1.0
+5125,5125,laguna team,0.05
+5126,5126,laidlaw scott,0.61
+5127,5127,laine,2.0
+5128,5128,laine lobban,1.0
+5129,5129,laing melissa,0.06
+5130,5130,lair tasha,2.0
+5131,5131,laird richard,4.0
+5132,5132,lakhani mahesh,1.25
+5133,5133,lakho shahnaz,0.35
+5134,5134,lakshman ranjini,2.0
+5135,5135,lalani sean,1.0
+5136,5136,lallani moyez,2.0
+5137,5137,lamadrid victor,3.26
+5138,5138,lamas rodrigo,4.0
+5139,5139,lamb marnie,1.24
+5140,5140,lance,2.0
+5141,5141,lance mccarthy,1.0
+5142,5142,lance schuler,0.44
+5143,5143,lance shuler,1.0
+5144,5144,lande monica,0.92
+5145,5145,landry s shemeika,0.27
+5146,5146,landwehr m susan,1.19
+5147,5147,landy matthew,1.0
+5148,5148,lantefield laura,2.0
+5149,5149,laporte nicole,0.89
+5150,5150,laquitta washington,1.0
+5151,5151,lara leibman,0.3
+5152,5152,lara mckinney,1.0
+5153,5153,larence snowden,2.0
+5154,5154,larkworthy lyle,1.0
+5155,5155,larrissa sharma,2.0
+5156,5156,larry,2.67
+5157,5157,larry lawyer,0.48
+5158,5158,larry loveless,1.0
+5159,5159,larry may,1.7
+5160,5160,larry pardue,0.09
+5161,5161,larry pavlou,0.13
+5162,5162,larry soderquist,0.14
+5163,5163,larry valderrama,0.12
+5164,5164,larubbio morris,1.0
+5165,5165,lauer richard,4.0
+5166,5166,laura luce,1.23
+5167,5167,laura pena r,0.25
+5168,5168,laura prothro,3.0
+5169,5169,laura schwartz,0.12
+5170,5170,laura scott,0.15
+5171,5171,laura valencia,1.0
+5172,5172,laura vargas,0.14
+5173,5173,laura vuittonet,1.08
+5174,5174,laura wente,0.27
+5175,5175,laura wilkinson,0.54
+5176,5176,lauren schlesinger,1.5
+5177,5177,lauren urquhart,0.64
+5178,5178,laurie lee,1.0
+5179,5179,laurie malone,3.0
+5180,5180,laurie mayer,0.15
+5181,5181,lavine mark,1.0
+5182,5182,lavorato,0.08
+5183,5183,law michael,0.29
+5184,5184,law samantha,0.44
+5185,5185,lawless michelle,0.18
+5186,5186,lawner lelie,1.0
+5187,5187,lawner leslie,2.04
+5188,5188,lawrence lawyer,0.46
+5189,5189,lay mark,0.42
+5190,5190,layne mike,1.0
+5191,5191,lcampbel,2.0
+5192,5192,ld stephens,0.15
+5193,5193,le trang,1.0
+5194,5194,lea savala,2.0
+5195,5195,leah rijo,2.0
+5196,5196,leahy patrick,2.33
+5197,5197,lebeau maria,0.67
+5198,5198,lebeau paul,0.29
+5199,5199,lebeau randy,0.18
+5200,5200,lebrocq wendi,0.4
+5201,5201,lechner michael,1.0
+5202,5202,lee martin,1.0
+5203,5203,lee matthias,0.15
+5204,5204,lee munden,0.1
+5205,5205,lee norman,1.31
+5206,5206,lees lisa,1.59
+5207,5207,leesa white,4.0
+5208,5208,legal,0.06
+5209,5209,legal temp,0.51
+5210,5210,legros liz,2.0
+5211,5211,lehr tonai,0.45
+5212,5212,leibert richard,0.25
+5213,5213,leigh lorie,0.13
+5214,5214,lenhart matthew,15.3
+5215,5215,leo lugo,2.0
+5216,5216,leo nichols,0.25
+5217,5217,leonard tham,2.0
+5218,5218,leonardo pacheco,0.14
+5219,5219,leppard steve,0.39
+5220,5220,leppard steven,1.34
+5221,5221,lerea pharr,0.43
+5222,5222,les,1.0
+5223,5223,les webber,0.55
+5224,5224,lesh pamela,1.0
+5225,5225,leslie,1.0
+5226,5226,leslie linares,1.0
+5227,5227,leslie reeves,1.08
+5228,5228,leslie robinson,0.96
+5229,5229,leslie smith,1.86
+5230,5230,lessner sherry,1.0
+5231,5231,lessor mary,2.0
+5232,5232,lester rawson,1.12
+5233,5233,leticia smith,2.0
+5234,5234,leung victor,1.0
+5235,5235,leuschen sam,0.71
+5236,5236,lewis,0.05
+5237,5237,lewis r susan,2.0
+5238,5238,lewis richard,0.29
+5239,5239,lewis simone,1.0
+5240,5240,lewis susan,2.0
+5241,5241,li maggie,0.5
+5242,5242,li shasha,1.0
+5243,5243,li sun,0.82
+5244,5244,li xiao,2.0
+5245,5245,lian mingcheng,1.0
+5246,5246,lien nguyen,1.0
+5247,5247,lien thor,0.92
+5248,5248,lighthill sandra,0.4
+5249,5249,liisa mulbrecht,1.0
+5250,5250,lilia roman,1.0
+5251,5251,lillian,1.0
+5252,5252,lillian villarreal,0.28
+5253,5253,lillie pittman,1.0
+5254,5254,limor nissan,0.42
+5255,5255,lin martin,0.75
+5256,5256,lin richardson,1.0
+5257,5257,linda,0.05
+5258,5258,linda miller,1.0
+5259,5259,linda noske,0.38
+5260,5260,linda roberts,0.19
+5261,5261,linda robertson,3.0
+5262,5262,linda s trevino,2.0
+5263,5263,linda sietzema,0.1
+5264,5264,linda strahm,1.0
+5265,5265,linda trevino,0.13
+5266,5266,linda vargo,2.0
+5267,5267,linda ward,0.31
+5268,5268,linda wehring,0.14
+5269,5269,linda zhou,1.0
+5270,5270,lindberg lorraine,2.34
+5271,5271,lindberg susan,3.93
+5272,5272,lindsay mark,2.0
+5273,5273,lindsay renaud,0.38
+5274,5274,linn s young,1.0
+5275,5275,lipin steve,1.0
+5276,5276,lipsett roy,2.0
+5277,5277,lisa,0.28
+5278,5278,lisa mackey,3.0
+5279,5279,lisa mcclendon,0.43
+5280,5280,lisa mcisaac,1.0
+5281,5281,lisa mellencamp,1.48
+5282,5282,lisa nemec,0.25
+5283,5283,lisa palmer,1.0
+5284,5284,lisa petruszka,2.0
+5285,5285,lisa robichaux,0.05
+5286,5286,lisa sawyer,0.2
+5287,5287,lisa scully,2.0
+5288,5288,lisa shoemake,0.29
+5289,5289,lisa sutton,0.28
+5290,5290,lisa upchurch,2.0
+5291,5291,lisa valderrama,0.18
+5292,5292,lisa valley,1.0
+5293,5293,lisa watson,2.0
+5294,5294,lisa woods,2.0
+5295,5295,lisa yoho,1.0
+5296,5296,lisa zarsky,0.62
+5297,5297,litigation ljm,7.0
+5298,5298,livingston tina,1.0
+5299,5299,liz m taylor,5.94
+5300,5300,liz prior,0.18
+5301,5301,liz rivera,1.0
+5302,5302,liz taylor,0.7
+5303,5303,lizzette palmer,3.6
+5304,5304,llawner,1.0
+5305,5305,llindbe@enron.com,1.0
+5306,5306,lloyd wantschek,1.0
+5307,5307,lloyd will,1.59
+5308,5308,lmco,1.0
+5309,5309,lmcorder,1.0
+5310,5310,lohman tk,1.8
+5311,5311,lokay michelle,5.1
+5312,5312,lokey teb,2.25
+5313,5313,lola willis,0.52
+5314,5314,lon stanton,1.0
+5315,5315,long maryann,2.0
+5316,5316,long sean,1.0
+5317,5317,lopez susan,2.0
+5318,5318,lora sullivan,0.1
+5319,5319,lorenz matt,0.09
+5320,5320,loretta pena,2.0
+5321,5321,lori maddox,0.25
+5322,5322,lori pinder,0.04
+5323,5323,lori saffer,1.0
+5324,5324,lorraine telles,1.0
+5325,5325,lou stoler,0.26
+5326,5326,louis,2.0
+5327,5327,louis soldano,1.34
+5328,5328,louise,0.33
+5329,5329,love m phillip,26.61
+5330,5330,loveless rick,0.23
+5331,5331,loving scott,0.09
+5332,5332,low wilma,1.0
+5333,5333,lowe mickey,3.0
+5334,5334,lowell thomas,1.0
+5335,5335,lowry phil,0.57
+5336,5336,lozano melba,1.49
+5337,5337,lsulliv,1.0
+5338,5338,lu zimin,1.3
+5339,5339,lucci paul,0.58
+5340,5340,lucci paul t,3.02
+5341,5341,lucy m marshall,2.0
+5342,5342,lucy marshall,0.08
+5343,5343,lucy ortiz,0.4
+5344,5344,luis mena,2.46
+5345,5345,luiz maurer,1.71
+5346,5346,lum rosalyn,1.15
+5347,5347,luong sheri,1.0
+5348,5348,luong steven,0.45
+5349,5349,lupe spencer,1.0
+5350,5350,lydecker richard,0.85
+5351,5351,lydia reeves,2.0
+5352,5352,lyman wilkes,1.0
+5353,5353,lynda pham,1.0
+5354,5354,lynette powell,1.0
+5355,5355,lynn mattson paul,1.0
+5356,5356,lynn pikofsky,0.3
+5357,5357,lynn seymour,2.0
+5358,5358,lynn tippery,0.25
+5359,5359,lynnblair,1.0
+5360,5360,lynne mary ruffer,0.46
+5361,5361,lyoho,1.0
+5362,5362,m margie moreno,1.0
+5363,5363,m mary smith,0.15
+5364,5364,m mike smith,1.0
+5365,5365,m neville sue,0.3
+5366,5366,m norton timothy,0.12
+5367,5367,m regan smith,1.0
+5368,5368,m scott shields,1.0
+5369,5369,m scott susan,11.63
+5370,5370,m suffield thomas,1.3
+5371,5371,m.s.@enron.com,1.0
+5372,5372,mac mcclelland,2.0
+5373,5373,macaul pam,2.0
+5374,5374,machado matilda,1.0
+5375,5375,mackin patrick,1.0
+5376,5376,mackinnon mandy,1.5
+5377,5377,macphee mike,0.07
+5378,5378,madera maricely velezquez,1.0
+5379,5379,madre nell,2.0
+5380,5380,maffett randal,0.82
+5381,5381,maffett randal t,0.1
+5382,5382,maffett randy,1.0
+5383,5383,magana raquel,1.0
+5384,5384,magee molly,1.57
+5385,5385,magee tycie,0.04
+5386,5386,maggi mike,2.73
+5387,5387,maggie matheson,0.25
+5388,5388,maggie schroeder,0.59
+5389,5389,mahan mariella,0.35
+5390,5390,maheu peter,3.0
+5391,5391,mahmassani souad,1.26
+5392,5392,mahoney peggy,0.44
+5393,5393,majed,2.0
+5394,5394,majed nachawati,10.0
+5395,5395,maki sean,1.0
+5396,5396,makkai peter,0.56
+5397,5397,malcolm rodney,0.58
+5398,5398,malkemes shelby,0.5
+5399,5399,malone ted,0.4
+5400,5400,maloy patrick,1.0
+5401,5401,maltes miguel,0.24
+5402,5402,management test volume,0.33
+5403,5403,manarin marcia,0.7
+5404,5404,mandola teresa,0.18
+5405,5405,manfred roenz,1.0
+5406,5406,manly marc,0.33
+5407,5407,mann michael,0.13
+5408,5408,mann ruth,0.56
+5409,5409,manning marykay,1.0
+5410,5410,mansfield marci,0.36
+5411,5411,mao shari,0.36
+5412,5412,mara,2.0
+5413,5413,mara sue,2.0
+5414,5414,mara susan,3.64
+5415,5415,marc pana,1.0
+5416,5416,marc phillips,0.06
+5417,5417,marc sabine,2.0
+5418,5418,marc ulrich,1.0
+5419,5419,marcello romano,0.19
+5420,5420,marcelo meira,0.17
+5421,5421,marchris robinson,0.35
+5422,5422,marcie,1.0
+5423,5423,marcie milner,0.64
+5424,5424,marcos perez,1.0
+5425,5425,marcus nettelton,1.15
+5426,5426,marcus pullicino,1.0
+5427,5427,marcus stephan,1.0
+5428,5428,marcy warming,1.0
+5429,5429,margaret morrison,1.0
+5430,5430,margaret wysatta,2.0
+5431,5431,marge nadasky,0.1
+5432,5432,margie mcbath,1.0
+5433,5433,margie straight,2.0
+5434,5434,margo reyna,0.15
+5435,5435,margo terrell,1.0
+5436,5436,marguerite nguyen,3.0
+5437,5437,maria,0.06
+5438,5438,maria mitchell,2.0
+5439,5439,maria pavlou,1.65
+5440,5440,maria perales,2.0
+5441,5441,maria raftery,1.0
+5442,5442,maria salazar,0.03
+5443,5443,maria sandoval,0.31
+5444,5444,maria tefel,0.13
+5445,5445,maria valdes,0.38
+5446,5446,maria van,1.0
+5447,5447,marianne salinas z,0.09
+5448,5448,marianne wilkins,2.0
+5449,5449,maribel monterrey,0.27
+5450,5450,maricela trevino,2.0
+5451,5451,marie newhouse,2.0
+5452,5452,marie westin,0.05
+5453,5453,marina ng,2.0
+5454,5454,marino thea,1.0
+5455,5455,mark,3.9
+5456,5456,mark mcclure,0.5
+5457,5457,mark mcconnell,2.6
+5458,5458,mark mccoy,0.88
+5459,5459,mark metts,0.41
+5460,5460,mark miles,2.0
+5461,5461,mark mixon,4.0
+5462,5462,mark morrow,2.0
+5463,5463,mark muller,1.0
+5464,5464,mark muller s,0.54
+5465,5465,mark ng,1.0
+5466,5466,mark p rebecca,2.0
+5467,5467,mark palmer,1.67
+5468,5468,mark palmer s,0.38
+5469,5469,mark patterson,1.0
+5470,5470,mark pickering,0.95
+5471,5471,mark powell,0.32
+5472,5472,mark provenzano,1.0
+5473,5473,mark reese,1.0
+5474,5474,mark ridgely,1.0
+5475,5475,mark ringwelski,2.0
+5476,5476,mark rogers,1.0
+5477,5477,mark ruane,0.46
+5478,5478,mark schlueter,1.43
+5479,5479,mark schrab,1.0
+5480,5480,mark schroeder,1.07
+5481,5481,mark scott,0.53
+5482,5482,mark skoyk van,2.0
+5483,5483,mark smith,0.06
+5484,5484,mark symms,0.38
+5485,5485,mark tawney,0.57
+5486,5486,mark taylor,26.8
+5487,5487,mark v walker,2.0
+5488,5488,mark wadlington,0.08
+5489,5489,mark walker,1.0
+5490,5490,mark walton,1.0
+5491,5491,mark whitt,6.4
+5492,5492,mark wilson,1.0
+5493,5493,mark witt,2.0
+5494,5494,mark wolf,0.12
+5495,5495,markey patrick,2.0
+5496,5496,marksmuller,1.0
+5497,5497,marlene mccoy,0.1
+5498,5498,marlene p,1.0
+5499,5499,marolo massimo,0.2
+5500,5500,marquez tony,2.0
+5501,5501,marryott michael,2.0
+5502,5502,marsha schiller,0.32
+5503,5503,marshall suzanne,0.3
+5504,5504,martha,0.35
+5505,5505,martha stevens,0.15
+5506,5506,martin penkwitz w,1.17
+5507,5507,martin randall,1.0
+5508,5508,martin rosell,0.17
+5509,5509,martin smith,1.0
+5510,5510,martin sophie,1.0
+5511,5511,martin wenzel,0.14
+5512,5512,martinez,1.0
+5513,5513,martinez sylvia,1.0
+5514,5514,martinez yolanda,2.0
+5515,5515,marty sunde,0.77
+5516,5516,marvin michele nezi,0.48
+5517,5517,mary,1.0
+5518,5518,mary mccann,1.0
+5519,5519,mary mckendree,0.35
+5520,5520,mary nguyen,1.0
+5521,5521,mary ogden,0.23
+5522,5522,mary perkins,0.13
+5523,5523,mary poorman,1.82
+5524,5524,mary ruffer,0.5
+5525,5525,mary schoen,0.2
+5526,5526,mary silva,1.0
+5527,5527,mary sloan,2.0
+5528,5528,mary solmonson,0.58
+5529,5529,mary trosper,1.0
+5530,5530,mary tudon,0.15
+5531,5531,mary turina,3.0
+5532,5532,mary weatherstone,0.16
+5533,5533,masani zal,1.5
+5534,5534,mashington tom,3.0
+5535,5535,mason robert,0.42
+5536,5536,massage therapy,3.0
+5537,5537,mathew moses,1.0
+5538,5538,mathew noveena,1.0
+5539,5539,mathew smith,1.0
+5540,5540,mathews reagan,1.17
+5541,5541,mathews shauncy,1.23
+5542,5542,matias monica,0.11
+5543,5543,matt,0.12
+5544,5544,matt maxwell,0.88
+5545,5545,matt mcdonald,1.0
+5546,5546,matt motley,0.33
+5547,5547,matt motsinger,0.09
+5548,5548,matt pena,0.23
+5549,5549,matt smith,7.28
+5550,5550,matthew,0.16
+5551,5551,matthew nimmo,1.0
+5552,5552,matthew olney,0.67
+5553,5553,matthew radford,2.0
+5554,5554,matthew richard,1.0
+5555,5555,matthew scrimshaw,0.71
+5556,5556,matthew tezyk,5.0
+5557,5557,matthew titus,1.0
+5558,5558,matthews ron,1.3
+5559,5559,matthews ronald,1.0
+5560,5560,mattox michael,2.0
+5561,5561,maura o,1.0
+5562,5562,maureen mcvicker,4.53
+5563,5563,maureen raymond,0.44
+5564,5564,maureen smith,0.28
+5565,5565,maurice winter,0.5
+5566,5566,mauricio mora,1.0
+5567,5567,mauricio trejo,1.0
+5568,5568,max sonnonstine,1.65
+5569,5569,max yzaguirre,0.76
+5570,5570,maximilian sell,0.75
+5571,5571,maxine smith,0.11
+5572,5572,may tom,0.75
+5573,5573,mayher susan,2.0
+5574,5574,maynard michelle,0.18
+5575,5575,mayor philip,0.75
+5576,5576,mays wayne,0.2
+5577,5577,maziarz renata,1.0
+5578,5578,mazowita mike,0.66
+5579,5579,mbernst,2.0
+5580,5580,mccall tom,1.0
+5581,5581,mccarran penny,0.5
+5582,5582,mccarroll zachary,1.29
+5583,5583,mccarthy victoria,1.0
+5584,5584,mccarty melinda,0.18
+5585,5585,mcclain mike,1.0
+5586,5586,mcclure zakiyyah,1.0
+5587,5587,mcconnell mike,14.61
+5588,5588,mcconnell sarah,1.11
+5589,5589,mccormick pete,4.0
+5590,5590,mccracken mike,1.0
+5591,5591,mccubbin sandi,1.0
+5592,5592,mccubbin sandra,2.08
+5593,5593,mccullough travis,1.36
+5594,5594,mccullough vikki,1.0
+5595,5595,mccurley peggy,0.48
+5596,5596,mcdaniels steve,1.0
+5597,5597,mcdonald michael,0.09
+5598,5598,mcdonald rebecca,0.81
+5599,5599,mcdonald rob,1.0
+5600,5600,mcdowell shirley,1.6
+5601,5601,mcfarland trena,0.18
+5602,5602,mcginnis stephanie,0.36
+5603,5603,mcgovern william,3.0
+5604,5604,mcgowan mike,0.58
+5605,5605,mcgowan mike w,0.33
+5606,5606,mcgregor neil,2.0
+5607,5607,mcgrory robert,2.0
+5608,5608,mckalip,0.36
+5609,5609,mckeel richard,1.0
+5610,5610,mckeever tom,4.0
+5611,5611,mckone tim,0.15
+5612,5612,mcnamara ron,0.14
+5613,5613,mcnichols r sandra,0.3
+5614,5614,mcpearson shannon,0.85
+5615,5615,mcuilla,1.0
+5616,5616,mcvicker,1.0
+5617,5617,mday,1.0
+5618,5618,meadows rae,1.67
+5619,5619,mechelle stevens,0.2
+5620,5620,medrano veronica,2.0
+5621,5621,meers thomas,0.14
+5622,5622,meg pedrosa,1.0
+5623,5623,megan parker,1.66
+5624,5624,megan scott,1.5
+5625,5625,mei,0.64
+5626,5626,meindert witteveen,1.0
+5627,5627,melanie strong,2.0
+5628,5628,melinda pharms,0.25
+5629,5629,melinda whalen,0.28
+5630,5630,melinda winkler,1.0
+5631,5631,melinda winn,0.14
+5632,5632,melissa murphy,2.0
+5633,5633,melissa prihoda,0.26
+5634,5634,melissa ratnala,1.25
+5635,5635,melissa rodriguez,0.29
+5636,5636,melissa solis,0.14
+5637,5637,melissa videtto,1.5
+5638,5638,mellencamp,1.0
+5639,5639,melton richard,0.62
+5640,5640,menchaca peggy,1.0
+5641,5641,mendel shelly,0.2
+5642,5642,mendez nicole,0.25
+5643,5643,mendoza nidia,0.19
+5644,5644,menear robyn,2.0
+5645,5645,mercaldo vernon,0.33
+5646,5646,meredith mitchell,0.95
+5647,5647,meredith philipp,0.18
+5648,5648,meredith phillipp,1.0
+5649,5649,merris steven,0.36
+5650,5650,merriss steven,0.67
+5651,5651,merritt thomas,0.57
+5652,5652,mesquita ross,0.41
+5653,5653,metoyer pam,2.0
+5654,5654,meyer mitch,1.0
+5655,5655,meyer rockford,4.0
+5656,5656,meyer steve,0.25
+5657,5657,meyer vance,0.41
+5658,5658,meyers r steven,4.0
+5659,5659,meyers sherry,2.0
+5660,5660,mfischer,2.0
+5661,5661,mhain,0.4
+5662,5662,michael,0.12
+5663,5663,michael mier,0.22
+5664,5664,michael miller,1.0
+5665,5665,michael moran,1.68
+5666,5666,michael moran p,4.67
+5667,5667,michael moulton,0.1
+5668,5668,michael mousteiko,0.38
+5669,5669,michael neves,0.65
+5670,5670,michael nguyen,0.25
+5671,5671,michael norden van,0.25
+5672,5672,michael norris,0.06
+5673,5673,michael o yambrach,1.0
+5674,5674,michael olsen,1.08
+5675,5675,michael p smith,1.0
+5676,5676,michael payne,1.0
+5677,5677,michael pearson,1.0
+5678,5678,michael peri,1.0
+5679,5679,michael philips,1.0
+5680,5680,michael ratner,0.55
+5681,5681,michael roan,1.75
+5682,5682,michael rosen,1.0
+5683,5683,michael salinas,0.25
+5684,5684,michael savidant,5.0
+5685,5685,michael schilmoeller,0.12
+5686,5686,michael schuh,1.0
+5687,5687,michael seely,0.2
+5688,5688,michael sergeev,5.0
+5689,5689,michael simmons,2.0
+5690,5690,michael slade,0.5
+5691,5691,michael spruiell,1.0
+5692,5692,michael sullivan,0.31
+5693,5693,michael taylor,0.06
+5694,5694,michael terraso,0.28
+5695,5695,michael tribolet,2.85
+5696,5696,michael tribolet william,1.0
+5697,5697,michael tully,0.37
+5698,5698,michael wagoner,0.12
+5699,5699,michael walters,0.9
+5700,5700,michael warner,1.0
+5701,5701,michael wong,0.09
+5702,5702,michel nelson,0.54
+5703,5703,michele small,4.0
+5704,5704,michele sorensen,1.0
+5705,5705,michele winckowski,0.69
+5706,5706,michele word,2.0
+5707,5707,michelle nelson,2.15
+5708,5708,michelle neville,2.0
+5709,5709,michelle parks,0.23
+5710,5710,michelle robichaux,0.14
+5711,5711,michelle thompson,0.5
+5712,5712,michelle vitrella,0.4
+5713,5713,michelle waldhauser,1.0
+5714,5714,michelle wells,0.83
+5715,5715,michelle wenz,1.0
+5716,5716,michelle zhang,2.0
+5717,5717,migden,1.0
+5718,5718,migration outlook team,2.93
+5719,5719,miguel,6.0
+5720,5720,miguel padron,0.27
+5721,5721,miguel vasquez,0.26
+5722,5722,mihalik teresa,1.0
+5723,5723,mihalik trevor,0.11
+5724,5724,mike,2.0
+5725,5725,mike miller,2.33
+5726,5726,mike nelson,0.67
+5727,5727,mike nolan,1.0
+5728,5728,mike purcell,0.56
+5729,5729,mike riedel,0.66
+5730,5730,mike roberts,0.67
+5731,5731,mike sheedy,0.12
+5732,5732,mike smith,2.12
+5733,5733,mike swerzbin,0.88
+5734,5734,mike teal,1.0
+5735,5735,mike wardell,2.0
+5736,5736,mike wellings,0.36
+5737,5737,mike_d_smith@enron.com,1.0
+5738,5738,mikie,1.0
+5739,5739,mikie rath,0.08
+5740,5740,miller,2.0
+5741,5741,miller paul,0.23
+5742,5742,miller peggy,2.0
+5743,5743,miller richard,3.0
+5744,5744,miller stephanie,1.75
+5745,5745,miller stephen,0.22
+5746,5746,miller tiffany,0.17
+5747,5747,miller tim,2.0
+5748,5748,milligan taffy,2.07
+5749,5749,mills scott,0.3
+5750,5750,milnthorp rob,2.06
+5751,5751,milnthorpe rob,0.24
+5752,5752,mims,1.0
+5753,5753,min zheng,0.78
+5754,5754,mina miyakawa,1.0
+5755,5755,minnis sabrina,3.0
+5756,5756,minter tracy,0.21
+5757,5757,miranda southard,0.44
+5758,5758,mirna moscoso,1.0
+5759,5759,misha siegel,0.16
+5760,5760,misra narsimha,0.24
+5761,5761,mitch robinson,1.49
+5762,5762,mitch taylor,0.85
+5763,5763,mitchell russell,1.0
+5764,5764,mitchell taylor,0.17
+5765,5765,mjoyce,1.0
+5766,5766,mmcvicke,1.0
+5767,5767,mobley randall,1.0
+5768,5768,mods telephone,1.0
+5769,5769,mogel william,1.0
+5770,5770,mohon tabitha,2.0
+5771,5771,molly,1.0
+5772,5772,molly sample,0.24
+5773,5773,molly sumrow,0.54
+5774,5774,mom,2.0
+5775,5775,mona,1.0
+5776,5776,mona petrochko,1.0
+5777,5777,monahans team,0.03
+5778,5778,moncrieff scott,0.67
+5779,5779,monica padilla,1.0
+5780,5780,monica reasoner,0.33
+5781,5781,monica roberts,2.0
+5782,5782,monica talan,2.0
+5783,5783,monique phillips,0.38
+5784,5784,monique sanchez,2.96
+5785,5785,monique shankle,0.13
+5786,5786,montgomery russell,1.0
+5787,5787,montovano steve,0.61
+5788,5788,mooney nick,0.2
+5789,5789,moore o tom,1.0
+5790,5790,moorer torrey,0.33
+5791,5791,morales nancy,1.0
+5792,5792,moran tom,1.43
+5793,5793,morell richard,2.0
+5794,5794,morgan sharifi,0.3
+5795,5795,morgan sharon,1.0
+5796,5796,morley william,1.0
+5797,5797,morrill scott,5.0
+5798,5798,morse steve,0.22
+5799,5799,moseley robby,1.0
+5800,5800,moulinet rene,1.0
+5801,5801,mountainair team,1.0
+5802,5802,move,2.0
+5803,5803,mpalmer,1.56
+5804,5804,mpetroch,0.12
+5805,5805,mschroeder,0.8
+5806,5806,mshade,1.0
+5807,5807,msmith,1.0
+5808,5808,msmith1@enron.com,1.0
+5809,5809,mtaylo,1.0
+5810,5810,mtezyk,2.0
+5811,5811,muchmore nancy,0.2
+5812,5812,mulholland sarah,0.51
+5813,5813,mulvany patrick,0.3
+5814,5814,murli nagwani,0.11
+5815,5815,murphy s timothy,2.0
+5816,5816,murphy ted,1.76
+5817,5817,murphy tim,1.6
+5818,5818,murray o p,0.33
+5819,5819,musch susan,0.35
+5820,5820,mwongozi rahmaan,1.17
+5821,5821,myers thomas,0.1
+5822,5822,myford paul,2.0
+5823,5823,n,2.0
+5824,5824,na,2.33
+5825,5825,nacey sheila,0.86
+5826,5826,nachawati,0.5
+5827,5827,nagle rita,1.0
+5828,5828,nagy steve,4.0
+5829,5829,nalluri susmitha,1.0
+5830,5830,nancy turner,1.0
+5831,5831,nassab peter,0.18
+5832,5832,nat steve,0.31
+5833,5833,natalie wells,4.0
+5834,5834,nath tani,0.32
+5835,5835,nbondare,0.13
+5836,5836,neal scott,11.75
+5837,5837,neal steve,2.0
+5838,5838,neale nelson,0.41
+5839,5839,nedre strambler,2.25
+5840,5840,neeran pathak,1.0
+5841,5841,neil sainsbury,2.0
+5842,5842,neil tarling,1.0
+5843,5843,nelson rod,1.58
+5844,5844,nelson roderick,0.42
+5845,5845,nemila tom,10.0
+5846,5846,neppl ray,0.06
+5847,5847,neta zitnik,0.07
+5848,5848,network security,2.0
+5849,5849,neuendorf scott,2.0
+5850,5850,neuman stacey,2.0
+5851,5851,neustaedter robert,0.53
+5852,5852,neuweiler stacey,1.1
+5853,5853,neville sue,0.31
+5854,5854,newlin ross,2.81
+5855,5855,newman robert,0.11
+5856,5856,ng,2.0
+5857,5857,ng timmy,2.0
+5858,5858,ngo t van,2.0
+5859,5859,ngo tracy,1.33
+5860,5860,nguyen,1.0
+5861,5861,nguyen t thu,0.46
+5862,5862,nguyen thu,2.4
+5863,5863,nguyen vivian,1.0
+5864,5864,nicholas o,0.32
+5865,5865,nicholas stephan,2.0
+5866,5866,nicholas warner,0.33
+5867,5867,nicholie suzanne,0.39
+5868,5868,nick politis,0.07
+5869,5869,nick tubach,1.0
+5870,5870,nicola sanders,1.0
+5871,5871,nicole palczer,0.13
+5872,5872,nicole scott,0.11
+5873,5873,nicole vo,0.18
+5874,5874,nicole white,1.0
+5875,5875,nigel sellens,0.09
+5876,5876,nikhil shah,2.0
+5877,5877,nikki slade,0.06
+5878,5878,nmisra,1.0
+5879,5879,noble ted,1.25
+5880,5880,noel petterson,0.2
+5881,5881,noel ryan,1.0
+5882,5882,nolly qiana,1.0
+5883,5883,nolte ron,2.0
+5884,5884,nord sue,0.98
+5885,5885,norm ruiz,0.12
+5886,5886,norm spalding,0.1
+5887,5887,norma petry,2.0
+5888,5888,norma villarreal,1.24
+5889,5889,norma yeverino,1.0
+5890,5890,norton robert,4.0
+5891,5891,noseff ray,1.0
+5892,5892,novosel,1.0
+5893,5893,novosel sarah,1.57
+5894,5894,nunn sam,1.0
+5895,5895,o,2.24
+5896,5896,o ponce roger,0.44
+5897,5897,o randy,2.0
+5898,5898,o ryan,2.11
+5899,5899,o tim,0.45
+5900,5900,o virginia,0.27
+5901,5901,o winfree,1.56
+5902,5902,ochsner preston,0.23
+5903,5903,odonnell pat,1.0
+5904,5904,oh seung,0.17
+5905,5905,olitsky sandy,0.3
+5906,5906,oliver shirley,2.0
+5907,5907,olszewski stephanie,1.0
+5908,5908,omni,1.0
+5909,5909,ondreko roger,0.27
+5910,5910,osborn roger,0.17
+5911,5911,osman sezgen,0.4
+5912,5912,otegbola remi,3.0
+5913,5913,other,1.0
+5914,5914,ott shana,2.0
+5915,5915,otto randy,0.32
+5916,5916,ou,2.0
+5917,5917,ozzie,2.0
+5918,5918,ozzie pagan,1.51
+5919,5919,p robert virgo,0.55
+5920,5920,p schwarz stephen,2.0
+5921,5921,p south steven,0.68
+5922,5922,pablo torres,0.15
+5923,5923,pais randy,0.5
+5924,5924,pak samuel,0.09
+5925,5925,paladino ranelle,0.33
+5926,5926,palmer rhonna,0.22
+5927,5927,palmer sarah,0.2
+5928,5928,pam rosen,8.0
+5929,5929,pam wilson,2.0
+5930,5930,pamela rush,1.0
+5931,5931,pamela sonnier,0.14
+5932,5932,pampa pipeline team,0.23
+5933,5933,pan ronggen,2.0
+5934,5934,pan steve,1.0
+5935,5935,panhandle team,1.0
+5936,5936,panus stephanie,4.23
+5937,5937,pardo sheila,1.33
+5938,5938,park richard,1.33
+5939,5939,parker terrellyn,2.0
+5940,5940,parker tresea,1.0
+5941,5941,parking,1.44
+5942,5942,parra veronica,2.0
+5943,5943,paschal zelda,0.43
+5944,5944,pat prendergast,1.33
+5945,5945,pat radford,0.45
+5946,5946,pat scatena,1.0
+5947,5947,pat shortridge,1.56
+5948,5948,pat vaughan,1.0
+5949,5949,patel purvi,0.28
+5950,5950,patel rikesh,1.0
+5951,5951,patel sheetal,0.39
+5952,5952,patel sophie,0.1
+5953,5953,patel virendra,0.23
+5954,5954,patricia,3.0
+5955,5955,patricia payton,2.0
+5956,5956,patricia rivera,1.0
+5957,5957,patricia steele,0.27
+5958,5958,patricia tlapek,0.41
+5959,5959,patricia wiederholt,2.0
+5960,5960,patrick,2.0
+5961,5961,patrick reedy,2.0
+5962,5962,patrick ryder,1.62
+5963,5963,patrick smith t,2.0
+5964,5964,patrick tucker,0.36
+5965,5965,patrick wade,0.43
+5966,5966,patti,1.0
+5967,5967,patti sullivan,1.13
+5968,5968,patti thompson,9.13
+5969,5969,patti ucci,0.12
+5970,5970,pattye sanders,1.0
+5971,5971,paul,0.4
+5972,5972,paul pfeffer,0.43
+5973,5973,paul pizzolato,0.08
+5974,5974,paul puchot,0.12
+5975,5975,paul quilkey,0.38
+5976,5976,paul racicot,0.18
+5977,5977,paul radous,1.1
+5978,5978,paul rehrig,1.0
+5979,5979,paul schiavone,0.19
+5980,5980,paul simons,0.76
+5981,5981,paul sivley,1.0
+5982,5982,paul smith,0.15
+5983,5983,paul tate,0.12
+5984,5984,paul thomas,0.28
+5985,5985,paul trieschman,1.0
+5986,5986,paul y,6.9
+5987,5987,paula,1.0
+5988,5988,paula rieker,0.42
+5989,5989,paula warren,3.0
+5990,5990,paulett smith,0.29
+5991,5991,pauline wilson,1.0
+5992,5992,pavel zadorozhny,0.15
+5993,5993,payit,0.5
+5994,5994,payne sharee,1.0
+5995,5995,pearlman steve,0.13
+5996,5996,pearson peter,1.0
+5997,5997,peggy,1.0
+5998,5998,peggy phillips,0.19
+5999,5999,peggy sichenze,1.0
+6000,6000,peggy sims,1.0
+6001,6001,peikert todd,0.33
+6002,6002,pellum ragayle,2.0
+6003,6003,pena renee,1.0
+6004,6004,penet philippe,1.0
+6005,6005,peoplefinder,0.35
+6006,6006,per sekse,0.51
+6007,6007,percy sean,1.0
+6008,6008,pereira susan w,1.59
+6009,6009,perez ricardo,1.6
+6010,6010,perez sonia,1.0
+6011,6011,perich stephen,0.5
+6012,6012,perkins ramona,0.44
+6013,6013,perkins regina,0.62
+6014,6014,pernul sarah,1.0
+6015,6015,perry renee,0.38
+6016,6016,perry todd,0.63
+6017,6017,perry wayne,0.25
+6018,6018,pete,1.0
+6019,6019,pete torres,1.73
+6020,6020,peter,0.22
+6021,6021,peter redpath,2.0
+6022,6022,peter russell,1.0
+6023,6023,peter stewart,1.0
+6024,6024,peter styles,0.57
+6025,6025,peter traung,1.0
+6026,6026,peter weidler,2.0
+6027,6027,petersen randy,0.15
+6028,6028,petrie,1.0
+6029,6029,petrochko,1.0
+6030,6030,pham vivien,2.0
+6031,6031,phil polsky,1.68
+6032,6032,phil sisneros,0.5
+6033,6033,philip polsky,1.75
+6034,6034,philip willis,0.36
+6035,6035,philippe travis,0.36
+6036,6036,phillip,0.12
+6037,6037,phillip platter,1.5
+6038,6038,phillip randle,3.0
+6039,6039,phillip villagomez,2.0
+6040,6040,phillips rebecca,2.0
+6041,6041,piasio stephen,1.0
+6042,6042,piazze tara,0.77
+6043,6043,pierce shelly,0.04
+6044,6044,pilar ramirez,0.29
+6045,6045,pimenov vladi,1.65
+6046,6046,pina rafael,1.0
+6047,6047,pinero yvette,0.25
+6048,6048,pinion richard,0.16
+6049,6049,piwetz stephanie,3.64
+6050,6050,pizarro ramon,1.0
+6051,6051,plachy rich,0.8
+6052,6052,plauche stephen,0.9
+6053,6053,pleus scott,0.13
+6054,6054,pollan s sylvia,0.91
+6055,6055,pollan sylvia,2.0
+6056,6056,polzin ward,1.0
+6057,6057,porter russ,1.04
+6058,6058,porter theresa,1.0
+6059,6059,portland real time,1.0
+6060,6060,portland shift,0.97
+6061,6061,powell virgil,1.0
+6062,6062,pravas sud,1.0
+6063,6063,preston roobaert,0.38
+6064,6064,prevatt ross,0.25
+6065,6065,price r wade,0.56
+6066,6066,prihoda warren,0.12
+6067,6067,proctor,0.8
+6068,6068,proctor shemin,0.47
+6069,6069,proctor shemin v,4.4
+6070,6070,proffitt robert,1.0
+6071,6071,proffitt tim,0.2
+6072,6072,pruett steve,0.55
+6073,6073,pryor tony,0.9
+6074,6074,punit rawal,0.1
+6075,6075,pushkar shahi,0.12
+6076,6076,puthigai savita,0.43
+6077,6077,quek richard,2.0
+6078,6078,quick robert,0.16
+6079,6079,quirke rachel,1.5
+6080,6080,r,2.0
+6081,6081,r shepperd tammy,0.81
+6082,6082,rachael tobor,0.33
+6083,6083,rachael venable,0.75
+6084,6084,raetta zadow,2.65
+6085,6085,rafter tara,1.0
+6086,6086,raghavan suresh,0.08
+6087,6087,rahul seksaria,1.0
+6088,6088,raiford smith,1.0
+6089,6089,raj thapar,0.25
+6090,6090,rajen shah,1.0
+6091,6091,rajesh,2.0
+6092,6092,rajib saha,0.15
+6093,6093,ralph,4.0
+6094,6094,ralph susan,0.3
+6095,6095,ramanarao tamma,1.0
+6096,6096,ramirez robert,1.0
+6097,6097,ramona rodriguez,2.0
+6098,6098,ramos salisha,2.0
+6099,6099,ramsey tracy,0.03
+6100,6100,ramsey@enron.com,1.0
+6101,6101,rance susan,0.19
+6102,6102,randy rice,0.59
+6103,6103,randy rippentrop,1.0
+6104,6104,randy young,0.25
+6105,6105,rao v v,1.0
+6106,6106,rasmani,1.0
+6107,6107,ratcliff renee,2.33
+6108,6108,raul rizo,0.26
+6109,6109,ravagnani samira,1.0
+6110,6110,ravi thuraisingham,0.41
+6111,6111,ray,0.14
+6112,6112,ray samantha,2.0
+6113,6113,ray smith,0.11
+6114,6114,ray tess,1.0
+6115,6115,ray volpone,1.0
+6116,6116,raymond yeow,1.33
+6117,6117,rbaker,1.0
+6118,6118,rcausey,4.0
+6119,6119,reagan,1.2
+6120,6120,reagan rorschach,3.8
+6121,6121,reagor rodney,1.0
+6122,6122,rebecca rush,1.0
+6123,6123,rebecca skupin,2.0
+6124,6124,rebecca torres,0.39
+6125,6125,rebecca walker,2.9
+6126,6126,rebecca watkins,1.0
+6127,6127,rebecca.sanchez@enron.com,2.0
+6128,6128,rebekah rushing,0.25
+6129,6129,reblitz scott,2.0
+6130,6130,reed tamara,4.0
+6131,6131,reed taria,3.0
+6132,6132,reese trejo,0.5
+6133,6133,reetzr,1.0
+6134,6134,regan rorschach,8.0
+6135,6135,reggie wilson,1.0
+6136,6136,reginald shanks,0.08
+6137,6137,reginald smith,3.0
+6138,6138,rehman sharif,2.0
+6139,6139,reinartz sherri,3.4
+6140,6140,reitmeyer,1.0
+6141,6141,renee smith,2.0
+6142,6142,requests sql,2.0
+6143,6143,resendez rosie,3.0
+6144,6144,ress young,1.0
+6145,6145,rex,1.0
+6146,6146,rex rogers,0.71
+6147,6147,rex shelby,0.13
+6148,6148,rexrode stuart,2.0
+6149,6149,reyna selma,1.67
+6150,6150,reynolds roger,1.0
+6151,6151,reynolds tiko,2.0
+6152,6152,rhonda robinson,2.0
+6153,6153,rhonda smith,0.13
+6154,6154,rice rob,2.0
+6155,6155,rich,1.0
+6156,6156,rich sue,1.0
+6157,6157,richard,0.34
+6158,6158,richard riehm,0.38
+6159,6159,richard ring,1.49
+6160,6160,richard robinson t,0.17
+6161,6161,richard rusk,1.0
+6162,6162,richard sage,0.77
+6163,6163,richard sanders,0.42
+6164,6164,richard schneider,1.0
+6165,6165,richard schweiger,2.0
+6166,6166,richard shapiro,7.93
+6167,6167,richard shepherd,2.0
+6168,6168,richard tomaski,0.74
+6169,6169,richard vincent,2.25
+6170,6170,richard weeks,4.0
+6171,6171,richards todd,2.25
+6172,6172,richardson stacey,0.83
+6173,6173,richardson terri,2.0
+6174,6174,richardson todd,2.0
+6175,6175,richman steve,0.41
+6176,6176,rick shapiro,1.67
+6177,6177,rick shaprio,2.0
+6178,6178,rick sierra,4.0
+6179,6179,rick smith,0.13
+6180,6180,rick suderman,1.0
+6181,6181,rick suttle,2.0
+6182,6182,rick whitaker,0.05
+6183,6183,rick wurlitzer,1.0
+6184,6184,ricki winters,2.15
+6185,6185,riley,0.25
+6186,6186,riley tom,0.38
+6187,6187,riordan,0.5
+6188,6188,riordan sean,0.47
+6189,6189,rita wynne,0.39
+6190,6190,ritter steve,2.0
+6191,6191,rivera rose,1.0
+6192,6192,rob,1.0
+6193,6193,rob schorn,0.67
+6194,6194,rob stewart,4.0
+6195,6195,rob walls,0.48
+6196,6196,rob wheeler,1.0
+6197,6197,rob wilson,4.0
+6198,6198,robbi rossi,0.71
+6199,6199,robbin stewart,1.0
+6200,6200,roberson weezie,1.67
+6201,6201,robert,0.16
+6202,6202,robert rose,3.0
+6203,6203,robert saltiel,0.05
+6204,6204,robert sanders,3.0
+6205,6205,robert sandling,1.0
+6206,6206,robert sevitz,0.25
+6207,6207,robert stalford,0.11
+6208,6208,robert stump,0.35
+6209,6209,robert superty,1.39
+6210,6210,robert tilotta,3.0
+6211,6211,robert virgo,0.12
+6212,6212,robert vote,0.18
+6213,6213,robert walker,0.32
+6214,6214,robert wilcott,1.0
+6215,6215,robert williams,0.13
+6216,6216,roberta staehlin,2.0
+6217,6217,roberts yolanda,1.0
+6218,6218,robin,2.0
+6219,6219,robin rodrigue,19.29
+6220,6220,robin tompkins,0.08
+6221,6221,robin veariel,2.0
+6222,6222,robinson,2.0
+6223,6223,robyn zivic,0.42
+6224,6224,rockey storie,0.73
+6225,6225,rod sayers,2.0
+6226,6226,rod williams,2.0
+6227,6227,rode tina,0.08
+6228,6228,rodriguez sandra,1.0
+6229,6229,roger,0.03
+6230,6230,roger sumlin,0.06
+6231,6231,roger westbrook,0.17
+6232,6232,roger yang,1.26
+6233,6233,rogers,1.0
+6234,6234,rohauer tanya,2.45
+6235,6235,ron slimp,0.4
+6236,6236,ron spain,1.0
+6237,6237,ron tapscott,0.2
+6238,6238,ronald slimp,4.0
+6239,6239,ronnie shields,1.0
+6240,6240,rosalinda zermeno,2.0
+6241,6241,rose steven,2.0
+6242,6242,roseann,0.33
+6243,6243,rosenbohm tara,1.0
+6244,6244,rosman stewart,0.48
+6245,6245,ross steve,2.0
+6246,6246,roten todd van,2.0
+6247,6247,round sam,3.0
+6248,6248,rozen tara,0.24
+6249,6249,rshapiro,0.3
+6250,6250,rstalford,2.0
+6251,6251,rt,1.0
+6252,6252,rudi zipter,0.22
+6253,6253,rudy,0.35
+6254,6254,runswick stacy,0.43
+6255,6255,russ severson,0.59
+6256,6256,russell servat,2.0
+6257,6257,russell t white,1.0
+6258,6258,rusty,0.5
+6259,6259,rusty stevens,2.21
+6260,6260,ryan,1.0
+6261,6261,ryan seleznov,0.33
+6262,6262,ryan sheeren,0.6
+6263,6263,ryan sims,2.0
+6264,6264,ryan siurek,0.76
+6265,6265,ryan slinger,1.18
+6266,6266,ryan ted,0.07
+6267,6267,ryan watt,0.42
+6268,6268,ryan williams,1.0
+6269,6269,sabo valarie,0.81
+6270,6270,sabrae zajac,0.19
+6271,6271,sabrina whaley,1.0
+6272,6272,salisha,2.0
+6273,6273,sally,2.0
+6274,6274,salt stuart,1.0
+6275,6275,sameer,1.0
+6276,6276,samuel schott,0.34
+6277,6277,samuel wehn,0.12
+6278,6278,san,0.15
+6279,6279,san team,0.06
+6280,6280,sanchez,1.0
+6281,6281,sanders,1.0
+6282,6282,sandler vicki,1.0
+6283,6283,sandra,1.67
+6284,6284,sandra vu,2.0
+6285,6285,sandy sheffield,0.07
+6286,6286,sandy taylor,0.1
+6287,6287,sanmiguel steve,0.06
+6288,6288,sanvido terry,0.06
+6289,6289,sap,1.0
+6290,6290,sap security,0.29
+6291,6291,sara,1.0
+6292,6292,sara shackleton,36.43
+6293,6293,sara solorio,3.0
+6294,6294,sarabeth smith,0.09
+6295,6295,sarah,1.0
+6296,6296,sarah taylor,7.67
+6297,6297,sarah wesner,1.44
+6298,6298,sarah zarkowsky,0.22
+6299,6299,sauseda sylvia t,0.41
+6300,6300,savita,1.0
+6301,6301,schardin stuart,0.33
+6302,6302,schick warren,0.06
+6303,6303,schoppe tammie,1.74
+6304,6304,schuler,1.0
+6305,6305,schulte vanessa,0.16
+6306,6306,schumack sherlyn,0.32
+6307,6307,schwarzbach stephen,0.2
+6308,6308,scorman,1.0
+6309,6309,scott,0.23
+6310,6310,scott sefton,0.48
+6311,6311,scott simpson,1.0
+6312,6312,scott sitter,1.0
+6313,6313,scott stanton,1.0
+6314,6314,scott stoness,1.14
+6315,6315,scott susan,12.38
+6316,6316,scott tackett,0.11
+6317,6317,scott tholan,0.44
+6318,6318,scott tracy,0.04
+6319,6319,scott vonderheide,0.25
+6320,6320,scott wachsler,4.0
+6321,6321,sean,1.0
+6322,6322,sean yang,0.09
+6323,6323,securitycounsel,1.0
+6324,6324,seeligson stewart,0.03
+6325,6325,segura stephanie,3.0
+6326,6326,selledge,2.0
+6327,6327,seminuk tyler,0.2
+6328,6328,sera sherri,4.54
+6329,6329,serrano walt,1.0
+6330,6330,sever stephanie,2.99
+6331,6331,sevil yaman,0.24
+6332,6332,sgovenar,1.0
+6333,6333,shanbhogue vasant,1.87
+6334,6334,shane yelverton,1.0
+6335,6335,shari stack,1.81
+6336,6336,sharma shifali,0.17
+6337,6337,sharon smith,1.65
+6338,6338,sharon solon,3.0
+6339,6339,sharon ward,2.0
+6340,6340,sharp vicki,1.1
+6341,6341,sharris,1.0
+6342,6342,sharron westbrook,0.51
+6343,6343,shauywn smith,2.0
+6344,6344,shawn,1.0
+6345,6345,shawn simon,1.0
+6346,6346,sheila,0.8
+6347,6347,sheila tweed,3.92
+6348,6348,sheila walton,0.59
+6349,6349,sheldon steven,2.0
+6350,6350,sheldrick stuart,0.06
+6351,6351,shelli smith,3.0
+6352,6352,shelton tom,0.11
+6353,6353,shemin v,0.92
+6354,6354,sheri thomas,2.29
+6355,6355,sherron watkins,0.11
+6356,6356,sheryl synder,1.0
+6357,6357,shih simon,1.17
+6358,6358,shirlet williams,8.0
+6359,6359,shirley tijerina,0.21
+6360,6360,shirley walden,1.0
+6361,6361,shona wilson,1.13
+6362,6362,shonnie,1.77
+6363,6363,shouan tang,2.67
+6364,6364,shrivastava shubh,1.0
+6365,6365,shusser,0.04
+6366,6366,simons,1.0
+6367,6367,simpson stephen,1.0
+6368,6368,simunovic suryan wirya,1.0
+6369,6369,singh vikram,1.0
+6370,6370,skarness susan,0.37
+6371,6371,skean,5.17
+6372,6372,sladana,4.0
+6373,6373,slandweh,1.0
+6374,6374,slboudreaux,1.0
+6375,6375,smara,0.16
+6376,6376,smith,0.1
+6377,6377,smith susan,2.0
+6378,6378,smith teresa,0.4
+6379,6379,smith will,0.3
+6380,6380,smith william,0.88
+6381,6381,smithmike,1.0
+6382,6382,sneal,1.0
+6383,6383,spence tricia,1.15
+6384,6384,spencer vosko,1.0
+6385,6385,spendegr,8.0
+6386,6386,spiller tina,0.45
+6387,6387,spraberry team,1.0
+6388,6388,sscott,4.0
+6389,6389,sspaldi,2.0
+6390,6390,sstojic,0.24
+6391,6391,st,2.0
+6392,6392,staab theresa,2.48
+6393,6393,stacey vallejo,0.38
+6394,6394,stacey w white,9.21
+6395,6395,stacey wales,1.0
+6396,6396,stacey white,0.4
+6397,6397,stacy walker,0.07
+6398,6398,staley stu,4.0
+6399,6399,staley stuart,0.21
+6400,6400,stanley,7.0
+6401,6401,stefan,4.0
+6402,6402,stepanie,1.0
+6403,6403,stephanie,0.27
+6404,6404,stephanie strong,0.42
+6405,6405,stephanie truss,0.31
+6406,6406,stephanie wade,1.0
+6407,6407,stephen,4.0
+6408,6408,stephen stock,0.59
+6409,6409,stephen swain,2.0
+6410,6410,stephen thome,2.18
+6411,6411,stephen veatch,0.17
+6412,6412,stephen wallace,1.0
+6413,6413,stephen wolfe,2.0
+6414,6414,steve,0.22
+6415,6415,steve stock,0.75
+6416,6416,steve swain,1.77
+6417,6417,steve szablya,1.0
+6418,6418,steve tarter,2.0
+6419,6419,steve thomas,1.0
+6420,6420,steve vavrik,2.0
+6421,6421,steve venturatos,0.65
+6422,6422,steve w young,1.22
+6423,6423,steve walton,1.05
+6424,6424,steve wang,0.65
+6425,6425,steve weller,0.26
+6426,6426,steve young,1.0
+6427,6427,steven,2.0
+6428,6428,steven vu,0.03
+6429,6429,stevenson yvette,3.0
+6430,6430,stewart willie,0.29
+6431,6431,stoiani valter,1.0
+6432,6432,strohmeyer vincent,0.13
+6433,6433,stuart,1.33
+6434,6434,stuart william,0.35
+6435,6435,stuart zisman,2.16
+6436,6436,stubblefield wade,0.47
+6437,6437,su,2.0
+6438,6438,sublette team,1.0
+6439,6439,sue vasan,0.1
+6440,6440,sue wadsworth,2.0
+6441,6441,suffield thomas,2.5
+6442,6442,sugarek velvet,6.0
+6443,6443,sunil vaze,0.29
+6444,6444,support tech,1.0
+6445,6445,susan,0.04
+6446,6446,susan trevino,2.0
+6447,6447,susan wadle,1.29
+6448,6448,susan weison,6.0
+6449,6449,susan wheeler,1.0
+6450,6450,susan wimberley,2.0
+6451,6451,susan wood,1.2
+6452,6452,susan worthen,1.0
+6453,6453,susie wilson,0.1
+6454,6454,suzanne,0.62
+6455,6455,suzanne vann,0.44
+6456,6456,swank tom,1.6
+6457,6457,sweet twanda,4.76
+6458,6458,sweitzer tara,0.39
+6459,6459,swtgurlntx,1.0
+6460,6460,sylvia thomas,1.0
+6461,6461,takei yumi,1.0
+6462,6462,tamarchenko tanya,0.89
+6463,6463,tambra,1.0
+6464,6464,tammi,1.0
+6465,6465,tara,2.0
+6466,6466,tate team,2.0
+6467,6467,taylor todd,1.0
+6468,6468,tblancha,2.0
+6469,6469,tbland,2.0
+6470,6470,tconl,1.0
+6471,6471,team tw,1.0
+6472,6472,ted,1.0
+6473,6473,teddy ward,2.0
+6474,6474,temple tommy,2.0
+6475,6475,tennant tina,1.0
+6476,6476,teresa wright,1.0
+6477,6477,teri whitcomb,0.24
+6478,6478,terri,1.0
+6479,6479,terrie wheeler,4.0
+6480,6480,terry west,0.21
+6481,6481,tgeacco,1.0
+6482,6482,thane twiggs,0.4
+6483,6483,theobald tyler,2.0
+6484,6484,theresa villeggiante,2.0
+6485,6485,theresa vos,0.25
+6486,6486,theresa zucha,0.14
+6487,6487,thomas thompson w,0.88
+6488,6488,thomas underwood,0.89
+6489,6489,thompson veronica,2.0
+6490,6490,thompson virginia,0.91
+6491,6491,tian yuan,0.21
+6492,6492,tiffany williams,0.11
+6493,6493,tim,0.88
+6494,6494,tim underdown,0.08
+6495,6495,tim weithman,2.0
+6496,6496,timothy,2.0
+6497,6497,timothy weil,1.0
+6498,6498,tina valadez,0.3
+6499,6499,tj,2.0
+6500,6500,tjbutler,2.0
+6501,6501,todd warwick,0.22
+6502,6502,tom,0.05
+6503,6503,tom victorio,2.0
+6504,6504,tom ward,0.81
+6505,6505,tom white,2.0
+6506,6506,tom wilbeck,0.16
+6507,6507,tomas valnek,0.11
+6508,6508,toni,2.0
+6509,6509,tony,0.71
+6510,6510,tony vasut,1.0
+6511,6511,tony yates,1.0
+6512,6512,torrey,2.0
+6513,6513,tracey tripp,0.06
+6514,6514,traci,3.0
+6515,6515,traci warner,0.18
+6516,6516,tracy wood,1.0
+6517,6517,tracy wright,1.0
+6518,6518,tracy.mclaughlin@enron.com,1.0
+6519,6519,travis,1.0
+6520,6520,travis williams,0.67
+6521,6521,travis winfrey,1.0
+6522,6522,trevor woods,0.17
+6523,6523,tricia truong,0.67
+6524,6524,triley,1.0
+6525,6525,trujillo vicsandra,1.0
+6526,6526,truong vu,0.1
+6527,6527,tstaggs,1.44
+6528,6528,turner,1.0
+6529,6529,twanda,0.15
+6530,6530,tzamouranis yannis,0.22
+6531,6531,united way,2.0
+6532,6532,v,0.67
+6533,6533,v weldon,3.25
+6534,6534,valdez veronica,0.23
+6535,6535,valerie vela,1.4
+6536,6536,vallejo vern,0.21
+6537,6537,van,0.65
+6538,6538,vcharles,1.0
+6539,6539,vel watkins,1.0
+6540,6540,venkataswami vishwanatha,6.0
+6541,6541,vernon,1.0
+6542,6542,versen victoria,0.98
+6543,6543,vhart@enron.com,1.0
+6544,6544,victoria wilbeck,0.03
+6545,6545,vince,1.0
+6546,6546,vincent zionette,0.8
+6547,6547,virawan yawapongsiri,0.08
+6548,6548,vkamins,0.07
+6549,6549,volume,0.17
+6550,6550,vpimenov,1.0
+6551,6551,vsharp,1.0
+6552,6552,wade,2.0
+6553,6553,walt,0.29
+6554,6554,walt williams,0.22
+6555,6555,wang yan,0.52
+6556,6556,wayne,4.0
+6557,6557,wbradfo,1.33
+6558,6558,webteam,2.0
+6559,6559,wei,1.0
+6560,6560,wei zhiyong,0.38
+6561,6561,wesner,0.64
+6562,6562,wgang,2.0
+6563,6563,whalley,1.0
+6564,6564,will zamer,2.0
+6565,6565,william,0.82
+6566,6566,wmsith,2.0
+6567,6567,woods,2.0
+6568,6568,wsmith,0.37
+6569,6569,www,1.0
+6570,6570,xi xi,2.0
+6571,6571,xochitl,1.0
+6572,6572,xtnd,2.0
+6573,6573,y,2.3
+6574,6574,yang zhiyun,0.87
+6575,6575,zimam,2.0
